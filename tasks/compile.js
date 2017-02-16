@@ -16,21 +16,22 @@ module.exports = function(grunt) {
   function compile(filename, options, done) {
     var data = {
       years: {
-        1990: {},
-        1995: {},
-        2000: {},
-        2005: {}
+        1990: {}
+        //1995: {},
+      //  2000: {},
+      //  2005: {}
       },
       migrations: {},
       regions: {}
     };
     var years = Object.keys(data.years);
     var headers = [];
-    
-    // sort order
-    var sortedRegions = ['North America', 'Africa', 'Europe', 'Fmr Soviet Union', 'West Asia', 'South Asia', 'East Asia', 'South-East Asia', 'Oceania', 'Latin America'];
 
-    // create object from headers out of row
+    // sort order
+    //var sortedRegions = ['North America', 'Africa', 'Europe', 'Fmr Soviet Union', 'West Asia', 'South Asia', 'East Asia', 'South-East Asia', 'Oceania', 'Latin America'];
+		var sortedRegions = ["Africa","Arabia","Britain","Cappadocia","Cilicia","Commagene","Crete","Cyprus","East","Eastern Europe","Egypt","France","Germany","Greece/Macedonia","Italy/Sicily","Mesopotamia","Nabataea","Palestine","Phoenicia","Spain","Syria","Turkey","West"];
+
+		// create object from headers out of row
     // TODO: get years from CSV
     function obj(row) {
       return row.reduce(function(memo, col, i) {
@@ -60,10 +61,14 @@ module.exports = function(grunt) {
         }
 
         // collect region-country mappings
+				//console.log(data.regions);
         data.regions[row.originregion_name] = data.regions[row.originregion_name] || [];
+
         if (data.regions[row.originregion_name].indexOf(row.origin_name) === -1) {
           data.regions[row.originregion_name].push(row.origin_name);
         }
+
+
 
         // collect migration data
         data.migrations[row.origin_name] = data.migrations[row.origin_name] || {};

@@ -45,7 +45,9 @@ return n?ua.touches(y,n)[0]:ua.mouse(y)}function f(){ua.event.keyCode==32&&(E||(
 
   // import "../arrays/range";
   // import "../math/trigonometry";
-  var π = Math.PI;
+  var π = Math.PI,
+      radians = π / 180,
+      degrees = 180 / π;
 
   scope.layout = function() {
     var chord = {},
@@ -61,7 +63,8 @@ return n?ua.touches(y,n)[0]:ua.mouse(y)}function f(){ua.event.keyCode==32&&(E||(
         threshold = null,
         sortGroups,
         sortSubgroups,
-        sortChords;
+        sortChords,
+        alpha;
 
     // get region from country index
     function region(index) {
@@ -136,7 +139,7 @@ return n?ua.touches(y,n)[0]:ua.mouse(y)}function f(){ua.event.keyCode==32&&(E||(
 
       // Compute the start and end angle for each group and subgroup.
       // Note: Opera has a bug reordering object literal properties!
-      x = 0, i = -1; while (++i < n) {
+      x = chord.alpha(), i = -1; while (++i < n) {
         var inflow = 0;
         var outflow = 0;
 
@@ -176,7 +179,7 @@ return n?ua.touches(y,n)[0]:ua.mouse(y)}function f(){ua.event.keyCode==32&&(E||(
           };
           outflow += v;
         }
-        
+
         groups[di] = {
           id: indices[di],
           region: region(indices[di]),
@@ -353,6 +356,22 @@ return n?ua.touches(y,n)[0]:ua.mouse(y)}function f(){ua.event.keyCode==32&&(E||(
       return groups;
     };
 
+    // start angle for first region (decimal degrees)
+    // (stored internally in radians)
+    chord.alpha = function(x) {
+      if (!arguments.length) return alpha * degrees;
+      alpha = (x === 0) ? 0.00001 : x; // small but not zero
+      alpha *= radians;
+      alpha = alpha.mod(2*π);
+      chords = groups = null;
+      return chord;
+    };
+
+    // proper modulus (works taking the sign of the divisor not of the dividend)
+    Number.prototype.mod = function (n) {
+            return ((this % n) + n) % n;
+    };
+
     return chord;
   };
 })(window.Globalmigration || (window.Globalmigration = {}));
@@ -432,9 +451,9 @@ return n?ua.touches(y,n)[0]:ua.mouse(y)}function f(){ua.event.keyCode==32&&(E||(
       cpt0 = [factor * Math.cos(t.a0), factor * Math.sin(t.a0)];
       cpt1 = [factor * Math.cos(t.a1), factor * Math.sin(t.a1)];
       return {
-        cps0: cps0, 
-        cps1: cps1, 
-        cpt0: cpt0, 
+        cps0: cps0,
+        cps1: cps1,
+        cpt0: cpt0,
         cpt1: cpt1
       };
     }
@@ -444,7 +463,7 @@ return n?ua.touches(y,n)[0]:ua.mouse(y)}function f(){ua.event.keyCode==32&&(E||(
           r = radius.call(self, subgroup, i),
           a0 = startAngle.call(self, subgroup, i) + d3_svg_arcOffset,
           a1 = endAngle.call(self, subgroup, i) + d3_svg_arcOffset;
-      
+
       if (target) {
         var d = targetPadding.call(self, subgroup, i) || 0;
         r = r - d;
@@ -544,11 +563,12 @@ return n?ua.touches(y,n)[0]:ua.mouse(y)}function f(){ua.event.keyCode==32&&(E||(
 // Timeline: year selector
 (function(scope) {
   scope.timeline = function(diagram, config) {
-    var years = Object.keys(diagram.data.matrix).map(function(y) { return parseInt(y); }); 
+    var years = Object.keys(diagram.data.matrix).map(function(y) { return parseInt(y); });
 
     config = config || {};
     config.element = config.element || 'body';
     config.now = config.now || years[0];
+    config.incr = config.incr || 5; // year span for buttons
 
     var form = d3.select(config.element).append('form');
 
@@ -575,7 +595,7 @@ return n?ua.touches(y,n)[0]:ua.mouse(y)}function f(){ua.event.keyCode==32&&(E||(
 
     span.append('label')
       .attr('for', function(d) { return 'year-' + d; })
-      .text(function(d) { return ""+d+"–" + (d+5); });
+      .text(function(d) { return ""+ d + (config.incr === 1 ? "" : "-" + (d + config.incr)); });
 
     // keyboard control
     d3.select(document.body).on('keypress', function() {
@@ -625,7 +645,7 @@ return n?ua.touches(y,n)[0]:ua.mouse(y)}function f(){ua.event.keyCode==32&&(E||(
     config.labelRadius = config.labelRadius || (config.outerRadius + config.labelPadding);
 
     // animation
-    var aLittleBit = Math.PI / 100000;
+    var aLittleBit = π / 100000;
     config.animationDuration = config.animationDuration || 1000;
     config.initialAngle = config.initialAngle || {};
     config.initialAngle.arc = config.initialAngle.arc || { startAngle: 0, endAngle: aLittleBit };
@@ -635,8 +655,9 @@ return n?ua.touches(y,n)[0]:ua.mouse(y)}function f(){ua.event.keyCode==32&&(E||(
     config.layout = config.layout || {};
     config.layout.sortSubgroups = config.layout.sortSubgroups || d3.descending;
     config.layout.sortChords = config.layout.sortChords || d3.descending;
-    config.layout.threshold = config.layout.threshold || 1000;
-    config.layout.labelThreshold = config.layout.labelThreshold || 100000;
+    config.layout.threshold = config.layout.threshold || 10;
+    config.layout.labelThreshold = config.layout.labelThreshold || 100;
+    config.layout.alpha = config.layout.alpha || aLittleBit; // start angle for first region (0, zero, is up North)
 
     config.maxRegionsOpen = config.maxRegionsOpen || 2;
     config.infoPopupDelay = config.infoPopupDelay || 300;
@@ -665,12 +686,17 @@ return n?ua.touches(y,n)[0]:ua.mouse(y)}function f(){ua.event.keyCode==32&&(E||(
       countries: []
     };
 
+    Number.prototype.mod = function (n) {
+            return ((this % n) + n) % n;
+    };
+
     // calculate label position
     function labelPosition(angle) {
+      var temp = angle.mod(2*π);
       return {
-        x: Math.cos(angle - π / 2) * config.labelRadius,
-        y: Math.sin(angle - π / 2) * config.labelRadius,
-        r: (angle - π / 2) * 180 / π
+        x: Math.cos(temp - π / 2) * config.labelRadius,
+        y: Math.sin(temp - π / 2) * config.labelRadius,
+        r: (temp - π / 2) * 180 / π
       };
     }
 
@@ -720,8 +746,11 @@ return n?ua.touches(y,n)[0]:ua.mouse(y)}function f(){ua.event.keyCode==32&&(E||(
     if (config.layout.sortSubgroups) {
       layout.sortSubgroups(config.layout.sortSubgroups);
     }
-    if (config.layout.sortChors) {
-      layout.sortChors(config.layout.sortChords);
+    if (config.layout.sortChords) {
+      layout.sortChords(config.layout.sortChords);
+    }
+    if (config.layout.alpha) {
+      layout.alpha(config.layout.alpha);
     }
 
     // chord path generator
@@ -744,7 +773,10 @@ return n?ua.touches(y,n)[0]:ua.mouse(y)}function f(){ua.event.keyCode==32&&(E||(
       var width = svg.node().parentNode.clientWidth;
 
       if (width) {
-        svg.attr('height', width);
+        // make height adapt to shrinking of page
+        if (width < config.width) {
+          svg.attr('height', width);
+        }
       }
     });
 
@@ -775,7 +807,7 @@ return n?ua.touches(y,n)[0]:ua.mouse(y)}function f(){ua.event.keyCode==32&&(E||(
       .append('g')
         .attr('class', 'info')
         .attr('opacity', 0);
-    
+
     info.append('rect')
       .style('filter', 'url(#dropshadow)');
     info.append('g').attr('class', 'text');
@@ -901,7 +933,7 @@ return n?ua.touches(y,n)[0]:ua.mouse(y)}function f(){ua.event.keyCode==32&&(E||(
     function rememberTheChords() {
       previous.chords = layout.chords().reduce(function(sum, d) {
         sum[d.source.id] = sum[d.source.id] || {};
-        sum[d.source.id][d.target.id] = d
+        sum[d.source.id][d.target.id] = d;
         return sum;
       }, {});
     }
@@ -924,7 +956,7 @@ return n?ua.touches(y,n)[0]:ua.mouse(y)}function f(){ua.event.keyCode==32&&(E||(
     }
 
     // Transition countries to region:
-    // Use first country's start angle and last countries end angle. 
+    // Use first country's start angle and last countries end angle.
     function meltPreviousGroupArc(d) {
       if (d.id !== d.region) {
         return;
@@ -952,7 +984,7 @@ return n?ua.touches(y,n)[0]:ua.mouse(y)}function f(){ua.event.keyCode==32&&(E||(
       if (d.source.id !== d.source.region) {
         return;
       }
-      
+
       var c = {
         source: {},
         target: {}
@@ -970,7 +1002,7 @@ return n?ua.touches(y,n)[0]:ua.mouse(y)}function f(){ua.event.keyCode==32&&(E||(
               c.source.endAngle = chord.source.endAngle;
             }
           }
-          
+
           if (chord.target.region === d.target.id) {
             if (!c.target.startAngle || chord.target.startAngle < c.target.startAngle) {
               c.target.startAngle = chord.target.startAngle;
@@ -981,7 +1013,7 @@ return n?ua.touches(y,n)[0]:ua.mouse(y)}function f(){ua.event.keyCode==32&&(E||(
           }
         });
       });
-      
+
       c.source.startAngle = c.source.startAngle || 0;
       c.source.endAngle = c.source.endAngle || aLittleBit;
       c.target.startAngle = c.target.startAngle || 0;
@@ -1022,7 +1054,7 @@ return n?ua.touches(y,n)[0]:ua.mouse(y)}function f(){ua.event.keyCode==32&&(E||(
           });
         });
       group.exit().remove();
-      
+
       // group arc
       var groupPath = group.selectAll('.group-arc')
         .data(function(d) { return [d]; });
@@ -1063,7 +1095,7 @@ return n?ua.touches(y,n)[0]:ua.mouse(y)}function f(){ua.event.keyCode==32&&(E||(
           draw(year, countries);
         });
 
-      
+
       // text label group
       var groupTextGroup = element.selectAll('.label')
         .data(layout.groups, function(d) { return d.id; });
@@ -1114,20 +1146,20 @@ return n?ua.touches(y,n)[0]:ua.mouse(y)}function f(){ua.event.keyCode==32&&(E||(
         .classed('region', function(d) {
           return d.id === d.region;
         })
-        .text(function(d) { 
+        .text(function(d) {
           if (d.id !== d.region) {
             return data.names[d.id];
-          } 
+          }
         })
         .attr('transform', function(d) {
           if (d.id !== d.region) {
-            return d.angle > Math.PI ? 'translate(0, -4) rotate(180)' : 'translate(0, 4)';
+            return d.angle.mod(2*π) > π ? 'translate(0, -4) rotate(180)' : 'translate(0, 4)';
           }
         })
         .attr('text-anchor', function(d) {
           return d.id === d.region ?
             'middle' :
-            (d.angle > Math.PI ? 'end' : 'start');
+            (d.angle.mod(2*π) > π ? 'end' : 'start');
         })
         .style('fill', function(d) {
           return d.id === d.region ? arcColor(d) : null;
@@ -1152,13 +1184,13 @@ return n?ua.touches(y,n)[0]:ua.mouse(y)}function f(){ua.event.keyCode==32&&(E||(
         .duration(config.animationDuration)
         .attrTween("d", function(d) {
           var i = d3.interpolate(previous.groups[d.id] || previous.groups[d.region] || meltPreviousGroupArc(d) || config.initialAngle.arc, d);
-          if (d.angle > Math.PI/2 && d.angle < Math.PI*3/2) {
+          if (d.angle.mod(2*π) > π/2 && d.angle.mod(2*π) < π*3/2) {
             return function (t) {
-              return textPathArc2(i(t)); 
+              return textPathArc2(i(t));
             };
           } else {
             return function (t) {
-              return textPathArc(i(t)); 
+              return textPathArc(i(t));
             };
           }
         });
@@ -1175,7 +1207,7 @@ return n?ua.touches(y,n)[0]:ua.mouse(y)}function f(){ua.event.keyCode==32&&(E||(
       groupTextPath
         .text(function(d) { return data.names[d.id]; })
         .attr('startOffset', function(d) {
-          if (d.angle > Math.PI/2 && d.angle < Math.PI*3/2) {
+          if (d.angle.mod(2*π) > π/2 && d.angle.mod(2*π) < π*3/2) {
             return '75%';
           } else {
             return '25%';
