@@ -4,3 +4,4 @@ tmp/
 .~lock*
 
 .DS_Store
+data/report.Rmd
