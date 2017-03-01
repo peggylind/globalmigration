@@ -16,10 +16,11 @@ module.exports = function(grunt) {
   function compile(filename, options, done) {
     var data = {
       years: {
-        1990: {}
-        //1995: {},
-      //  2000: {},
-      //  2005: {}
+        1990: {},
+        1995: {},
+        2000: {},
+        2005: {},
+				2010: {}
       },
       migrations: {},
       regions: {}

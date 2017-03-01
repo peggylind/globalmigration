@@ -6,3 +6,6 @@ tmp/
 .DS_Store
 data/report.Rmd
 data/Stem\ and\ Leaf.txt
+.RData
+.Rhistory
+Peggy Master List.xlsx

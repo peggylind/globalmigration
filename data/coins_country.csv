@@ -18,7 +18,7 @@ Aegium,Aegium,0
 AeliaCapitolina,Aelia Capitolina,0
 AeliaCapitolina?,Aelia Capitolina?,0
 Aenus,Aenus,0
-Aetolia,Aetolia,1
+Aetolia,Aetolia,0
 Aezanis(Phrygia),Aezanis (Phrygia),0
 AiKhanoum,Ai Khanoum,0
 Aigai(Aiolis),Aigai (Aiolis),0
@@ -165,7 +165,7 @@ CaesarAugusta(Zaragonza),Caesar Augusta (Zaragonza),0
 Caesarea,Caesarea,1
 CaesareaadLibanum,Caesarea ad Libanum,0
 CaesareaMaritima,Caesarea Maritima,1
-CaesareaMaritima?,Caesarea Maritima?,1
+CaesareaMaritima?,Caesarea Maritima?,0
 CaesareaPaneas(Philippi),Caesarea Paneas (Philippi),0
 CaesareaPaneas(Phillipi),Caesarea Paneas (Phillipi),0
 Caesarea?,Caesarea?,0
@@ -201,7 +201,7 @@ Chalkis(Euboia),Chalkis (Euboia),1
 Characene,Characene,0
 Characene(SpasinouCharax),Characene (Spasinou Charax),0
 Charax,Charax,0
-Chios,Chios,1
+Chios,Chios,0
 Chios(Ionia),Chios (Ionia),0
 Cibyra(Phrygia),Cibyra (Phrygia),0
 CilbianiInferiores,Cilbiani Inferiores,0
@@ -243,7 +243,7 @@ Cyme(aeolis),Cyme (aeolis),0
 Cyme(Aeolis),Cyme (Aeolis),0
 Cyme(Mysia),Cyme (Mysia),0
 Cyparissia,Cyparissia,0
-Cyrenaica,Cyrenaica,1
+Cyrenaica,Cyrenaica,0
 Cyrene,Cyrene,1
 Cyrene(Cyrenaica),Cyrene (Cyrenaica),0
 Cyrrhus,Cyrrhus,1
@@ -277,7 +277,7 @@ Ecbatana?,Ecbatana?,0
 Edessa,Edessa,1
 Egypt,Egypt,0
 Elaea(Aeolis),Elaea (Aeolis),0
-Elaia(Aeolis),Elaia (Aeolis),1
+Elaia(Aeolis),Elaia (Aeolis),0
 Elaia(Aiolis),Elaia (Aiolis),0
 Elaiussa,Elaiussa,0
 Elis,Elis,0
@@ -353,7 +353,7 @@ HieropolisKastabala,Hieropolis Kastabala,0
 Hieropolis-Castabala,Hieropolis-Castabala,0
 Histiaea,Histiaea,0
 Histiaea(Euboea),Histiaea (Euboea),0
-Histiaia(Euboia),Histiaia (Euboia),1
+Histiaia(Euboia),Histiaia (Euboia),0
 Histria,Histria,1
 Hypaepa,Hypaepa,0
 Hypaipa(Lydia),Hypaipa (Lydia),0
@@ -419,7 +419,7 @@ Lampsakos,Lampsakos,0
 Lampsakos(Mysia),Lampsakos (Mysia),0
 Lampsakos?,Lampsakos?,0
 Laodicea(Phrygia),Laodicea (Phrygia),0
-LaodiceaadMare,Laodicea ad Mare,1
+LaodiceaadMare,Laodicea ad Mare,0
 LaodiceaAdMare,Laodicea Ad Mare,1
 LaodiceaadMare?,Laodicea ad Mare?,0
 LaodiceaMare,Laodicea Mare,0
@@ -510,7 +510,7 @@ Mylasa,Mylasa,0
 Mylasa(Caria),Mylasa (Caria),0
 Myndos,Myndos,0
 Myra(Lycia),Myra (Lycia),0
-Myrina(Lemnos),Myrina (Lemnos),1
+Myrina(Lemnos),Myrina (Lemnos),0
 Myrtilis,Myrtilis,0
 Mytilene(Lesbos),Mytilene (Lesbos),0
 Myus,Myus,0
@@ -578,7 +578,7 @@ Parium,Parium,0
 Parium(Mysia),Parium (Mysia),0
 Paros,Paros,0
 Patara,Patara,0
-Patrae,Patrae,1
+Patrae,Patrae,0
 Patrai(Achaea),Patrai (Achaea),0
 Pautalia,Pautalia,0
 Pella,Pella,1
@@ -633,7 +633,7 @@ Prymnessus(Phrygia),Prymnessus (Phrygia),0
 Psophis?(Arcadia),Psophis? (Arcadia),0
 Ptolemaic,Ptolemaic,0
 Ptolemais,Ptolemais,0
-Ptolemais-Ake,Ptolemais-Ake,1
+Ptolemais-Ake,Ptolemais-Ake,0
 Ptolemais?,Ptolemais?,0
 Punic,Punic,0
 Pylus,Pylus,0
@@ -660,7 +660,7 @@ Saitta,Saitta,0
 Sala,Sala,0
 Salacia,Salacia,0
 Salamis,Salamis,1
-Salamis(Attica),Salamis (Attica),1
+Salamis(Attica),Salamis (Attica),0
 Salamis?,Salamis?,0
 Samaria,Samaria,1
 Samaria(Sebaste),Samaria (Sebaste),0
@@ -774,7 +774,7 @@ Tiberias,Tiberias,0
 Ticinium,Ticinium,0
 Ticinum,Ticinum,1
 Tmolus,Tmolus,0
-Tomis,Tomis,1
+Tomis,Tomis,0
 Traianopolis(Phrygia),Traianopolis (Phrygia),0
 Tralles,Tralles,0
 Tralles(Lydia),Tralles (Lydia),0
@@ -799,7 +799,7 @@ Ulia,Ulia,0
 Umbria,Umbria,0
 uncertain,uncertain,1
 uncertain(Epirus),uncertain (Epirus),0
-uncertain(Thessaly),uncertain (Thessaly),1
+uncertain(Thessaly),uncertain (Thessaly),0
 uncertain?,uncertain?,0
 Velia,Velia,0
 Viminacium,Viminacium,0
@@ -815,13 +815,13 @@ Andriake(Myra),Andriake (Myra),0
 Antioch/Seleucia,Antioch/Seleucia,1
 Arsameia,Arsameia,0
 Bath,Bath,1
-Bethsaida,Bethsaida,1
+Bethsaida,Bethsaida,0
 Cankirikapi,Cankirikapi,1
 Conimbriga,Conimbriga,1
 DuraEuropos,Dura Europos,1
 ElaiussaSebaste,Elaiussa Sebaste,0
 En-Gedi,En-Gedi,0
-Gindaros,Gindaros,1
+Gindaros,Gindaros,0
 Haltonchesters,Haltonchesters,1
 Hama,Hama,1
 Horvat'Eleq,Horvat 'Eleq,1
@@ -836,21 +836,21 @@ Niksar,Niksar,0
 Nimrud,Nimrud,0
 Ordona,Ordona,1
 OummEl'Marra,Oumm El'Marra,0
-Perrhe,Perrhe,1
+Perrhe,Perrhe,0
 QiryatSefer,Qiryat Sefer,1
 Raphanea,Raphanea,0
 RasShamra,Ras Shamra,0
 Saqqara,Saqqara,1
 Si(Hauran),Si (Hauran),1
 Silchester,Silchester,1
-TallSheHamad/Magdalu,Tall She Hamad/Magdalu,1
+TallSheHamad/Magdalu,Tall She Hamad/Magdalu,0
 TelAnafa,Tel Anafa,1
 TelBeth-Shean,Tel Beth-Shean,0
 TelJezreel,Tel Jezreel,0
 TellabouDanne,Tell abou Danne,1
 TellBarri,Tell Barri,0
 TellelHajj,Tell el Hajj,0
-TellRifa'at,Tell Rifa'at,1
+TellRifa'at,Tell Rifa'at,0
 Tille,Tille,0
 Troy,Troy,1
 YüceörenTepesi,Yüceören Tepesi,0
