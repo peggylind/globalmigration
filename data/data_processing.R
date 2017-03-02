@@ -49,17 +49,17 @@ first <- cut(raw_data$Fixed.Date.1, breaks=c(-350, -129, -31, 95, 192, 284, 450)
 second <- cut(raw_data$Fixed.Date.2, breaks=c(-350, -129, -31, 95, 192, 284, 450), include.lowest=TRUE, labels = labs)
 
 #create chronolocial grouping for visualization
-#-350 to -150: High Hellenistic
-#-150 to -64: Late Hellenistic
+#-350 to -64: Hellenistic
 #-64 to 193: High Roman
 #193 to 284: Late Roman
 #294 to 450: Late Antiquity
-labs <- c("High.Hellenistic", "Late.Hellenistic", "High.Roman",
+labs <- c("Hellenistic", "High.Roman",
           "Late.Roman", "Late.Antiquity")
-raw_data$period1 = cut(raw_data$Fixed.Date.1, breaks=c(-350, -150, -64, 193, 284, 540), 
-                      include.lowest=TRUE, labels = labs)
-raw_data$period2 = cut(raw_data$Fixed.Date.2, breaks=c(-350, -150, -64, 193, 284, 540), 
+raw_data$period1 = cut(raw_data$Fixed.Date.1, breaks=c(-350, -64, 193, 284, 540), 
                        include.lowest=TRUE, labels = labs)
+raw_data$period2 = cut(raw_data$Fixed.Date.2, breaks=c(-350, -64, 193, 284, 540), 
+                       include.lowest=TRUE, labels = labs)
+
 # take out rows where period1 or period2 are NA (will take out 1026 cases)
 raw_data <- raw_data[!is.na(raw_data$period1) & !is.na(raw_data$period2),]
 
@@ -99,8 +99,7 @@ sites.lookup$ISO <- gsub(" ", "", sites.lookup$Site, fixed = TRUE)
 sites_above_20 <- subset(counts_by_site, sites.counts >= 20)
 finds <- as.character(sites_above_20$Find.Site)
 sources <- as.character(sites_above_20$Source.Site)
-test <- c(finds, sources)
-uni <- unique(test)
+uni <- unique(c(finds, sources))
 sites.lookup$show <- ifelse(sites.lookup$Site %in% uni, 1,0)
 # create random show=yes/no variable for source and find site/country
 #sites.lookup$show <- sample(c(0,1), nrow(sites.lookup), TRUE)
@@ -134,18 +133,18 @@ flow$xxx <- ""
 
  # reorder columns
 flow <- flow[c("Source.Territory.ID", "Source.Territory", "Find.Territory.ID", "Find.Territory",
-         "High.Hellenistic.y", "Late.Hellenistic.y", "High.Roman.y", "Late.Roman.y", 
+         "Hellenistic.y", "High.Roman.y", "Late.Roman.y", 
          "Late.Antiquity.y", "xxx", "Source.Site.ISO", "Source.Site", "Find.Site.ISO", "Find.Site",
-         "High.Hellenistic.x", "Late.Hellenistic.x", "High.Roman.x", "Late.Roman.x", "Late.Antiquity.x")]
+         "Hellenistic.x", "High.Roman.x", "Late.Roman.x", "Late.Antiquity.x")]
 
 # rename columns
 flow <- dplyr::rename(flow, originregion_id=Source.Territory.ID, originregion_name=Source.Territory,
         destinationregion_id=Find.Territory.ID, destinationregion_name=Find.Territory,
-        regionflow_1990=High.Hellenistic.y, regionflow_1990=Late.Hellenistic.y, 
-        regionflow_2000=High.Roman.y, regionflow_2005=Late.Roman.y, regionflow_2010=Late.Antiquity.y, origin_iso=Source.Site.ISO,
+        regionflow_1990=Hellenistic.y,  
+        regionflow_2095=High.Roman.y, regionflow_2000=Late.Roman.y, regionflow_2005=Late.Antiquity.y, origin_iso=Source.Site.ISO,
         origin_name=Source.Site, destination_iso =Find.Site.ISO, destination_name=Find.Site, 
-        countryflow_1990=High.Hellenistic.x, countryflow_1995=Late.Hellenistic.x, 
-        countryflow_2000=High.Roman.x, countryflow_2005=Late.Roman.x, countryflow_2010=Late.Antiquity.x)
+        countryflow_1990=Hellenistic.x,  
+        countryflow_1995=High.Roman.x, countryflow_2000=Late.Roman.x, countryflow_2005=Late.Antiquity.x)
 
 # get show variables from sites lookup table
 flow$origin_show <- with(sites.lookup,

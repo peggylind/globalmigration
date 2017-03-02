@@ -19,8 +19,8 @@ module.exports = function(grunt) {
         1990: {},
         1995: {},
         2000: {},
-        2005: {},
-				2010: {}
+        2005: {}
+				//2010: {}
       },
       migrations: {},
       regions: {}

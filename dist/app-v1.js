@@ -595,11 +595,10 @@ return n?ua.touches(y,n)[0]:ua.mouse(y)}function f(){ua.event.keyCode==32&&(E||(
 
 			//labels for timeline
 			chronHash = {
-				1990: 'High Hellenistic',
-        1995: 'Late Hellenistic',
-        2000: 'High Roman',
-        2005: 'Late Roman',
-        2010: 'Late Antiquity'
+				1990: 'Hellenistic',
+        1995: 'High Roman',
+        2000: 'Late Roman',
+        2005: 'Late Antiquity'
 	   };
 
 
