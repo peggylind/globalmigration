@@ -1,5 +1,5 @@
 # set working directory to where the data is
-setwd("~/OneDrive - University Of Houston/Coins Migration")
+setwd("~/OneDrive - University Of Houston/Coins Migration/Dataprocessing")
 
 # load required libraries
 require(openxlsx)
@@ -31,6 +31,9 @@ raw_data$Find.Territory <- as.factor(raw_data$Find.Territory)
 raw_data$Source.Territory <- as.factor(raw_data$Source.Territory)
 raw_data$Source.City <- as.factor(raw_data$Source.City)
 
+#print out total number of coins before cleaning
+nrow(raw_data)
+
 #rename some columns
 names(raw_data)[4] <- "Find.Latitude"
 names(raw_data)[5] <- "Find.Longitude"
@@ -50,7 +53,7 @@ second <- cut(raw_data$Fixed.Date.2, breaks=c(-350, -129, -31, 95, 192, 284, 450
 
 #create chronolocial grouping for visualization
 #-350 to -64: Hellenistic
-#-64 to 193: High Roman
+#-65 to 192: High Roman
 #193 to 284: Late Roman
 #294 to 450: Late Antiquity
 labs <- c("Hellenistic", "High.Roman",
@@ -61,13 +64,18 @@ raw_data$period2 = cut(raw_data$Fixed.Date.2, breaks=c(-350, -64, 193, 284, 540)
                        include.lowest=TRUE, labels = labs)
 
 # take out rows where period1 or period2 are NA (will take out 1026 cases)
-raw_data <- raw_data[!is.na(raw_data$period1) & !is.na(raw_data$period2),]
+# raw_data <- raw_data[!is.na(raw_data$period1) & !is.na(raw_data$period2),]
+# take out rows where period2 are NA (will take out 22 cases)
+raw_data <- raw_data[!is.na(raw_data$period2),]
+
+#print out total number of coins after removing rows where Fixed.Data2 == NA
+nrow(raw_data)
 
 #take out rows where period1 and period2 are not matching (will take out 2548)
-raw_data <- raw_data[raw_data$period1 == raw_data$period2,]
+#raw_data <- raw_data[raw_data$period1 == raw_data$period2,]
 
-#create row for chronological period using for counting
-raw_data$period <- raw_data$period1
+#create column for chronological period using for counting
+raw_data$period <- raw_data$period2
 
 #counts by site using the Quantity column
 counts_by_site <- raw_data %>%
@@ -96,11 +104,11 @@ sites.lookup <- data.frame(Site = as.character(levels(sites)), stringsAsFactors 
 sites.lookup$ISO <- gsub(" ", "", sites.lookup$Site, fixed = TRUE)
 
 # create show from sites where flow counts from one site another are larger than 20
-sites_above_20 <- subset(counts_by_site, sites.counts >= 20)
+sites_above_20 <- subset(counts_by_site, sites.counts >= 0)
 finds <- as.character(sites_above_20$Find.Site)
 sources <- as.character(sites_above_20$Source.Site)
 uni <- unique(c(finds, sources))
-sites.lookup$show <- ifelse(sites.lookup$Site %in% uni, 1,0)
+#sites.lookup$show <- ifelse(sites.lookup$Site %in% uni, 1,0)
 # create random show=yes/no variable for source and find site/country
 #sites.lookup$show <- sample(c(0,1), nrow(sites.lookup), TRUE)
 #sites.lookup$show <- 1
