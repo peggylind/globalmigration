@@ -1,1 +1,1 @@
-"Africa","Arabia","Britain","Cappadocia","Cilicia","Commagene","Crete","Cyprus","East","Eastern Europe","Egypt","France","Germany","Greece/Macedonia","Italy/Sicily","Mesopotamia","Nabataea","Palestine","Phoenicia","Spain","Syria","Turkey","West"
+"Africa","Anatolia","Balkans","Cappadocia","Cilicia","Cyprus","East","Egypt","Italy/Sicily","Southern Levant","Syria","West"
