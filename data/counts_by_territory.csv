@@ -1,0 +1,302 @@
+period,Find.Territory,Source.Territory,territory.counts
+Hellenistic,Africa,Africa,611
+Hellenistic,Africa,Anatolia,2
+Hellenistic,Africa,Balkans,5
+Hellenistic,Africa,Italy/Sicily,94
+Hellenistic,Anatolia,Anatolia,856
+Hellenistic,Anatolia,Balkans,99
+Hellenistic,Anatolia,Cilicia,1
+Hellenistic,Anatolia,East,1
+Hellenistic,Anatolia,Egypt,8
+Hellenistic,Anatolia,Italy/Sicily,1
+Hellenistic,Anatolia,Syria,32
+Hellenistic,Balkans,Africa,8
+Hellenistic,Balkans,Anatolia,104
+Hellenistic,Balkans,Balkans,9581
+Hellenistic,Balkans,Cilicia,5
+Hellenistic,Balkans,Cyprus,2
+Hellenistic,Balkans,Egypt,43
+Hellenistic,Balkans,Italy/Sicily,17
+Hellenistic,Balkans,Southern Levant,1
+Hellenistic,Balkans,Syria,7
+Hellenistic,Balkans,West,1
+Hellenistic,Cilicia,Balkans,46
+Hellenistic,Cilicia,Cilicia,79
+Hellenistic,Cilicia,Cyprus,1
+Hellenistic,Cilicia,East,2
+Hellenistic,Cilicia,Syria,24
+Hellenistic,Cyprus,Anatolia,6
+Hellenistic,Cyprus,Balkans,4
+Hellenistic,Cyprus,Cilicia,3
+Hellenistic,Cyprus,Cyprus,690
+Hellenistic,Cyprus,Egypt,48
+Hellenistic,Cyprus,Southern Levant,4
+Hellenistic,Cyprus,Syria,20
+Hellenistic,East,Anatolia,7
+Hellenistic,East,Balkans,1
+Hellenistic,East,Cappadocia,2
+Hellenistic,East,Cilicia,5
+Hellenistic,East,Cyprus,1
+Hellenistic,East,East,2194
+Hellenistic,East,Southern Levant,35
+Hellenistic,East,Syria,1077
+Hellenistic,Egypt,Africa,4
+Hellenistic,Egypt,Anatolia,32
+Hellenistic,Egypt,Balkans,8
+Hellenistic,Egypt,Cilicia,1
+Hellenistic,Egypt,Cyprus,2
+Hellenistic,Egypt,Egypt,1028
+Hellenistic,Egypt,Italy/Sicily,1
+Hellenistic,Egypt,Southern Levant,1
+Hellenistic,Egypt,Syria,3
+Hellenistic,Italy/Sicily,Africa,2
+Hellenistic,Italy/Sicily,Balkans,2
+Hellenistic,Italy/Sicily,Egypt,1
+Hellenistic,Italy/Sicily,Italy/Sicily,161
+Hellenistic,Italy/Sicily,West,4
+Hellenistic,Southern Levant,Africa,1
+Hellenistic,Southern Levant,Anatolia,14
+Hellenistic,Southern Levant,Balkans,14
+Hellenistic,Southern Levant,Cyprus,6
+Hellenistic,Southern Levant,East,2
+Hellenistic,Southern Levant,Egypt,61
+Hellenistic,Southern Levant,Italy/Sicily,3
+Hellenistic,Southern Levant,Southern Levant,785
+Hellenistic,Southern Levant,Syria,498
+Hellenistic,Syria,Anatolia,24
+Hellenistic,Syria,Balkans,5
+Hellenistic,Syria,Cilicia,24
+Hellenistic,Syria,Cyprus,5
+Hellenistic,Syria,East,16
+Hellenistic,Syria,Egypt,55
+Hellenistic,Syria,Italy/Sicily,2
+Hellenistic,Syria,Southern Levant,2
+Hellenistic,Syria,Syria,1457
+Hellenistic,Syria,NA,24
+Hellenistic,West,Balkans,1
+Hellenistic,West,Italy/Sicily,31
+Hellenistic,West,West,28
+High.Roman,Africa,Africa,80
+High.Roman,Africa,Balkans,1
+High.Roman,Africa,Egypt,7
+High.Roman,Africa,Italy/Sicily,28
+High.Roman,Africa,Southern Levant,1
+High.Roman,Anatolia,Anatolia,805
+High.Roman,Anatolia,Balkans,3
+High.Roman,Anatolia,Cilicia,1
+High.Roman,Anatolia,Egypt,1
+High.Roman,Anatolia,Italy/Sicily,44
+High.Roman,Anatolia,Southern Levant,2
+High.Roman,Anatolia,Syria,4
+High.Roman,Anatolia,West,3
+High.Roman,Balkans,Africa,1
+High.Roman,Balkans,Anatolia,71
+High.Roman,Balkans,Balkans,7595
+High.Roman,Balkans,Cappadocia,1
+High.Roman,Balkans,Cilicia,2
+High.Roman,Balkans,Egypt,10
+High.Roman,Balkans,Italy/Sicily,403
+High.Roman,Balkans,Southern Levant,8
+High.Roman,Balkans,Syria,5
+High.Roman,Balkans,West,3
+High.Roman,Cilicia,Anatolia,2
+High.Roman,Cilicia,Cilicia,45
+High.Roman,Cilicia,Italy/Sicily,1
+High.Roman,Cilicia,Syria,3
+High.Roman,Cyprus,Anatolia,20
+High.Roman,Cyprus,Cyprus,274
+High.Roman,Cyprus,Egypt,8
+High.Roman,Cyprus,Italy/Sicily,30
+High.Roman,Cyprus,Southern Levant,47
+High.Roman,Cyprus,Syria,20
+High.Roman,East,Anatolia,12
+High.Roman,East,Balkans,4
+High.Roman,East,Cappadocia,76
+High.Roman,East,Cilicia,3
+High.Roman,East,East,1558
+High.Roman,East,Egypt,4
+High.Roman,East,Italy/Sicily,377
+High.Roman,East,Southern Levant,43
+High.Roman,East,Syria,783
+High.Roman,East,West,1
+High.Roman,Egypt,Cyprus,1
+High.Roman,Egypt,Egypt,1024
+High.Roman,Egypt,Italy/Sicily,3
+High.Roman,Egypt,Southern Levant,2
+High.Roman,Egypt,Syria,1
+High.Roman,Italy/Sicily,Anatolia,2
+High.Roman,Italy/Sicily,Balkans,2
+High.Roman,Italy/Sicily,Cappadocia,1
+High.Roman,Italy/Sicily,Egypt,1
+High.Roman,Italy/Sicily,Italy/Sicily,501
+High.Roman,Italy/Sicily,West,4
+High.Roman,Southern Levant,Anatolia,6
+High.Roman,Southern Levant,Cappadocia,1
+High.Roman,Southern Levant,Egypt,30
+High.Roman,Southern Levant,Italy/Sicily,23
+High.Roman,Southern Levant,Southern Levant,4824
+High.Roman,Southern Levant,Syria,250
+High.Roman,Syria,Anatolia,22
+High.Roman,Syria,Balkans,1
+High.Roman,Syria,Cappadocia,5
+High.Roman,Syria,Cilicia,3
+High.Roman,Syria,Cyprus,1
+High.Roman,Syria,East,6
+High.Roman,Syria,Egypt,15
+High.Roman,Syria,Italy/Sicily,102
+High.Roman,Syria,Southern Levant,83
+High.Roman,Syria,Syria,1514
+High.Roman,West,Cappadocia,1
+High.Roman,West,East,4
+High.Roman,West,Italy/Sicily,635
+High.Roman,West,Syria,24
+High.Roman,West,West,1104
+Late.Roman,Africa,Italy/Sicily,14
+Late.Roman,Africa,West,5
+Late.Roman,Anatolia,Anatolia,933
+Late.Roman,Anatolia,Balkans,43
+Late.Roman,Anatolia,Cappadocia,2
+Late.Roman,Anatolia,Cilicia,11
+Late.Roman,Anatolia,East,5
+Late.Roman,Anatolia,Egypt,1
+Late.Roman,Anatolia,Italy/Sicily,282
+Late.Roman,Anatolia,Syria,16
+Late.Roman,Anatolia,West,5
+Late.Roman,Balkans,Anatolia,140
+Late.Roman,Balkans,Balkans,1693
+Late.Roman,Balkans,Cilicia,1
+Late.Roman,Balkans,Cyprus,1
+Late.Roman,Balkans,East,1
+Late.Roman,Balkans,Egypt,1
+Late.Roman,Balkans,Italy/Sicily,632
+Late.Roman,Balkans,Syria,125
+Late.Roman,Balkans,West,40
+Late.Roman,Cilicia,Anatolia,7
+Late.Roman,Cilicia,Cappadocia,1
+Late.Roman,Cilicia,Cilicia,71
+Late.Roman,Cilicia,East,2
+Late.Roman,Cilicia,Syria,4
+Late.Roman,Cyprus,Anatolia,10
+Late.Roman,Cyprus,Balkans,1
+Late.Roman,Cyprus,Cilicia,2
+Late.Roman,Cyprus,Cyprus,58
+Late.Roman,Cyprus,East,1
+Late.Roman,Cyprus,Italy/Sicily,85
+Late.Roman,Cyprus,Syria,55
+Late.Roman,East,Anatolia,1306
+Late.Roman,East,Balkans,130
+Late.Roman,East,Cappadocia,10
+Late.Roman,East,Cilicia,8
+Late.Roman,East,Cyprus,17
+Late.Roman,East,East,5385
+Late.Roman,East,Egypt,1
+Late.Roman,East,Italy/Sicily,702
+Late.Roman,East,Southern Levant,44
+Late.Roman,East,Syria,4005
+Late.Roman,Egypt,Egypt,9480
+Late.Roman,Egypt,Italy/Sicily,1
+Late.Roman,Egypt,Syria,1
+Late.Roman,Egypt,West,1
+Late.Roman,Italy/Sicily,Anatolia,2
+Late.Roman,Italy/Sicily,Balkans,9
+Late.Roman,Italy/Sicily,Italy/Sicily,138
+Late.Roman,Italy/Sicily,Syria,1
+Late.Roman,Italy/Sicily,West,8
+Late.Roman,Southern Levant,Anatolia,5
+Late.Roman,Southern Levant,Balkans,8
+Late.Roman,Southern Levant,Cappadocia,1
+Late.Roman,Southern Levant,East,8
+Late.Roman,Southern Levant,Italy/Sicily,20
+Late.Roman,Southern Levant,Southern Levant,173
+Late.Roman,Southern Levant,Syria,126
+Late.Roman,Syria,Anatolia,51
+Late.Roman,Syria,Balkans,16
+Late.Roman,Syria,Cappadocia,9
+Late.Roman,Syria,Cilicia,15
+Late.Roman,Syria,Cyprus,1
+Late.Roman,Syria,East,166
+Late.Roman,Syria,Egypt,1
+Late.Roman,Syria,Italy/Sicily,81
+Late.Roman,Syria,Southern Levant,9
+Late.Roman,Syria,Syria,1673
+Late.Roman,West,Anatolia,4
+Late.Roman,West,Balkans,43
+Late.Roman,West,East,9
+Late.Roman,West,Italy/Sicily,1153
+Late.Roman,West,Syria,7
+Late.Roman,West,West,242
+Late.Antiquity,Africa,Anatolia,10
+Late.Antiquity,Africa,Balkans,5
+Late.Antiquity,Africa,Egypt,4
+Late.Antiquity,Africa,Italy/Sicily,32
+Late.Antiquity,Africa,Syria,2
+Late.Antiquity,Africa,West,3
+Late.Antiquity,Anatolia,Africa,2
+Late.Antiquity,Anatolia,Anatolia,2315
+Late.Antiquity,Anatolia,Balkans,132
+Late.Antiquity,Anatolia,East,79
+Late.Antiquity,Anatolia,Egypt,71
+Late.Antiquity,Anatolia,Italy/Sicily,104
+Late.Antiquity,Anatolia,Syria,257
+Late.Antiquity,Anatolia,West,30
+Late.Antiquity,Balkans,Africa,3
+Late.Antiquity,Balkans,Anatolia,4178
+Late.Antiquity,Balkans,Balkans,2025
+Late.Antiquity,Balkans,Egypt,122
+Late.Antiquity,Balkans,Italy/Sicily,312
+Late.Antiquity,Balkans,Syria,358
+Late.Antiquity,Balkans,West,78
+Late.Antiquity,Cilicia,Anatolia,35
+Late.Antiquity,Cilicia,Balkans,4
+Late.Antiquity,Cilicia,Egypt,5
+Late.Antiquity,Cilicia,Italy/Sicily,1
+Late.Antiquity,Cilicia,Syria,24
+Late.Antiquity,Cilicia,West,3
+Late.Antiquity,Cyprus,Anatolia,194
+Late.Antiquity,Cyprus,Balkans,20
+Late.Antiquity,Cyprus,Egypt,68
+Late.Antiquity,Cyprus,Italy/Sicily,29
+Late.Antiquity,Cyprus,Syria,150
+Late.Antiquity,Cyprus,West,4
+Late.Antiquity,East,Anatolia,1
+Late.Antiquity,East,East,1
+Late.Antiquity,East,Italy/Sicily,1
+Late.Antiquity,East,Syria,10
+Late.Antiquity,Egypt,Africa,3
+Late.Antiquity,Egypt,Anatolia,302
+Late.Antiquity,Egypt,Balkans,46
+Late.Antiquity,Egypt,Egypt,13611
+Late.Antiquity,Egypt,Italy/Sicily,56
+Late.Antiquity,Egypt,Syria,159
+Late.Antiquity,Egypt,West,32
+Late.Antiquity,Italy/Sicily,Africa,2
+Late.Antiquity,Italy/Sicily,Anatolia,25
+Late.Antiquity,Italy/Sicily,Balkans,16
+Late.Antiquity,Italy/Sicily,Egypt,18
+Late.Antiquity,Italy/Sicily,Italy/Sicily,120
+Late.Antiquity,Italy/Sicily,Syria,5
+Late.Antiquity,Italy/Sicily,West,16
+Late.Antiquity,Southern Levant,Africa,12
+Late.Antiquity,Southern Levant,Anatolia,299
+Late.Antiquity,Southern Levant,Balkans,65
+Late.Antiquity,Southern Levant,East,2
+Late.Antiquity,Southern Levant,Egypt,118
+Late.Antiquity,Southern Levant,Italy/Sicily,103
+Late.Antiquity,Southern Levant,Southern Levant,1
+Late.Antiquity,Southern Levant,Syria,354
+Late.Antiquity,Southern Levant,West,30
+Late.Antiquity,Syria,Anatolia,922
+Late.Antiquity,Syria,Balkans,113
+Late.Antiquity,Syria,Cilicia,2
+Late.Antiquity,Syria,East,2
+Late.Antiquity,Syria,Egypt,205
+Late.Antiquity,Syria,Italy/Sicily,148
+Late.Antiquity,Syria,Syria,2687
+Late.Antiquity,Syria,West,55
+Late.Antiquity,West,Africa,3
+Late.Antiquity,West,Anatolia,402
+Late.Antiquity,West,Balkans,130
+Late.Antiquity,West,Egypt,19
+Late.Antiquity,West,Italy/Sicily,606
+Late.Antiquity,West,Syria,66
+Late.Antiquity,West,West,2337

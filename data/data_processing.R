@@ -1,5 +1,5 @@
 # set working directory to where the data is
-setwd("~/OneDrive - University Of Houston/Coins Migration/Dataprocessing")
+setwd("~/OneDrive - University Of Houston/Digital Humanities/Coins Migration/Dataprocessing")
 
 # load required libraries
 require(openxlsx)
@@ -21,23 +21,56 @@ others <- read.xlsx(file, 6, rows=c(1:10488))
 #merge all sheets into data frame
 raw_data <- rbind(antioch,syria,mesopotamia,southofsyria,turkey,others)
 
+#print out total number of coins before cleaning
+nrow(raw_data)
+
 # clean up some data
 raw_data$Source.Territory <- trimws(raw_data$Source.Territory)
+
+#rename some columns
+names(raw_data)[4] <- "Find.Latitude"
+names(raw_data)[5] <- "Find.Longitude"
+names(raw_data)[7] <- "Source.Site"
+
+#rename regions for better grouping
+raw_data <- raw_data %>%
+  mutate(Source.Territory = replace(Source.Territory, Source.Territory == "Britain", "West")) %>%
+  mutate(Source.Territory = replace(Source.Territory, Source.Territory == "Spain", "West")) %>%
+  mutate(Source.Territory = replace(Source.Territory, Source.Territory == "France", "West")) %>%
+  mutate(Source.Territory = replace(Source.Territory, Source.Territory == "Germany", "West")) %>%
+  mutate(Source.Territory = replace(Source.Territory, Source.Territory == "Phoenicia", "Syria")) %>%
+  mutate(Source.Territory = replace(Source.Territory, Source.Territory == "Commagene", "Syria")) %>%
+  mutate(Source.Territory = replace(Source.Territory, Source.Territory == "Arabia", "Southern Levant")) %>%
+  mutate(Source.Territory = replace(Source.Territory, Source.Territory == "Nabataea", "Southern Levant")) %>%
+  mutate(Source.Territory = replace(Source.Territory, Source.Territory == "Palestine", "Southern Levant")) %>%
+  mutate(Source.Territory = replace(Source.Territory, Source.Territory == "Commagene", "Balkans")) %>%
+  mutate(Source.Territory = replace(Source.Territory, Source.Territory == "Eastern Europe", "Balkans")) %>%
+  mutate(Source.Territory = replace(Source.Territory, Source.Territory == "Greece/Macedonia", "Balkans")) %>%
+  mutate(Source.Territory = replace(Source.Territory, Source.Territory == "Crete", "Balkans")) %>%
+  mutate(Source.Territory = replace(Source.Territory, Source.Territory == "Mesopotamia", "East")) %>%
+  mutate(Source.Territory = replace(Source.Territory, Source.Territory == "Turkey", "Anatolia")) %>%
+  mutate(Find.Territory = replace(Find.Territory, Find.Territory == "Britain", "West")) %>%
+  mutate(Find.Territory = replace(Find.Territory, Find.Territory == "Spain", "West")) %>%
+  mutate(Find.Territory = replace(Find.Territory, Find.Territory == "France", "West")) %>%
+  mutate(Find.Territory = replace(Find.Territory, Find.Territory == "Germany", "West")) %>%
+  mutate(Find.Territory = replace(Find.Territory, Find.Territory == "Phoenicia", "Syria")) %>%
+  mutate(Find.Territory = replace(Find.Territory, Find.Territory == "Commagene", "Syria")) %>%
+  mutate(Find.Territory = replace(Find.Territory, Find.Territory == "Arabia", "Southern Levant")) %>%
+  mutate(Find.Territory = replace(Find.Territory, Find.Territory == "Nabataea", "Southern Levant")) %>%
+  mutate(Find.Territory = replace(Find.Territory, Find.Territory == "Palestine", "Southern Levant")) %>%
+  mutate(Find.Territory = replace(Find.Territory, Find.Territory == "Commagene", "Balkans")) %>%
+  mutate(Find.Territory = replace(Find.Territory, Find.Territory == "Eastern Europe", "Balkans")) %>%
+  mutate(Find.Territory = replace(Find.Territory, Find.Territory == "Greece/Macedonia", "Balkans")) %>%
+  mutate(Find.Territory = replace(Find.Territory, Find.Territory == "Crete", "Balkans")) %>%
+  mutate(Find.Territory = replace(Find.Territory, Find.Territory == "Mesopotamia", "East")) %>%
+  mutate(Find.Territory = replace(Find.Territory, Find.Territory == "Turkey", "Anatolia")) 
 
 #change variable types
 raw_data$Find.Type <- as.factor(raw_data$Find.Type)
 raw_data$Find.Site <- as.factor(raw_data$Find.Site)
 raw_data$Find.Territory <- as.factor(raw_data$Find.Territory)
 raw_data$Source.Territory <- as.factor(raw_data$Source.Territory)
-raw_data$Source.City <- as.factor(raw_data$Source.City)
-
-#print out total number of coins before cleaning
-nrow(raw_data)
-
-#rename some columns
-names(raw_data)[4] <- "Find.Latitude"
-names(raw_data)[5] <- "Find.Longitude"
-names(raw_data)[7] <- "Source.Site"
+raw_data$Source.Site <- as.factor(raw_data$Source.Site)
 
 #create chronolocial grouping based on grouping from book (not used right now)
 # -350 through -129 = High Hellenistic
@@ -46,10 +79,10 @@ names(raw_data)[7] <- "Source.Site"
 # 96 through 192 = High Roman
 # 193 through 283 = Severan and Crisis
 # 284 through 450 = Late Antiquity
-labs <- c("High.Hellenistic", "Hellenistic.to.Roman.period", "Early.Roman",
-      "High.Roman", "Severan.and.Crisis", "Late.Antiquity")
-first <- cut(raw_data$Fixed.Date.1, breaks=c(-350, -129, -31, 95, 192, 284, 450), include.lowest=TRUE, labels = labs)
-second <- cut(raw_data$Fixed.Date.2, breaks=c(-350, -129, -31, 95, 192, 284, 450), include.lowest=TRUE, labels = labs)
+#labs <- c("High.Hellenistic", "Hellenistic.to.Roman.period", "Early.Roman",
+#      "High.Roman", "Severan.and.Crisis", "Late.Antiquity")
+#first <- cut(raw_data$Fixed.Date.1, breaks=c(-350, -129, -31, 95, 192, 284, 450), include.lowest=TRUE, labels = labs)
+#second <- cut(raw_data$Fixed.Date.2, breaks=c(-350, -129, -31, 95, 192, 284, 450), include.lowest=TRUE, labels = labs)
 
 #create chronolocial grouping for visualization
 #-350 to -64: Hellenistic
@@ -77,15 +110,24 @@ nrow(raw_data)
 #create column for chronological period using for counting
 raw_data$period <- raw_data$period2
 
+
+
+
 #counts by site using the Quantity column
 counts_by_site <- raw_data %>%
   group_by(period, Find.Territory, Source.Territory,Find.Site, Source.Site) %>%
   summarise(sites.counts = sum(Quantity))
 
+#write out counts by site
+write.csv(counts_by_site, "counts_by_site.csv", row.names = F, quote = F)
+
 #counts by territory using the Quantity column
 counts_by_territory <- raw_data %>%
   group_by(period, Find.Territory, Source.Territory) %>%
   summarise(territory.counts = sum(Quantity))
+
+#write out counts by territory
+write.csv(counts_by_territory, "counts_by_territory.csv", row.names = F, quote = F)
 
 # get regions using unique territories
 regions <- unique(unlist(raw_data[,c("Source.Territory", "Find.Territory")]))
@@ -108,7 +150,7 @@ sites_above_20 <- subset(counts_by_site, sites.counts >= 0)
 finds <- as.character(sites_above_20$Find.Site)
 sources <- as.character(sites_above_20$Source.Site)
 uni <- unique(c(finds, sources))
-#sites.lookup$show <- ifelse(sites.lookup$Site %in% uni, 1,0)
+sites.lookup$show <- ifelse(sites.lookup$Site %in% uni, 1,0)
 # create random show=yes/no variable for source and find site/country
 #sites.lookup$show <- sample(c(0,1), nrow(sites.lookup), TRUE)
 #sites.lookup$show <- 1

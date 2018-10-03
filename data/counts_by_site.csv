@@ -1,0 +1,3023 @@
+period,Find.Territory,Source.Territory,Find.Site,Source.Site,sites.counts
+Hellenistic,Africa,Africa,Carthage,Carthage,3
+Hellenistic,Africa,Africa,Carthage,Cyrene,3
+Hellenistic,Africa,Africa,Cyrene,Cyrene,567
+Hellenistic,Africa,Africa,Cyrene,Euesperides,8
+Hellenistic,Africa,Africa,Sabratha,Carthage,11
+Hellenistic,Africa,Africa,Sabratha,Cyrene,1
+Hellenistic,Africa,Africa,Sabratha,Numidia,17
+Hellenistic,Africa,Africa,Sabratha,Zitha (Tripolitania),1
+Hellenistic,Africa,Anatolia,Cyrene,Rhodes,2
+Hellenistic,Africa,Balkans,Cyrene,Antigoneia,1
+Hellenistic,Africa,Balkans,Cyrene,Corcyra,3
+Hellenistic,Africa,Balkans,Sabratha,Leukas,1
+Hellenistic,Africa,Italy/Sicily,Sabratha,Brettii,1
+Hellenistic,Africa,Italy/Sicily,Sabratha,uncertain,93
+Hellenistic,Anatolia,Anatolia,Andriake (Myra),Alinda (Caria),1
+Hellenistic,Anatolia,Anatolia,Andriake (Myra),Aspendos,1
+Hellenistic,Anatolia,Anatolia,Andriake (Myra),Kos (Caria),1
+Hellenistic,Anatolia,Anatolia,Andriake (Myra),Rhodes,1
+Hellenistic,Anatolia,Anatolia,Aphrodisias,Abydus,1
+Hellenistic,Anatolia,Anatolia,Aphrodisias,Aphrodisias,58
+Hellenistic,Anatolia,Anatolia,Aphrodisias,Colophon,2
+Hellenistic,Anatolia,Anatolia,Aphrodisias,Lampascacus,2
+Hellenistic,Anatolia,Anatolia,Aphrodisias,Magnesia,1
+Hellenistic,Anatolia,Anatolia,Aphrodisias,Sardis (Lydia),10
+Hellenistic,Anatolia,Anatolia,Cankirikapi,Cyme (Aeolis),1
+Hellenistic,Anatolia,Anatolia,Cankirikapi,Lampsakos (Mysia),1
+Hellenistic,Anatolia,Anatolia,Cankirikapi,Sardis,2
+Hellenistic,Anatolia,Anatolia,Ephesus,Sardis,2
+Hellenistic,Anatolia,Anatolia,Hierapolis,Blaundus,1
+Hellenistic,Anatolia,Anatolia,Hierapolis,Chios (Ionia),1
+Hellenistic,Anatolia,Anatolia,Hierapolis,Ephesus,1
+Hellenistic,Anatolia,Anatolia,Hierapolis,Eumeneia,1
+Hellenistic,Anatolia,Anatolia,Hierapolis,Laodiceia,7
+Hellenistic,Anatolia,Anatolia,Hierapolis,Peltae,1
+Hellenistic,Anatolia,Anatolia,Hierapolis,Pergamum,1
+Hellenistic,Anatolia,Anatolia,Pergamon,Abydus (Troas),1
+Hellenistic,Anatolia,Anatolia,Pergamon,Aegae,1
+Hellenistic,Anatolia,Anatolia,Pergamon,Antandros,1
+Hellenistic,Anatolia,Anatolia,Pergamon,Atarneus,1
+Hellenistic,Anatolia,Anatolia,Pergamon,Chios,4
+Hellenistic,Anatolia,Anatolia,Pergamon,Cyme,3
+Hellenistic,Anatolia,Anatolia,Pergamon,Cyzicus,1
+Hellenistic,Anatolia,Anatolia,Pergamon,Elaia (Aeolis),2
+Hellenistic,Anatolia,Anatolia,Pergamon,Erythrae,2
+Hellenistic,Anatolia,Anatolia,Pergamon,Gambreion,5
+Hellenistic,Anatolia,Anatolia,Pergamon,Harpagion (Caria),1
+Hellenistic,Anatolia,Anatolia,Pergamon,Ilium,1
+Hellenistic,Anatolia,Anatolia,Pergamon,Iolla (Mysia),1
+Hellenistic,Anatolia,Anatolia,Pergamon,Lebedos,1
+Hellenistic,Anatolia,Anatolia,Pergamon,Mytilene (Lesbos),1
+Hellenistic,Anatolia,Anatolia,Pergamon,Nacrasa,3
+Hellenistic,Anatolia,Anatolia,Pergamon,Pergamon,285
+Hellenistic,Anatolia,Anatolia,Pergamon,Pitane,1
+Hellenistic,Anatolia,Anatolia,Pergamon,Plakia (Mysia),1
+Hellenistic,Anatolia,Anatolia,Pergamon,Smyrna,2
+Hellenistic,Anatolia,Anatolia,Pergamon,Temnos (Aeolis),1
+Hellenistic,Anatolia,Anatolia,Sagalassos,Selge,1
+Hellenistic,Anatolia,Anatolia,Sagalassos,Side,1
+Hellenistic,Anatolia,Anatolia,Sardis,Adramyteum (Mysia),1
+Hellenistic,Anatolia,Anatolia,Sardis,Aegae (Aeolis),1
+Hellenistic,Anatolia,Anatolia,Sardis,Alexandria (Troas),2
+Hellenistic,Anatolia,Anatolia,Sardis,Clazomenae (Ionia),1
+Hellenistic,Anatolia,Anatolia,Sardis,Colophon (Ionia),6
+Hellenistic,Anatolia,Anatolia,Sardis,Cyme (Aeolis),3
+Hellenistic,Anatolia,Anatolia,Sardis,Ephesus,23
+Hellenistic,Anatolia,Anatolia,Sardis,Erythrae,1
+Hellenistic,Anatolia,Anatolia,Sardis,Halicarnassus,1
+Hellenistic,Anatolia,Anatolia,Sardis,Illium (Troas),1
+Hellenistic,Anatolia,Anatolia,Sardis,Lampsacus (Mysia),1
+Hellenistic,Anatolia,Anatolia,Sardis,Magnesia ad Maeandrum,1
+Hellenistic,Anatolia,Anatolia,Sardis,Magnesia ad Sipylum,3
+Hellenistic,Anatolia,Anatolia,Sardis,Miletus,1
+Hellenistic,Anatolia,Anatolia,Sardis,Mytilene (Lesbos),1
+Hellenistic,Anatolia,Anatolia,Sardis,Myus,1
+Hellenistic,Anatolia,Anatolia,Sardis,Neonteichos? (Aeolis),1
+Hellenistic,Anatolia,Anatolia,Sardis,Pergamum,94
+Hellenistic,Anatolia,Anatolia,Sardis,Phocaea,2
+Hellenistic,Anatolia,Anatolia,Sardis,Priene?,1
+Hellenistic,Anatolia,Anatolia,Sardis,Rhodes,1
+Hellenistic,Anatolia,Anatolia,Sardis,Sardis,52
+Hellenistic,Anatolia,Anatolia,Sardis,Smyrna,4
+Hellenistic,Anatolia,Anatolia,Side,Aspendos (Pamphylia),3
+Hellenistic,Anatolia,Anatolia,Side,Calchedon (Bithynia),1
+Hellenistic,Anatolia,Anatolia,Side,Colophon,1
+Hellenistic,Anatolia,Anatolia,Side,Lampsacus,3
+Hellenistic,Anatolia,Anatolia,Side,Milet (Ionia),1
+Hellenistic,Anatolia,Anatolia,Side,Perge (Pamphylia),2
+Hellenistic,Anatolia,Anatolia,Side,Pontus,1
+Hellenistic,Anatolia,Anatolia,Side,Rhodes (Caria),2
+Hellenistic,Anatolia,Anatolia,Side,Selge (Pisidia),1
+Hellenistic,Anatolia,Anatolia,Side,Side,57
+Hellenistic,Anatolia,Anatolia,Side,Termessos (Pisidia),1
+Hellenistic,Anatolia,Anatolia,Troy,Abydus,4
+Hellenistic,Anatolia,Anatolia,Troy,Achaeum,1
+Hellenistic,Anatolia,Anatolia,Troy,Alexandria Troas,17
+Hellenistic,Anatolia,Anatolia,Troy,Antandrus,3
+Hellenistic,Anatolia,Anatolia,Troy,Birytus,4
+Hellenistic,Anatolia,Anatolia,Troy,Clazomenae (Ionia),1
+Hellenistic,Anatolia,Anatolia,Troy,Cyzicus,1
+Hellenistic,Anatolia,Anatolia,Troy,Dardanus,8
+Hellenistic,Anatolia,Anatolia,Troy,Eresus (Lesbos),1
+Hellenistic,Anatolia,Anatolia,Troy,Gargara,2
+Hellenistic,Anatolia,Anatolia,Troy,Gergis,8
+Hellenistic,Anatolia,Anatolia,Troy,Ilium,85
+Hellenistic,Anatolia,Anatolia,Troy,Lampsacus,5
+Hellenistic,Anatolia,Anatolia,Troy,Methymna (Lesbos),2
+Hellenistic,Anatolia,Anatolia,Troy,Mytilene (Lesbos),1
+Hellenistic,Anatolia,Anatolia,Troy,Parium,1
+Hellenistic,Anatolia,Anatolia,Troy,Rhodes,2
+Hellenistic,Anatolia,Anatolia,Troy,Scamandria,1
+Hellenistic,Anatolia,Anatolia,Troy,Scepsis,3
+Hellenistic,Anatolia,Anatolia,Troy,Sigeum,11
+Hellenistic,Anatolia,Anatolia,Troy,Smyrna (Ionia),1
+Hellenistic,Anatolia,Balkans,Aphrodisias,uncertain,1
+Hellenistic,Anatolia,Balkans,Hierapolis,Athens,1
+Hellenistic,Anatolia,Balkans,Hierapolis,uncertain,1
+Hellenistic,Anatolia,Balkans,Pergamon,Maronea,1
+Hellenistic,Anatolia,Balkans,Pergamon,Myrina (Lemnos),6
+Hellenistic,Anatolia,Balkans,Sardis,uncertain,77
+Hellenistic,Anatolia,Balkans,Troy,Aenus,1
+Hellenistic,Anatolia,Balkans,Troy,Amphipolis,3
+Hellenistic,Anatolia,Balkans,Troy,Dyrrhacium,1
+Hellenistic,Anatolia,Balkans,Troy,Hephaestia (Lemnos),1
+Hellenistic,Anatolia,Balkans,Troy,Maronea,3
+Hellenistic,Anatolia,Balkans,Troy,SamoEastern Europe,1
+Hellenistic,Anatolia,Balkans,Troy,Thasos,1
+Hellenistic,Anatolia,Balkans,Troy,Thessalonica,1
+Hellenistic,Anatolia,Cilicia,Side,Tarsus,1
+Hellenistic,Anatolia,East,Troy,Seleucia Tigris,1
+Hellenistic,Anatolia,Egypt,Aphrodisias,Alexandria,1
+Hellenistic,Anatolia,Egypt,Pergamon,Alexandria,1
+Hellenistic,Anatolia,Egypt,Sardis,uncertain,1
+Hellenistic,Anatolia,Egypt,Side,Egypt,5
+Hellenistic,Anatolia,Italy/Sicily,Troy,Rome,1
+Hellenistic,Anatolia,Syria,Aphrodisias,Tyre,1
+Hellenistic,Anatolia,Syria,Cankirikapi,Antioch,2
+Hellenistic,Anatolia,Syria,Ephesus,Antioch,1
+Hellenistic,Anatolia,Syria,Hierapolis,uncertain,1
+Hellenistic,Anatolia,Syria,Pergamon,Antioch,2
+Hellenistic,Anatolia,Syria,Sardis,Antioch,6
+Hellenistic,Anatolia,Syria,Sardis,Antioch?,14
+Hellenistic,Anatolia,Syria,Sardis,Apamea,3
+Hellenistic,Anatolia,Syria,Sardis,Aradus,1
+Hellenistic,Anatolia,Syria,Troy,Antioch,1
+Hellenistic,Balkans,Africa,Athens,Cyrenaica,5
+Hellenistic,Balkans,Africa,Athens,Cyrene (Cyrenaica),2
+Hellenistic,Balkans,Africa,Corinth,Carthage,1
+Hellenistic,Balkans,Anatolia,Athens,Atarneus (mysia),1
+Hellenistic,Balkans,Anatolia,Athens,Autokane (Aiolis),1
+Hellenistic,Balkans,Anatolia,Athens,Bithynia,2
+Hellenistic,Balkans,Anatolia,Athens,Byzantion,2
+Hellenistic,Balkans,Anatolia,Athens,Caria?,1
+Hellenistic,Balkans,Anatolia,Athens,Chios,15
+Hellenistic,Balkans,Anatolia,Athens,Ephesus,2
+Hellenistic,Balkans,Anatolia,Athens,Ephesus (Ionia),2
+Hellenistic,Balkans,Anatolia,Athens,Erythrai (Ionia),4
+Hellenistic,Balkans,Anatolia,Athens,Klazomenai (Ionia),3
+Hellenistic,Balkans,Anatolia,Athens,Knidos (Karia),4
+Hellenistic,Balkans,Anatolia,Athens,Kos,4
+Hellenistic,Balkans,Anatolia,Athens,Kyme (Aeolis),4
+Hellenistic,Balkans,Anatolia,Athens,Kyzikos (Mysia),1
+Hellenistic,Balkans,Anatolia,Athens,Lampsakos,1
+Hellenistic,Balkans,Anatolia,Athens,Laodikeia (Phrygia),1
+Hellenistic,Balkans,Anatolia,Athens,Magnesia on the Maiandros,3
+Hellenistic,Balkans,Anatolia,Athens,Methymna (Lesbos),1
+Hellenistic,Balkans,Anatolia,Athens,Miletos,4
+Hellenistic,Balkans,Anatolia,Athens,Mytilene (Lesbos),2
+Hellenistic,Balkans,Anatolia,Athens,Neandria (Troas),2
+Hellenistic,Balkans,Anatolia,Athens,Pergamon,6
+Hellenistic,Balkans,Anatolia,Athens,Perge (Pamphylia),1
+Hellenistic,Balkans,Anatolia,Athens,Phokaia,1
+Hellenistic,Balkans,Anatolia,Athens,Pitane,1
+Hellenistic,Balkans,Anatolia,Athens,Rhodes,13
+Hellenistic,Balkans,Anatolia,Athens,Sardis,6
+Hellenistic,Balkans,Anatolia,Athens,Side (Pamphylia),4
+Hellenistic,Balkans,Anatolia,Athens,Skepsis (Troas),1
+Hellenistic,Balkans,Anatolia,Athens,Smyrna,4
+Hellenistic,Balkans,Anatolia,Athens,Tenedos (Troas),1
+Hellenistic,Balkans,Anatolia,Athens,uncertain,1
+Hellenistic,Balkans,Anatolia,Corinth,Chios,2
+Hellenistic,Balkans,Anatolia,Corinth,Elaea (Aeolis),1
+Hellenistic,Balkans,Anatolia,Corinth,Erythrae,1
+Hellenistic,Balkans,Anatolia,Corinth,Rhodes,1
+Hellenistic,Balkans,Balkans,Athens,Abdera,1
+Hellenistic,Balkans,Balkans,Athens,Achaea,9
+Hellenistic,Balkans,Balkans,Athens,Aetolia,20
+Hellenistic,Balkans,Balkans,Athens,Aigina,17
+Hellenistic,Balkans,Balkans,Athens,Ainianes (Thessaly),2
+Hellenistic,Balkans,Balkans,Athens,Akanthos,1
+Hellenistic,Balkans,Balkans,Athens,Andros,10
+Hellenistic,Balkans,Balkans,Athens,Aphytis,1
+Hellenistic,Balkans,Balkans,Athens,Apollonia Pontica,1
+Hellenistic,Balkans,Balkans,Athens,Aptera,1
+Hellenistic,Balkans,Balkans,Athens,Argos (Argolis),11
+Hellenistic,Balkans,Balkans,Athens,Arkadia,3
+Hellenistic,Balkans,Balkans,Athens,Arsinoe,1
+Hellenistic,Balkans,Balkans,Athens,Athens,7582
+Hellenistic,Balkans,Balkans,Athens,Atrax (Thessaly),1
+Hellenistic,Balkans,Balkans,Athens,Boetia,175
+Hellenistic,Balkans,Balkans,Athens,Bottiaia,1
+Hellenistic,Balkans,Balkans,Athens,Chalkis (Euboia),78
+Hellenistic,Balkans,Balkans,Athens,Corinth (Corinthia),58
+Hellenistic,Balkans,Balkans,Athens,Delos,16
+Hellenistic,Balkans,Balkans,Athens,Elis,9
+Hellenistic,Balkans,Balkans,Athens,Epidauros,10
+Hellenistic,Balkans,Balkans,Athens,Eretria (Euboia),4
+Hellenistic,Balkans,Balkans,Athens,Euboia,36
+Hellenistic,Balkans,Balkans,Athens,Gomphoi (Thessaly),1
+Hellenistic,Balkans,Balkans,Athens,Gyrton (Thessaly),4
+Hellenistic,Balkans,Balkans,Athens,Halos (Thessaly),1
+Hellenistic,Balkans,Balkans,Athens,Hephaistia (Lemnos),7
+Hellenistic,Balkans,Balkans,Athens,Heraia (Arkadia),2
+Hellenistic,Balkans,Balkans,Athens,Hermione,5
+Hellenistic,Balkans,Balkans,Athens,Histiaia (Euboia),31
+Hellenistic,Balkans,Balkans,Athens,Imbros,3
+Hellenistic,Balkans,Balkans,Athens,Ioulis,3
+Hellenistic,Balkans,Balkans,Athens,Karthaia,4
+Hellenistic,Balkans,Balkans,Athens,Keos,8
+Hellenistic,Balkans,Balkans,Athens,Kleitor (Arkadia),1
+Hellenistic,Balkans,Balkans,Athens,Kleonai,2
+Hellenistic,Balkans,Balkans,Athens,Knossos,1
+Hellenistic,Balkans,Balkans,Athens,Koressia,3
+Hellenistic,Balkans,Balkans,Athens,Korkyra (Epirus),5
+Hellenistic,Balkans,Balkans,Athens,Kranion (Kephallenia),3
+Hellenistic,Balkans,Balkans,Athens,Krannon (Thessaly),2
+Hellenistic,Balkans,Balkans,Athens,Kythera,1
+Hellenistic,Balkans,Balkans,Athens,Lakedaimon (Laconia),2
+Hellenistic,Balkans,Balkans,Athens,Lamia (Thessaly),2
+Hellenistic,Balkans,Balkans,Athens,Larissa (Thessaly),5
+Hellenistic,Balkans,Balkans,Athens,Larissa Kremaste (Thessaly),1
+Hellenistic,Balkans,Balkans,Athens,Leukas (Akarnania),2
+Hellenistic,Balkans,Balkans,Athens,Lokris,35
+Hellenistic,Balkans,Balkans,Athens,Magnetes (Thessaly),7
+Hellenistic,Balkans,Balkans,Athens,Mantineia (Arkadia),3
+Hellenistic,Balkans,Balkans,Athens,Maroneia,3
+Hellenistic,Balkans,Balkans,Athens,Medon (Akarnania),1
+Hellenistic,Balkans,Balkans,Athens,Megalopolis,1
+Hellenistic,Balkans,Balkans,Athens,Megara (Megaris),312
+Hellenistic,Balkans,Balkans,Athens,Mesembria,3
+Hellenistic,Balkans,Balkans,Athens,Messene (Messenia),7
+Hellenistic,Balkans,Balkans,Athens,Myrina (Lemnos),82
+Hellenistic,Balkans,Balkans,Athens,Olbia,1
+Hellenistic,Balkans,Balkans,Athens,Olynthos,1
+Hellenistic,Balkans,Balkans,Athens,Orchomenos,1
+Hellenistic,Balkans,Balkans,Athens,Ouranopolis,2
+Hellenistic,Balkans,Balkans,Athens,Pantikapaion ,5
+Hellenistic,Balkans,Balkans,Athens,Paros,2
+Hellenistic,Balkans,Balkans,Athens,Pella,1
+Hellenistic,Balkans,Balkans,Athens,Pellene (Achaea),6
+Hellenistic,Balkans,Balkans,Athens,Peparethos (Thessaly),1
+Hellenistic,Balkans,Balkans,Athens,Perinthos,1
+Hellenistic,Balkans,Balkans,Athens,Phalanna (Thessaly),4
+Hellenistic,Balkans,Balkans,Athens,Pharsalos (Thessaly),5
+Hellenistic,Balkans,Balkans,Athens,Pheneos,1
+Hellenistic,Balkans,Balkans,Athens,Philious (Philiasia),6
+Hellenistic,Balkans,Balkans,Athens,Philippoi,1
+Hellenistic,Balkans,Balkans,Athens,Phokis,24
+Hellenistic,Balkans,Balkans,Athens,Salamis (Attica),99
+Hellenistic,Balkans,Balkans,Athens,Sestos (Chersonese),2
+Hellenistic,Balkans,Balkans,Athens,Sikyon (Sikyonia),68
+Hellenistic,Balkans,Balkans,Athens,Skione,1
+Hellenistic,Balkans,Balkans,Athens,Tegea,9
+Hellenistic,Balkans,Balkans,Athens,Tenos,7
+Hellenistic,Balkans,Balkans,Athens,Thasos,3
+Hellenistic,Balkans,Balkans,Athens,Thebes (Boetia),9
+Hellenistic,Balkans,Balkans,Athens,Thespiai (Boetia),10
+Hellenistic,Balkans,Balkans,Athens,Thessalonica,3
+Hellenistic,Balkans,Balkans,Athens,Thouria,1
+Hellenistic,Balkans,Balkans,Athens,Thyrrheion (Akarnania),1
+Hellenistic,Balkans,Balkans,Athens,Troizen,1
+Hellenistic,Balkans,Balkans,Athens,uncertain,4
+Hellenistic,Balkans,Balkans,Athens,uncertain (Epirus),3
+Hellenistic,Balkans,Balkans,Athens,Zakynthos,2
+Hellenistic,Balkans,Balkans,Corinth,Alyzia,1
+Hellenistic,Balkans,Balkans,Corinth,Andros,1
+Hellenistic,Balkans,Balkans,Corinth,Argos (Argolis),13
+Hellenistic,Balkans,Balkans,Corinth,Athens,11
+Hellenistic,Balkans,Balkans,Corinth,Boeotia,6
+Hellenistic,Balkans,Balkans,Corinth,Chalcis,8
+Hellenistic,Balkans,Balkans,Corinth,Cleonae,2
+Hellenistic,Balkans,Balkans,Corinth,Corinth,306
+Hellenistic,Balkans,Balkans,Corinth,Elis,4
+Hellenistic,Balkans,Balkans,Corinth,Epidaurus,2
+Hellenistic,Balkans,Balkans,Corinth,Epirus,2
+Hellenistic,Balkans,Balkans,Corinth,Eretria,1
+Hellenistic,Balkans,Balkans,Corinth,Hermione,1
+Hellenistic,Balkans,Balkans,Corinth,Histiaea,1
+Hellenistic,Balkans,Balkans,Corinth,Leucas,1
+Hellenistic,Balkans,Balkans,Corinth,Locri Opuntii,4
+Hellenistic,Balkans,Balkans,Corinth,Mantineae,1
+Hellenistic,Balkans,Balkans,Corinth,Megara,6
+Hellenistic,Balkans,Balkans,Corinth,Messene,2
+Hellenistic,Balkans,Balkans,Corinth,Naxos,1
+Hellenistic,Balkans,Balkans,Corinth,Oeniadae,1
+Hellenistic,Balkans,Balkans,Corinth,Orchomenus,1
+Hellenistic,Balkans,Balkans,Corinth,Pallantium,1
+Hellenistic,Balkans,Balkans,Corinth,Paros,1
+Hellenistic,Balkans,Balkans,Corinth,Philus,2
+Hellenistic,Balkans,Balkans,Corinth,Phlius,1
+Hellenistic,Balkans,Balkans,Corinth,Sicyon,104
+Hellenistic,Balkans,Balkans,Corinth,Thebes,1
+Hellenistic,Balkans,Balkans,Corinth,uncertain,34
+Hellenistic,Balkans,Balkans,Corinth,Zacynthus,1
+Hellenistic,Balkans,Balkans,Histria,uncertain,174
+Hellenistic,Balkans,Cilicia,Athens,Seleucia on the Kalykadnos,1
+Hellenistic,Balkans,Cilicia,Athens,Soloi-Pompeiopolis,2
+Hellenistic,Balkans,Cilicia,Athens,Tarsus,2
+Hellenistic,Balkans,Cyprus,Athens,uncertain,2
+Hellenistic,Balkans,Egypt,Athens,uncertain,27
+Hellenistic,Balkans,Egypt,Corinth,uncertain,16
+Hellenistic,Balkans,Italy/Sicily,Athens,Brundisium,1
+Hellenistic,Balkans,Italy/Sicily,Athens,Kroton,1
+Hellenistic,Balkans,Italy/Sicily,Athens,Mamertinoi,2
+Hellenistic,Balkans,Italy/Sicily,Athens,Punic,3
+Hellenistic,Balkans,Italy/Sicily,Athens,Rhegion,1
+Hellenistic,Balkans,Italy/Sicily,Athens,Rome,1
+Hellenistic,Balkans,Italy/Sicily,Athens,Syracuse,1
+Hellenistic,Balkans,Italy/Sicily,Athens,uncertain,2
+Hellenistic,Balkans,Italy/Sicily,Corinth,Bruttium,1
+Hellenistic,Balkans,Italy/Sicily,Corinth,Rome?,4
+Hellenistic,Balkans,Southern Levant,Athens,uncertain,1
+Hellenistic,Balkans,Syria,Athens,Antioch,5
+Hellenistic,Balkans,Syria,Athens,Berytos,1
+Hellenistic,Balkans,Syria,Athens,uncertain,1
+Hellenistic,Balkans,West,Athens,uncertain,1
+Hellenistic,Cilicia,Balkans,Elaiussa Sebaste,uncertain,2
+Hellenistic,Cilicia,Balkans,Tarsus,uncertain,44
+Hellenistic,Cilicia,Cilicia,Tarsus,Soli,3
+Hellenistic,Cilicia,Cilicia,Tarsus,Tarsus,73
+Hellenistic,Cilicia,Cilicia,Yüceören Tepesi,Aegeae,2
+Hellenistic,Cilicia,Cilicia,Yüceören Tepesi,Tarsus,1
+Hellenistic,Cilicia,Cyprus,Elaiussa Sebaste,uncertain,1
+Hellenistic,Cilicia,East,Yüceören Tepesi,Ai Khanoum,2
+Hellenistic,Cilicia,Syria,Tarsus,Antioch,20
+Hellenistic,Cilicia,Syria,Tarsus,Laodicea ad Mare,1
+Hellenistic,Cilicia,Syria,Tarsus,Seleucia Pieria,2
+Hellenistic,Cilicia,Syria,Yüceören Tepesi,Antioch,1
+Hellenistic,Cyprus,Anatolia,Kourion,Cos (Caria),1
+Hellenistic,Cyprus,Anatolia,Kourion,Rhodes,1
+Hellenistic,Cyprus,Anatolia,Kourion,Side (Pamphylia),1
+Hellenistic,Cyprus,Anatolia,Paphos,Sardes (Lydia),1
+Hellenistic,Cyprus,Anatolia,Paphos,Side (Pamphylia),2
+Hellenistic,Cyprus,Balkans,Kourion,Corinth,1
+Hellenistic,Cyprus,Balkans,Kourion,Megara,1
+Hellenistic,Cyprus,Balkans,Kourion,Sicyon,1
+Hellenistic,Cyprus,Balkans,Paphos,Knossos,1
+Hellenistic,Cyprus,Cilicia,Kourion,Soli,1
+Hellenistic,Cyprus,Cilicia,Kourion,Tarsus,1
+Hellenistic,Cyprus,Cilicia,Kourion,Tarsus?,1
+Hellenistic,Cyprus,Cyprus,Kourion,Kourion?,22
+Hellenistic,Cyprus,Cyprus,Kourion,Marium,2
+Hellenistic,Cyprus,Cyprus,Kourion,Paphos,90
+Hellenistic,Cyprus,Cyprus,Kourion,Salamis,46
+Hellenistic,Cyprus,Cyprus,Kourion,uncertain,156
+Hellenistic,Cyprus,Cyprus,Paphos,Paphos,346
+Hellenistic,Cyprus,Cyprus,Paphos,Paphos?,4
+Hellenistic,Cyprus,Cyprus,Paphos,Salamis,12
+Hellenistic,Cyprus,Cyprus,Paphos,Salamis?,1
+Hellenistic,Cyprus,Cyprus,Paphos,uncertain,11
+Hellenistic,Cyprus,Egypt,Kourion,uncertain,14
+Hellenistic,Cyprus,Egypt,Paphos,Alexandria,5
+Hellenistic,Cyprus,Egypt,Paphos,Alexandria?,24
+Hellenistic,Cyprus,Egypt,Paphos,uncertain,5
+Hellenistic,Cyprus,Southern Levant,Kourion,uncertain,3
+Hellenistic,Cyprus,Southern Levant,Paphos,Gaza,1
+Hellenistic,Cyprus,Syria,Kourion,Antioch,2
+Hellenistic,Cyprus,Syria,Kourion,Carne/Karne,1
+Hellenistic,Cyprus,Syria,Kourion,Sidon,1
+Hellenistic,Cyprus,Syria,Kourion,Sidon?,3
+Hellenistic,Cyprus,Syria,Kourion,Tyre,5
+Hellenistic,Cyprus,Syria,Kourion,uncertain,1
+Hellenistic,Cyprus,Syria,Paphos,Antioch,2
+Hellenistic,Cyprus,Syria,Paphos,Marathus,1
+Hellenistic,Cyprus,Syria,Paphos,Seleucia Pieria,1
+Hellenistic,Cyprus,Syria,Paphos,uncertain,3
+Hellenistic,East,Anatolia,Dura Europos,Abydus,1
+Hellenistic,East,Anatolia,Dura Europos,Magnesia-ad-Sipylum,1
+Hellenistic,East,Anatolia,Dura Europos,Pergamon,1
+Hellenistic,East,Anatolia,Nimrud,uncertain,2
+Hellenistic,East,Anatolia,Susa,Sardis (Lydia),1
+Hellenistic,East,Anatolia,Tall She Hamad/Magdalu,Sardis,1
+Hellenistic,East,Balkans,Dura Europos,Lysimacheia,1
+Hellenistic,East,Cappadocia,Dura Europos,Caesarea,1
+Hellenistic,East,Cappadocia,Tall She Hamad/Magdalu,uncertain,1
+Hellenistic,East,Cilicia,Dura Europos,Mopsus,1
+Hellenistic,East,Cilicia,Dura Europos,Soli,1
+Hellenistic,East,Cilicia,Dura Europos,Tarsus,2
+Hellenistic,East,Cilicia,Susa,Tarsus,1
+Hellenistic,East,Cyprus,Dura Europos,uncertain,1
+Hellenistic,East,East,Dura Europos,Bactria,2
+Hellenistic,East,East,Dura Europos,Charax,2
+Hellenistic,East,East,Dura Europos,Dura-Europos,21
+Hellenistic,East,East,Dura Europos,Ecbatana,1
+Hellenistic,East,East,Dura Europos,Persia,1
+Hellenistic,East,East,Dura Europos,Seleucia Tigris,13
+Hellenistic,East,East,Dura Europos,uncertain,4
+Hellenistic,East,East,Nimrud,Ecbatana,1
+Hellenistic,East,East,Seleucia Tigris,Seleucia Tigris,397
+Hellenistic,East,East,Seleucia Tigris,Susa,5
+Hellenistic,East,East,Susa,Arsamosta (Sophene),1
+Hellenistic,East,East,Susa,Babylon,2
+Hellenistic,East,East,Susa,Ecbatana,7
+Hellenistic,East,East,Susa,Ecbatana?,7
+Hellenistic,East,East,Susa,Nisibis,1
+Hellenistic,East,East,Susa,Seleucia Tigris,524
+Hellenistic,East,East,Susa,Spasinou Charax (Characene),18
+Hellenistic,East,East,Susa,Susa,1183
+Hellenistic,East,East,Susa,Syrinx (Hyrcania),2
+Hellenistic,East,East,Tall She Hamad/Magdalu,Ecbatana,1
+Hellenistic,East,East,Tall She Hamad/Magdalu,uncertain,1
+Hellenistic,East,Southern Levant,Dura Europos,Jerusalem,35
+Hellenistic,East,Syria,Dura Europos,Antioch,958
+Hellenistic,East,Syria,Dura Europos,Apamea,19
+Hellenistic,East,Syria,Dura Europos,Aradus,13
+Hellenistic,East,Syria,Dura Europos,Damascus,9
+Hellenistic,East,Syria,Dura Europos,Laodicea Ad Mare,3
+Hellenistic,East,Syria,Dura Europos,Ptolemais,1
+Hellenistic,East,Syria,Dura Europos,Samosata,1
+Hellenistic,East,Syria,Dura Europos,Seleucia Pieria,5
+Hellenistic,East,Syria,Dura Europos,Sidon,1
+Hellenistic,East,Syria,Dura Europos,Tripolis,1
+Hellenistic,East,Syria,Dura Europos,Tyre,31
+Hellenistic,East,Syria,Nimrud,Antioch,12
+Hellenistic,East,Syria,Nimrud,Apamea,1
+Hellenistic,East,Syria,Nimrud,Aradus,1
+Hellenistic,East,Syria,Nimrud,uncertain,1
+Hellenistic,East,Syria,Seleucia Tigris,Antioch,1
+Hellenistic,East,Syria,Seleucia Tigris,Seleucia Pieria,2
+Hellenistic,East,Syria,Susa,Antioch,14
+Hellenistic,East,Syria,Susa,Aradus,1
+Hellenistic,East,Syria,Susa,Ptolemais,1
+Hellenistic,East,Syria,Susa,Tyre,1
+Hellenistic,Egypt,Africa,Alexandria,Cyrenaica,2
+Hellenistic,Egypt,Africa,Alexandria,Cyrene,1
+Hellenistic,Egypt,Africa,Saqqara,Cyrene,1
+Hellenistic,Egypt,Anatolia,Alexandria,Chios (Ionia),2
+Hellenistic,Egypt,Anatolia,Alexandria,Clazomenae,1
+Hellenistic,Egypt,Anatolia,Alexandria,Cnidus,3
+Hellenistic,Egypt,Anatolia,Alexandria,Colophon,1
+Hellenistic,Egypt,Anatolia,Alexandria,Cos (Caria),6
+Hellenistic,Egypt,Anatolia,Alexandria,Phocaea,1
+Hellenistic,Egypt,Anatolia,Alexandria,Priene,1
+Hellenistic,Egypt,Anatolia,Alexandria,Rhodes,13
+Hellenistic,Egypt,Anatolia,Alexandria,Sardis,1
+Hellenistic,Egypt,Anatolia,Alexandria,Side,1
+Hellenistic,Egypt,Anatolia,Alexandria,uncertain,1
+Hellenistic,Egypt,Anatolia,Saqqara,Rhodes,1
+Hellenistic,Egypt,Balkans,Alexandria,Apollonia,1
+Hellenistic,Egypt,Balkans,Alexandria,uncertain,5
+Hellenistic,Egypt,Balkans,Saqqara,Delos,1
+Hellenistic,Egypt,Balkans,Saqqara,Pella?,1
+Hellenistic,Egypt,Cilicia,Alexandria,Tarsus?,1
+Hellenistic,Egypt,Cyprus,Alexandria,Paphos,1
+Hellenistic,Egypt,Cyprus,Saqqara,Salamis,1
+Hellenistic,Egypt,Egypt,Alexandria,Alexandria,851
+Hellenistic,Egypt,Egypt,Saqqara,Alexandria,118
+Hellenistic,Egypt,Egypt,Saqqara,Memphis,2
+Hellenistic,Egypt,Egypt,Saqqara,uncertain,57
+Hellenistic,Egypt,Italy/Sicily,Alexandria,uncertain,1
+Hellenistic,Egypt,Southern Levant,Alexandria,Joppa,1
+Hellenistic,Egypt,Syria,Alexandria,Tyre,1
+Hellenistic,Egypt,Syria,Alexandria,uncertain,1
+Hellenistic,Egypt,Syria,Saqqara,Tyre,1
+Hellenistic,Italy/Sicily,Africa,Cosa,Masinissa (Numidia),1
+Hellenistic,Italy/Sicily,Africa,Ordona,Cirta,1
+Hellenistic,Italy/Sicily,Balkans,Ordona,Argos,1
+Hellenistic,Italy/Sicily,Balkans,Ordona,uncertain,1
+Hellenistic,Italy/Sicily,Egypt,Cosa,Ptolemais,1
+Hellenistic,Italy/Sicily,Italy/Sicily,Cosa,Campania,2
+Hellenistic,Italy/Sicily,Italy/Sicily,Cosa,Catania,1
+Hellenistic,Italy/Sicily,Italy/Sicily,Cosa,Cosa,1
+Hellenistic,Italy/Sicily,Italy/Sicily,Cosa,Naples,3
+Hellenistic,Italy/Sicily,Italy/Sicily,Cosa,Rome?,34
+Hellenistic,Italy/Sicily,Italy/Sicily,Cosa,Sardinia,3
+Hellenistic,Italy/Sicily,Italy/Sicily,Cosa,Syracuse,1
+Hellenistic,Italy/Sicily,Italy/Sicily,Cosa,uncertain,1
+Hellenistic,Italy/Sicily,Italy/Sicily,Cosa,Velia,1
+Hellenistic,Italy/Sicily,Italy/Sicily,Minturnae,Neapolis,4
+Hellenistic,Italy/Sicily,Italy/Sicily,Minturnae,Rhegium,1
+Hellenistic,Italy/Sicily,Italy/Sicily,Minturnae,Rome?,51
+Hellenistic,Italy/Sicily,Italy/Sicily,Minturnae,Rome? ,12
+Hellenistic,Italy/Sicily,Italy/Sicily,Ordona,Arpi,5
+Hellenistic,Italy/Sicily,Italy/Sicily,Ordona,Arpi (Apulia),2
+Hellenistic,Italy/Sicily,Italy/Sicily,Ordona,Asculum,1
+Hellenistic,Italy/Sicily,Italy/Sicily,Ordona,Campania,1
+Hellenistic,Italy/Sicily,Italy/Sicily,Ordona,Luceria,2
+Hellenistic,Italy/Sicily,Italy/Sicily,Ordona,Paestum,1
+Hellenistic,Italy/Sicily,Italy/Sicily,Ordona,Rome,30
+Hellenistic,Italy/Sicily,Italy/Sicily,Ordona,Suessa Aurunca,1
+Hellenistic,Italy/Sicily,Italy/Sicily,Ordona,uncertain,3
+Hellenistic,Italy/Sicily,West,Cosa,Ebusus,1
+Hellenistic,Italy/Sicily,West,Cosa,Massalia,3
+Hellenistic,Southern Levant,Africa,Samaria,Cyrene,1
+Hellenistic,Southern Levant,Anatolia,Caesarea Maritima,Cyme (aeolis),1
+Hellenistic,Southern Levant,Anatolia,Caesarea Maritima,Side (Pamphylia),1
+Hellenistic,Southern Levant,Anatolia,Horvat 'Eleq,Side,1
+Hellenistic,Southern Levant,Anatolia,Horvat 'Eleq,uncertain,1
+Hellenistic,Southern Levant,Anatolia,Jaffa,Colophon,1
+Hellenistic,Southern Levant,Anatolia,Jaffa,Side,4
+Hellenistic,Southern Levant,Anatolia,Jerusalem,Side,1
+Hellenistic,Southern Levant,Anatolia,Samaria,Side,4
+Hellenistic,Southern Levant,Balkans,Horvat 'Eleq,Axus,1
+Hellenistic,Southern Levant,Balkans,Jaffa,uncertain,11
+Hellenistic,Southern Levant,Balkans,Samaria,uncertain,2
+Hellenistic,Southern Levant,Cyprus,Bethsaida,Salamis,4
+Hellenistic,Southern Levant,Cyprus,Nessana,uncertain,1
+Hellenistic,Southern Levant,Cyprus,Samaria,uncertain,1
+Hellenistic,Southern Levant,East,Horvat 'Eleq,Babylon,1
+Hellenistic,Southern Levant,East,Jaffa,Babylon,1
+Hellenistic,Southern Levant,Egypt,Bethsaida,Alexandria,19
+Hellenistic,Southern Levant,Egypt,Horvat 'Eleq,Alexandria,6
+Hellenistic,Southern Levant,Egypt,Jaffa,Alexandria,7
+Hellenistic,Southern Levant,Egypt,Jerusalem,Alexandria,2
+Hellenistic,Southern Levant,Egypt,Masada,Alexandria,5
+Hellenistic,Southern Levant,Egypt,Nessana,uncertain,1
+Hellenistic,Southern Levant,Egypt,Pella,Alexandria,3
+Hellenistic,Southern Levant,Egypt,Qiryat Sefer,Alexandria,1
+Hellenistic,Southern Levant,Egypt,Tel Anafa,Alexandria,16
+Hellenistic,Southern Levant,Egypt,Tel Jezreel,uncertain,1
+Hellenistic,Southern Levant,Italy/Sicily,Horvat 'Eleq,Rome,1
+Hellenistic,Southern Levant,Italy/Sicily,Jaffa,Acragas,1
+Hellenistic,Southern Levant,Italy/Sicily,Masada,Rome,1
+Hellenistic,Southern Levant,Southern Levant,Bethsaida,Jerusalem,10
+Hellenistic,Southern Levant,Southern Levant,Caesarea Maritima,Jerusalem,3
+Hellenistic,Southern Levant,Southern Levant,En-Gedi,Jerusalem,7
+Hellenistic,Southern Levant,Southern Levant,Jaffa,uncertain,30
+Hellenistic,Southern Levant,Southern Levant,Jerash,uncertain,4
+Hellenistic,Southern Levant,Southern Levant,Jerusalem,Jerusalem,11
+Hellenistic,Southern Levant,Southern Levant,Jerusalem,uncertain,542
+Hellenistic,Southern Levant,Southern Levant,Masada,Jerusalem,84
+Hellenistic,Southern Levant,Southern Levant,Nessana,Jewish,2
+Hellenistic,Southern Levant,Southern Levant,Pella,uncertain,17
+Hellenistic,Southern Levant,Southern Levant,Qiryat Sefer,Jerusalem,13
+Hellenistic,Southern Levant,Southern Levant,Samaria,Ascalon,1
+Hellenistic,Southern Levant,Southern Levant,Samaria,Gaza,2
+Hellenistic,Southern Levant,Southern Levant,Samaria,Palestine,48
+Hellenistic,Southern Levant,Southern Levant,Samaria,uncertain,4
+Hellenistic,Southern Levant,Southern Levant,Tel Anafa,uncertain,3
+Hellenistic,Southern Levant,Southern Levant,Tel Beth-Shean,uncertain,4
+Hellenistic,Southern Levant,Syria,Bethsaida,Sidon,1
+Hellenistic,Southern Levant,Syria,Bethsaida,Tyre,35
+Hellenistic,Southern Levant,Syria,Caesarea Maritima,Ake-Ptolemais,7
+Hellenistic,Southern Levant,Syria,Caesarea Maritima,Ake-Ptolemais?,1
+Hellenistic,Southern Levant,Syria,Caesarea Maritima,Antioch,13
+Hellenistic,Southern Levant,Syria,Caesarea Maritima,Damascus?,1
+Hellenistic,Southern Levant,Syria,Caesarea Maritima,Tyre,11
+Hellenistic,Southern Levant,Syria,En-Gedi,Antioch?,1
+Hellenistic,Southern Levant,Syria,Horvat 'Eleq,Ake-Ptolemais,8
+Hellenistic,Southern Levant,Syria,Horvat 'Eleq,Antioch,11
+Hellenistic,Southern Levant,Syria,Horvat 'Eleq,Seleucia?,1
+Hellenistic,Southern Levant,Syria,Horvat 'Eleq,Tyre,15
+Hellenistic,Southern Levant,Syria,Jaffa,Ake-Ptolemais,9
+Hellenistic,Southern Levant,Syria,Jaffa,Antioch,22
+Hellenistic,Southern Levant,Syria,Jaffa,Apamea,1
+Hellenistic,Southern Levant,Syria,Jaffa,Sidon,2
+Hellenistic,Southern Levant,Syria,Jaffa,Tyre,10
+Hellenistic,Southern Levant,Syria,Jerash,Ake-Ptolemais,2
+Hellenistic,Southern Levant,Syria,Jerash,Aradus,1
+Hellenistic,Southern Levant,Syria,Jerash,Damascus,1
+Hellenistic,Southern Levant,Syria,Jerash,Sidon,1
+Hellenistic,Southern Levant,Syria,Jerash,Tyre,2
+Hellenistic,Southern Levant,Syria,Jerusalem,Ake-Ptolemais,13
+Hellenistic,Southern Levant,Syria,Jerusalem,Antioch,4
+Hellenistic,Southern Levant,Syria,Jerusalem,Berytus,1
+Hellenistic,Southern Levant,Syria,Jerusalem,Damascus,1
+Hellenistic,Southern Levant,Syria,Jerusalem,Seleucis?,5
+Hellenistic,Southern Levant,Syria,Jerusalem,Sidon,1
+Hellenistic,Southern Levant,Syria,Masada,Ake-Ptolemais,4
+Hellenistic,Southern Levant,Syria,Masada,Apamea,1
+Hellenistic,Southern Levant,Syria,Masada,Sidon,1
+Hellenistic,Southern Levant,Syria,Masada,Tyre,4
+Hellenistic,Southern Levant,Syria,Masada,Tyre?,1
+Hellenistic,Southern Levant,Syria,Paneas,Tyre,3
+Hellenistic,Southern Levant,Syria,Pella,Ake-Ptolemais,13
+Hellenistic,Southern Levant,Syria,Pella,Antioch,6
+Hellenistic,Southern Levant,Syria,Pella,Damascus,7
+Hellenistic,Southern Levant,Syria,Pella,Sidon,1
+Hellenistic,Southern Levant,Syria,Pella,Tyre,4
+Hellenistic,Southern Levant,Syria,Pella,Tyre?,2
+Hellenistic,Southern Levant,Syria,Qiryat Sefer,Ake-Ptolemais,1
+Hellenistic,Southern Levant,Syria,Qiryat Sefer,Ake-Ptolemais?,1
+Hellenistic,Southern Levant,Syria,Qiryat Sefer,Antioch,4
+Hellenistic,Southern Levant,Syria,Qiryat Sefer,Tyre,2
+Hellenistic,Southern Levant,Syria,Samaria,Antioch,1
+Hellenistic,Southern Levant,Syria,Samaria,Aradus,3
+Hellenistic,Southern Levant,Syria,Samaria,Ptolemais-Ake,49
+Hellenistic,Southern Levant,Syria,Samaria,Tripolis,1
+Hellenistic,Southern Levant,Syria,Samaria,Tyre,13
+Hellenistic,Southern Levant,Syria,Samaria,uncertain,3
+Hellenistic,Southern Levant,Syria,Tel Anafa,Ake-Ptolemais,2
+Hellenistic,Southern Levant,Syria,Tel Anafa,Antioch,32
+Hellenistic,Southern Levant,Syria,Tel Anafa,Aradus,2
+Hellenistic,Southern Levant,Syria,Tel Anafa,Damascus,7
+Hellenistic,Southern Levant,Syria,Tel Anafa,Sidon,81
+Hellenistic,Southern Levant,Syria,Tel Anafa,Tyre,58
+Hellenistic,Southern Levant,Syria,Tel Anafa,uncertain,1
+Hellenistic,Southern Levant,Syria,Tel Beth-Shean,Ake-Ptolemais,2
+Hellenistic,Southern Levant,Syria,Tel Beth-Shean,Antioch,2
+Hellenistic,Southern Levant,Syria,Tel Beth-Shean,Tyre,2
+Hellenistic,Southern Levant,Syria,Tel Jezreel,Antioch,3
+Hellenistic,Syria,Anatolia,Antioch,Phocaea,1
+Hellenistic,Syria,Anatolia,Antioch,Side,1
+Hellenistic,Syria,Anatolia,Berytus,Cnidus,1
+Hellenistic,Syria,Anatolia,Berytus,Cos,1
+Hellenistic,Syria,Anatolia,Berytus,Ionia,1
+Hellenistic,Syria,Anatolia,Berytus,Miletus,1
+Hellenistic,Syria,Anatolia,Berytus,Pergamon,1
+Hellenistic,Syria,Anatolia,Berytus,Perge,1
+Hellenistic,Syria,Anatolia,Berytus,Rhodes,3
+Hellenistic,Syria,Anatolia,Berytus,Side,5
+Hellenistic,Syria,Anatolia,Jebel Khallid,Lampsakos?,1
+Hellenistic,Syria,Anatolia,Jebel Khallid,Sardis,1
+Hellenistic,Syria,Anatolia,Seleucia Pieria,Magnesia ad Maeandrum,1
+Hellenistic,Syria,Anatolia,Seleucia Pieria,Rhodes,2
+Hellenistic,Syria,Anatolia,Seleucia Pieria,Side,2
+Hellenistic,Syria,Anatolia,Tille,uncertain,1
+Hellenistic,Syria,Balkans,Antioch,Athens,1
+Hellenistic,Syria,Balkans,Antioch,Histiaea (Euboea),1
+Hellenistic,Syria,Balkans,Berytus,uncertain,2
+Hellenistic,Syria,Balkans,Seleucia Pieria,uncertain,1
+Hellenistic,Syria,Cilicia,Antioch,Alexandria ad Issum,1
+Hellenistic,Syria,Cilicia,Antioch,Mopsus,1
+Hellenistic,Syria,Cilicia,Antioch,Tarsus,2
+Hellenistic,Syria,Cilicia,Jebel Khallid,Tarsus,1
+Hellenistic,Syria,Cilicia,Seleucia Pieria,Mopsus,1
+Hellenistic,Syria,Cilicia,Seleucia Pieria,Tarsus,15
+Hellenistic,Syria,Cilicia,Seleucia Pieria,Tarsus?,3
+Hellenistic,Syria,Cyprus,Antioch,Salamis,1
+Hellenistic,Syria,Cyprus,Seleucia Pieria,Salamis,4
+Hellenistic,Syria,East,Antioch,Carrhae,2
+Hellenistic,Syria,East,Antioch,Seleucia Tigris,2
+Hellenistic,Syria,East,Jebel Khallid,Ecbatana,1
+Hellenistic,Syria,East,Jebel Khallid,Seleucia Tigris,1
+Hellenistic,Syria,East,Oumm El'Marra,Seleucia Tigris,1
+Hellenistic,Syria,East,Palmyra,Ecbatana,1
+Hellenistic,Syria,East,Palmyra,Seleucia Tigris,1
+Hellenistic,Syria,East,Seleucia Pieria,Dura-Europos,1
+Hellenistic,Syria,East,Seleucia Pieria,Seleucia on the Tigris,1
+Hellenistic,Syria,East,Seleucia Pieria,Seleucia Tigris,3
+Hellenistic,Syria,East,Tell abou Danne,Seleucia Tigris,1
+Hellenistic,Syria,East,Tille,Edessa,1
+Hellenistic,Syria,Egypt,Antioch,Ptolemaic,10
+Hellenistic,Syria,Egypt,Berytus,Alexandria,24
+Hellenistic,Syria,Egypt,Seleucia Pieria,uncertain,21
+Hellenistic,Syria,Italy/Sicily,Berytus,Rhegion,1
+Hellenistic,Syria,Italy/Sicily,Jebel Khallid,Rome,1
+Hellenistic,Syria,Southern Levant,Antioch,Coins of the Jews,1
+Hellenistic,Syria,Southern Levant,Seleucia Pieria,uncertain,1
+Hellenistic,Syria,Syria,Antioch,Ake-Ptolemais,2
+Hellenistic,Syria,Syria,Antioch,Antioch,775
+Hellenistic,Syria,Syria,Antioch,Apamea?,35
+Hellenistic,Syria,Syria,Antioch,Aradus,6
+Hellenistic,Syria,Syria,Antioch,Berytus,1
+Hellenistic,Syria,Syria,Antioch,Byblus,1
+Hellenistic,Syria,Syria,Antioch,Damascus,3
+Hellenistic,Syria,Syria,Antioch,Seleucia Pieria,15
+Hellenistic,Syria,Syria,Antioch,Tripolis,1
+Hellenistic,Syria,Syria,Antioch,Tyre,4
+Hellenistic,Syria,Syria,Antioch,uncertain,32
+Hellenistic,Syria,Syria,Berytus,Antioch,12
+Hellenistic,Syria,Syria,Berytus,Antioch?,92
+Hellenistic,Syria,Syria,Berytus,Aradus,8
+Hellenistic,Syria,Syria,Berytus,Bertyus,3
+Hellenistic,Syria,Syria,Berytus,Berytus,17
+Hellenistic,Syria,Syria,Berytus,Marathus,2
+Hellenistic,Syria,Syria,Berytus,Ptolemais,18
+Hellenistic,Syria,Syria,Berytus,Ptolemais?,1
+Hellenistic,Syria,Syria,Berytus,Sidon,6
+Hellenistic,Syria,Syria,Berytus,Tyre,24
+Hellenistic,Syria,Syria,Berytus,Tyre?,1
+Hellenistic,Syria,Syria,Berytus,uncertain,1
+Hellenistic,Syria,Syria,Gindaros,Antioch,5
+Hellenistic,Syria,Syria,Gindaros,Antioch?,7
+Hellenistic,Syria,Syria,Hama,Apamea,1
+Hellenistic,Syria,Syria,Hama,Aradus,3
+Hellenistic,Syria,Syria,Hama,Marathus,4
+Hellenistic,Syria,Syria,Hama,Seleucia Pieria,3
+Hellenistic,Syria,Syria,Jebel Khallid,Antioch,107
+Hellenistic,Syria,Syria,Jebel Khallid,Aradus,1
+Hellenistic,Syria,Syria,Jebel Khallid,Damascus,2
+Hellenistic,Syria,Syria,Jebel Khallid,Hierapolis,1
+Hellenistic,Syria,Syria,Jebel Khallid,Seleucia Pieria,1
+Hellenistic,Syria,Syria,Jebel Khallid,Sidon,1
+Hellenistic,Syria,Syria,Jebel Khallid,Tyre,1
+Hellenistic,Syria,Syria,Oumm El'Marra,Antioch,3
+Hellenistic,Syria,Syria,Palmyra,Antioch,6
+Hellenistic,Syria,Syria,Palmyra,Aradus,2
+Hellenistic,Syria,Syria,Palmyra,Sidon,1
+Hellenistic,Syria,Syria,Seleucia Pieria,Ake-Ptolemais,1
+Hellenistic,Syria,Syria,Seleucia Pieria,Antigonea,1
+Hellenistic,Syria,Syria,Seleucia Pieria,Antioch,129
+Hellenistic,Syria,Syria,Seleucia Pieria,Antioch?,4
+Hellenistic,Syria,Syria,Seleucia Pieria,Apamea?,3
+Hellenistic,Syria,Syria,Seleucia Pieria,Aradus,1
+Hellenistic,Syria,Syria,Seleucia Pieria,Berytus,1
+Hellenistic,Syria,Syria,Seleucia Pieria,Seleucia Pieria,27
+Hellenistic,Syria,Syria,Seleucia Pieria,Seleucia Pieria?,1
+Hellenistic,Syria,Syria,Seleucia Pieria,uncertain,12
+Hellenistic,Syria,Syria,Tell abou Danne,Antioch,45
+Hellenistic,Syria,Syria,Tell abou Danne,Tyre,1
+Hellenistic,Syria,Syria,Tell el Hajj,Antioch,3
+Hellenistic,Syria,Syria,Tell el Hajj,Aradus,1
+Hellenistic,Syria,Syria,Tell Rifa'at,Antioch,6
+Hellenistic,Syria,Syria,Tyre,Tyre,6
+Hellenistic,Syria,Syria,Tyre,uncertain,1
+Hellenistic,Syria,Syria,Zeugma,Antioch,4
+Hellenistic,Syria,Syria,Zeugma,Byblus,1
+Hellenistic,Syria,NA,Hama,NA,24
+Hellenistic,West,Balkans,Idanha-a-Velha,uncertain,1
+Hellenistic,West,Italy/Sicily,Bath,Rome?,1
+Hellenistic,West,Italy/Sicily,Conimbriga,Rome,18
+Hellenistic,West,Italy/Sicily,Idanha-a-Velha,Rome,3
+Hellenistic,West,Italy/Sicily,Segobriga,Rome,8
+Hellenistic,West,Italy/Sicily,Silchester,Rome?,1
+Hellenistic,West,West,Conimbriga,Bilbilis,1
+Hellenistic,West,West,Conimbriga,Castuo,2
+Hellenistic,West,West,Conimbriga,Obulco (Porcuna),3
+Hellenistic,West,West,Conimbriga,Ulia,1
+Hellenistic,West,West,Idanha-a-Velha,Castulo,1
+Hellenistic,West,West,Segobriga,Arse (Sagunto, Valencia),1
+Hellenistic,West,West,Segobriga,Bolskan (Huesca),3
+Hellenistic,West,West,Segobriga,Castulo,5
+Hellenistic,West,West,Segobriga,Ikalesken (Iniesta, Cuenca),1
+Hellenistic,West,West,Segobriga,Kelse (Zaragoza),5
+Hellenistic,West,West,Segobriga,Konterbia Karbika (Cuenca),3
+Hellenistic,West,West,Segobriga,Mertola,1
+Hellenistic,West,West,Segobriga,Sekaisa (Zaragoza),1
+High.Roman,Africa,Africa,Carthage,Carthage,1
+High.Roman,Africa,Africa,Cyrene,Cyrenaica,24
+High.Roman,Africa,Africa,Cyrene,Cyrene,50
+High.Roman,Africa,Africa,Sabratha,Lepcis Magnus,1
+High.Roman,Africa,Africa,Sabratha,Sabratha,4
+High.Roman,Africa,Balkans,Cyrene,Thessalonica,1
+High.Roman,Africa,Egypt,Carthage,Alexandria,1
+High.Roman,Africa,Egypt,Cyrene,uncertain,5
+High.Roman,Africa,Egypt,Sabratha,Alexandria,1
+High.Roman,Africa,Italy/Sicily,Carthage,Rome,1
+High.Roman,Africa,Italy/Sicily,Carthage,uncertain,1
+High.Roman,Africa,Italy/Sicily,Cyrene,Rome,8
+High.Roman,Africa,Italy/Sicily,Sabratha,Rome,2
+High.Roman,Africa,Italy/Sicily,Sabratha,Rome?,16
+High.Roman,Africa,Southern Levant,Cyrene,uncertain,1
+High.Roman,Anatolia,Anatolia,Andriake (Myra),Antiphellos (Lycia),4
+High.Roman,Anatolia,Anatolia,Andriake (Myra),Kragos (Lycia),1
+High.Roman,Anatolia,Anatolia,Andriake (Myra),Kremna (Pisidia),1
+High.Roman,Anatolia,Anatolia,Andriake (Myra),Kyenai (Lycia),2
+High.Roman,Anatolia,Anatolia,Andriake (Myra),Limyra (Lycia),1
+High.Roman,Anatolia,Anatolia,Andriake (Myra),Masikytos (Lycia),2
+High.Roman,Anatolia,Anatolia,Andriake (Myra),Phellos (Lycia),1
+High.Roman,Anatolia,Anatolia,Andriake (Myra),Rhodes,1
+High.Roman,Anatolia,Anatolia,Aphrodisias,Antioch (Caria),10
+High.Roman,Anatolia,Anatolia,Aphrodisias,Aphrodisias,43
+High.Roman,Anatolia,Anatolia,Aphrodisias,Apollonia Salbace,1
+High.Roman,Anatolia,Anatolia,Aphrodisias,Laodiceia (Phrygia),6
+High.Roman,Anatolia,Anatolia,Aphrodisias,Mylasa,1
+High.Roman,Anatolia,Anatolia,Aphrodisias,Sardis,1
+High.Roman,Anatolia,Anatolia,Aphrodisias,Smyrna,1
+High.Roman,Anatolia,Anatolia,Aphrodisias,Tabai,2
+High.Roman,Anatolia,Anatolia,Aphrodisias,Tralles,1
+High.Roman,Anatolia,Anatolia,Cankirikapi,Ancyra (Galatia),1
+High.Roman,Anatolia,Anatolia,Cankirikapi,Ancyra (Phrygia),1
+High.Roman,Anatolia,Anatolia,Cankirikapi,Aphrodisias,1
+High.Roman,Anatolia,Anatolia,Cankirikapi,Nysa (Lydia),1
+High.Roman,Anatolia,Anatolia,Cankirikapi,Parium (Mysia),1
+High.Roman,Anatolia,Anatolia,Cankirikapi,Pergamon,1
+High.Roman,Anatolia,Anatolia,Cankirikapi,Pessinus,2
+High.Roman,Anatolia,Anatolia,Cankirikapi,Side (Pamphylia),1
+High.Roman,Anatolia,Anatolia,Cankirikapi,Smyrna (Ionia),1
+High.Roman,Anatolia,Anatolia,Cankirikapi,Stratonikeia,1
+High.Roman,Anatolia,Anatolia,Cankirikapi,Tabai,2
+High.Roman,Anatolia,Anatolia,Ephesus,Colophon (Ionia),1
+High.Roman,Anatolia,Anatolia,Ephesus,Ephesus,36
+High.Roman,Anatolia,Anatolia,Ephesus,Magnesia,1
+High.Roman,Anatolia,Anatolia,Ephesus,Miletos,2
+High.Roman,Anatolia,Anatolia,Ephesus,Pergamon,2
+High.Roman,Anatolia,Anatolia,Ephesus,Sardis,2
+High.Roman,Anatolia,Anatolia,Ephesus,Smyrna,1
+High.Roman,Anatolia,Anatolia,Ephesus,uncertain,8
+High.Roman,Anatolia,Anatolia,Hierapolis,Ancyra,2
+High.Roman,Anatolia,Anatolia,Hierapolis,Antioch (Pisidia),1
+High.Roman,Anatolia,Anatolia,Hierapolis,Antioch Maeandrum,1
+High.Roman,Anatolia,Anatolia,Hierapolis,Aphrodisias,1
+High.Roman,Anatolia,Anatolia,Hierapolis,Apollonia Salbace,1
+High.Roman,Anatolia,Anatolia,Hierapolis,Blaundus,1
+High.Roman,Anatolia,Anatolia,Hierapolis,Ephesus,2
+High.Roman,Anatolia,Anatolia,Hierapolis,Germe,1
+High.Roman,Anatolia,Anatolia,Hierapolis,Halicarnassus,2
+High.Roman,Anatolia,Anatolia,Hierapolis,Hierapolis,18
+High.Roman,Anatolia,Anatolia,Hierapolis,Hierocaesareia,1
+High.Roman,Anatolia,Anatolia,Hierapolis,Hyrcanis,1
+High.Roman,Anatolia,Anatolia,Hierapolis,Laodiceia,28
+High.Roman,Anatolia,Anatolia,Hierapolis,Mastaura,1
+High.Roman,Anatolia,Anatolia,Hierapolis,Philadelphia,1
+High.Roman,Anatolia,Anatolia,Hierapolis,Sardis,3
+High.Roman,Anatolia,Anatolia,Hierapolis,Silandus,1
+High.Roman,Anatolia,Anatolia,Hierapolis,Smyrna,1
+High.Roman,Anatolia,Anatolia,Hierapolis,Tripolis,2
+High.Roman,Anatolia,Anatolia,Pergamon,Aegae,1
+High.Roman,Anatolia,Anatolia,Pergamon,Colophon,1
+High.Roman,Anatolia,Anatolia,Pergamon,Elaia (Aeolis),40
+High.Roman,Anatolia,Anatolia,Pergamon,Epikteteis (Phrygia),1
+High.Roman,Anatolia,Anatolia,Pergamon,Germe,1
+High.Roman,Anatolia,Anatolia,Pergamon,Hermokapeleia,2
+High.Roman,Anatolia,Anatolia,Pergamon,Mytilene (Lesbos),1
+High.Roman,Anatolia,Anatolia,Pergamon,Parium,2
+High.Roman,Anatolia,Anatolia,Pergamon,Pergamon,111
+High.Roman,Anatolia,Anatolia,Pergamon,Philadelphia,1
+High.Roman,Anatolia,Anatolia,Pergamon,Sardis,6
+High.Roman,Anatolia,Anatolia,Pergamon,Sinope,1
+High.Roman,Anatolia,Anatolia,Pergamon,Temnos (Aeolis),1
+High.Roman,Anatolia,Anatolia,Sagalassos,Apollonis (Lydia),1
+High.Roman,Anatolia,Anatolia,Sagalassos,Attaleaa (Pamphylia),1
+High.Roman,Anatolia,Anatolia,Sagalassos,Attaleia (Pamphylia),3
+High.Roman,Anatolia,Anatolia,Sagalassos,Attalia (Pamphylia),1
+High.Roman,Anatolia,Anatolia,Sagalassos,Grimenothyrae? (Phrygia),1
+High.Roman,Anatolia,Anatolia,Sagalassos,Hierapolis Sebaste,1
+High.Roman,Anatolia,Anatolia,Sagalassos,Laodicea (Phrygia),1
+High.Roman,Anatolia,Anatolia,Sagalassos,Mylasa (Caria),1
+High.Roman,Anatolia,Anatolia,Sagalassos,Perge,6
+High.Roman,Anatolia,Anatolia,Sagalassos,Perge (Pamphylia),1
+High.Roman,Anatolia,Anatolia,Sagalassos,Sagalassos,30
+High.Roman,Anatolia,Anatolia,Sagalassos,Selge,5
+High.Roman,Anatolia,Anatolia,Sagalassos,Termessos,1
+High.Roman,Anatolia,Anatolia,Sagalassos,uncertain,1
+High.Roman,Anatolia,Anatolia,Sardis,Adramyteum (Mysia),1
+High.Roman,Anatolia,Anatolia,Sardis,Ancyra (Phrygia),1
+High.Roman,Anatolia,Anatolia,Sardis,Antioch ad Meandrum (Caria),1
+High.Roman,Anatolia,Anatolia,Sardis,Apameia (Phrygia),2
+High.Roman,Anatolia,Anatolia,Sardis,Bagis (Lydia),1
+High.Roman,Anatolia,Anatolia,Sardis,Blaundus,1
+High.Roman,Anatolia,Anatolia,Sardis,Caystriani,1
+High.Roman,Anatolia,Anatolia,Sardis,Chios,1
+High.Roman,Anatolia,Anatolia,Sardis,Cibyra (Phrygia),2
+High.Roman,Anatolia,Anatolia,Sardis,Cilbiani Inferiores,1
+High.Roman,Anatolia,Anatolia,Sardis,Daldis,1
+High.Roman,Anatolia,Anatolia,Sardis,Elaea (Aeolis),1
+High.Roman,Anatolia,Anatolia,Sardis,Ephesus,5
+High.Roman,Anatolia,Anatolia,Sardis,Eucarpeia (Phrygia),1
+High.Roman,Anatolia,Anatolia,Sardis,Germe,2
+High.Roman,Anatolia,Anatolia,Sardis,Hermocapelia,2
+High.Roman,Anatolia,Anatolia,Sardis,Hierocaesarea,1
+High.Roman,Anatolia,Anatolia,Sardis,Hierocaesarea (Lydia),1
+High.Roman,Anatolia,Anatolia,Sardis,Hypaepa,2
+High.Roman,Anatolia,Anatolia,Sardis,Laodiceia (Phrygia),2
+High.Roman,Anatolia,Anatolia,Sardis,Maeonia,2
+High.Roman,Anatolia,Anatolia,Sardis,Magnesia ad Sipylum,1
+High.Roman,Anatolia,Anatolia,Sardis,Mostene,2
+High.Roman,Anatolia,Anatolia,Sardis,Nacrasa,1
+High.Roman,Anatolia,Anatolia,Sardis,Nicaea (Bithynia),1
+High.Roman,Anatolia,Anatolia,Sardis,Nicomedia (Bithynia),1
+High.Roman,Anatolia,Anatolia,Sardis,Pergamum,11
+High.Roman,Anatolia,Anatolia,Sardis,Philadelphia,3
+High.Roman,Anatolia,Anatolia,Sardis,Sala,1
+High.Roman,Anatolia,Anatolia,Sardis,Sardis,120
+High.Roman,Anatolia,Anatolia,Sardis,Sebaste (Phrygia),1
+High.Roman,Anatolia,Anatolia,Sardis,Smyrna,4
+High.Roman,Anatolia,Anatolia,Sardis,Stratonicea,1
+High.Roman,Anatolia,Anatolia,Sardis,Teos,1
+High.Roman,Anatolia,Anatolia,Sardis,Thyatira,3
+High.Roman,Anatolia,Anatolia,Sardis,Tralles,1
+High.Roman,Anatolia,Anatolia,Sardis,Tripolis,1
+High.Roman,Anatolia,Anatolia,Sardis,uncertain,28
+High.Roman,Anatolia,Anatolia,Side,Amastris (Paphlagonia),1
+High.Roman,Anatolia,Anatolia,Side,Amisus (Pontus),1
+High.Roman,Anatolia,Anatolia,Side,Amyntas (Galatia),1
+High.Roman,Anatolia,Anatolia,Side,Aspendos (Pamphylia),3
+High.Roman,Anatolia,Anatolia,Side,Chios (Ionia),1
+High.Roman,Anatolia,Anatolia,Side,Etenna (Pisidia),1
+High.Roman,Anatolia,Anatolia,Side,Germe (Mysia),1
+High.Roman,Anatolia,Anatolia,Side,Magnesia (Ionia),1
+High.Roman,Anatolia,Anatolia,Side,Magydos (Pamphylia),1
+High.Roman,Anatolia,Anatolia,Side,Myra (Lycia),1
+High.Roman,Anatolia,Anatolia,Side,Pergamon,1
+High.Roman,Anatolia,Anatolia,Side,Rhodes (Caria),1
+High.Roman,Anatolia,Anatolia,Side,Selge (Pisidia),10
+High.Roman,Anatolia,Anatolia,Side,Side,26
+High.Roman,Anatolia,Anatolia,Side,Sinope (Paphlagonia),1
+High.Roman,Anatolia,Anatolia,Side,Termessos (Pisidia),1
+High.Roman,Anatolia,Anatolia,Troy,Alexandria Troas,4
+High.Roman,Anatolia,Anatolia,Troy,Amisus (Pontus),1
+High.Roman,Anatolia,Anatolia,Troy,Antandrus,1
+High.Roman,Anatolia,Anatolia,Troy,Cyzicus,1
+High.Roman,Anatolia,Anatolia,Troy,Dardanus,1
+High.Roman,Anatolia,Anatolia,Troy,Dia (Bithynia),1
+High.Roman,Anatolia,Anatolia,Troy,Ilium,78
+High.Roman,Anatolia,Anatolia,Troy,Mytilene (Lesbos),2
+High.Roman,Anatolia,Anatolia,Troy,Parium,10
+High.Roman,Anatolia,Anatolia,Troy,Pergamum,2
+High.Roman,Anatolia,Anatolia,Troy,Smyrna (Ionia),1
+High.Roman,Anatolia,Anatolia,Troy,uncertain,1
+High.Roman,Anatolia,Balkans,Sardis,Corinth,1
+High.Roman,Anatolia,Balkans,Troy,Athens,1
+High.Roman,Anatolia,Balkans,Troy,Byzantium,1
+High.Roman,Anatolia,Cilicia,Ephesus,Hieropolis Kastabala,1
+High.Roman,Anatolia,Egypt,Sardis,Alexandria,1
+High.Roman,Anatolia,Italy/Sicily,Andriake (Myra),Rome,8
+High.Roman,Anatolia,Italy/Sicily,Aphrodisias,Rome,4
+High.Roman,Anatolia,Italy/Sicily,Ephesus,Rome,2
+High.Roman,Anatolia,Italy/Sicily,Hierapolis,Rome,1
+High.Roman,Anatolia,Italy/Sicily,Niksar,Rome,3
+High.Roman,Anatolia,Italy/Sicily,Sagalassos,Rome,4
+High.Roman,Anatolia,Italy/Sicily,Sardis,Rome,13
+High.Roman,Anatolia,Italy/Sicily,Side,Rome,9
+High.Roman,Anatolia,Southern Levant,Andriake (Myra),Judea,1
+High.Roman,Anatolia,Southern Levant,Aphrodisias,uncertain,1
+High.Roman,Anatolia,Syria,Cankirikapi,Antioch,2
+High.Roman,Anatolia,Syria,Cankirikapi,Commagene,1
+High.Roman,Anatolia,Syria,Cankirikapi,Hierapolis,1
+High.Roman,Anatolia,West,Pergamon,uncertain,1
+High.Roman,Anatolia,West,Sardis,Lugdunum,1
+High.Roman,Anatolia,West,Troy,Lugdunum,1
+High.Roman,Balkans,Africa,Athens,Numidia,1
+High.Roman,Balkans,Anatolia,Athens,Adramyteion (Mysia),1
+High.Roman,Balkans,Anatolia,Athens,Aigai (Aiolis),2
+High.Roman,Balkans,Anatolia,Athens,Akmoneia (Phrygia),1
+High.Roman,Balkans,Anatolia,Athens,Amisos (Pontos),3
+High.Roman,Balkans,Anatolia,Athens,Amyntas (Galatia),1
+High.Roman,Balkans,Anatolia,Athens,Apameia (Phrygia),1
+High.Roman,Balkans,Anatolia,Athens,Assos (Troas),1
+High.Roman,Balkans,Anatolia,Athens,Attaleia (Pamphylia),1
+High.Roman,Balkans,Anatolia,Athens,Bithynia,1
+High.Roman,Balkans,Anatolia,Athens,Chios,1
+High.Roman,Balkans,Anatolia,Athens,Elaia (Aiolis),1
+High.Roman,Balkans,Anatolia,Athens,Ephesus,7
+High.Roman,Balkans,Anatolia,Athens,Ephesus (Ionia),4
+High.Roman,Balkans,Anatolia,Athens,Hermokapelia (Lydia),1
+High.Roman,Balkans,Anatolia,Athens,Ilion (Troas),1
+High.Roman,Balkans,Anatolia,Athens,Lycia,3
+High.Roman,Balkans,Anatolia,Athens,Methymna (Lesbos),1
+High.Roman,Balkans,Anatolia,Athens,Metropolis,1
+High.Roman,Balkans,Anatolia,Athens,Miletos,1
+High.Roman,Balkans,Anatolia,Athens,Mylasa,1
+High.Roman,Balkans,Anatolia,Athens,Myndos,1
+High.Roman,Balkans,Anatolia,Athens,Mytilene (Lesbos),1
+High.Roman,Balkans,Anatolia,Athens,Nicomedia,1
+High.Roman,Balkans,Anatolia,Athens,Parion (Mysia),9
+High.Roman,Balkans,Anatolia,Athens,Pergamon,2
+High.Roman,Balkans,Anatolia,Athens,Perperene,2
+High.Roman,Balkans,Anatolia,Athens,Phanagoria,1
+High.Roman,Balkans,Anatolia,Athens,Rhodes,1
+High.Roman,Balkans,Anatolia,Athens,Samos,5
+High.Roman,Balkans,Anatolia,Athens,Selge (Pisidia),1
+High.Roman,Balkans,Anatolia,Athens,Side (Pamphylia),1
+High.Roman,Balkans,Anatolia,Athens,Sillyon (Pamphylia),1
+High.Roman,Balkans,Anatolia,Athens,Smyrna,3
+High.Roman,Balkans,Anatolia,Athens,Teos,1
+High.Roman,Balkans,Anatolia,Corinth,Amisus,2
+High.Roman,Balkans,Anatolia,Corinth,Apameia (Phrygia),1
+High.Roman,Balkans,Anatolia,Corinth,Mytilene (Lesbos),2
+High.Roman,Balkans,Anatolia,Corinth,Phocaea,1
+High.Roman,Balkans,Anatolia,Corinth,Sardes (Lydia),1
+High.Roman,Balkans,Balkans,Athens,Aigion (Achaea),2
+High.Roman,Balkans,Balkans,Athens,Ainianes (Thessaly),1
+High.Roman,Balkans,Balkans,Athens,Amphipolis,2
+High.Roman,Balkans,Balkans,Athens,Athens,6148
+High.Roman,Balkans,Balkans,Athens,Athens/Imbros,16
+High.Roman,Balkans,Balkans,Athens,Athens/Lemnos,1
+High.Roman,Balkans,Balkans,Athens,Athens/Skyros,5
+High.Roman,Balkans,Balkans,Athens,Chalkis (Euboia),31
+High.Roman,Balkans,Balkans,Athens,Corinth (Corinthia),71
+High.Roman,Balkans,Balkans,Athens,Delphi,3
+High.Roman,Balkans,Balkans,Athens,Dion,1
+High.Roman,Balkans,Balkans,Athens,Dyrrhachion,6
+High.Roman,Balkans,Balkans,Athens,Elis,3
+High.Roman,Balkans,Balkans,Athens,Histiaia (Euboia),6
+High.Roman,Balkans,Balkans,Athens,Karystos (Euboia),5
+High.Roman,Balkans,Balkans,Athens,Knossos,1
+High.Roman,Balkans,Balkans,Athens,Korkyra (Epirus),11
+High.Roman,Balkans,Balkans,Athens,Kythnos,2
+High.Roman,Balkans,Balkans,Athens,Lakedaimon (Laconia),17
+High.Roman,Balkans,Balkans,Athens,Maroneia,3
+High.Roman,Balkans,Balkans,Athens,Megara (Megaris),15
+High.Roman,Balkans,Balkans,Athens,Melos,1
+High.Roman,Balkans,Balkans,Athens,Nikopolis (Epirus),4
+High.Roman,Balkans,Balkans,Athens,Orchomenos (Boetia),1
+High.Roman,Balkans,Balkans,Athens,Pagai (Megaris),1
+High.Roman,Balkans,Balkans,Athens,Patrai (Achaea),8
+High.Roman,Balkans,Balkans,Athens,Pautalia,1
+High.Roman,Balkans,Balkans,Athens,Peparethos (Thessaly),1
+High.Roman,Balkans,Balkans,Athens,Philippoi,3
+High.Roman,Balkans,Balkans,Athens,SamoEastern Europe,4
+High.Roman,Balkans,Balkans,Athens,Sikyon (Sikyonia),6
+High.Roman,Balkans,Balkans,Athens,Skodra,1
+High.Roman,Balkans,Balkans,Athens,Syros,3
+High.Roman,Balkans,Balkans,Athens,Tanagra (Boetia),8
+High.Roman,Balkans,Balkans,Athens,Thespiai (Boetia),4
+High.Roman,Balkans,Balkans,Athens,Thessalonica,3
+High.Roman,Balkans,Balkans,Athens,Troizen,1
+High.Roman,Balkans,Balkans,Athens,uncertain,3
+High.Roman,Balkans,Balkans,Athens,uncertain (Thessaly),31
+High.Roman,Balkans,Balkans,Corinth,Aegium,2
+High.Roman,Balkans,Balkans,Corinth,Argos (Argolis),35
+High.Roman,Balkans,Balkans,Corinth,Chalcis,3
+High.Roman,Balkans,Balkans,Corinth,Corcyra,3
+High.Roman,Balkans,Balkans,Corinth,Corinth,368
+High.Roman,Balkans,Balkans,Corinth,Delphi,2
+High.Roman,Balkans,Balkans,Corinth,Epidaurus,1
+High.Roman,Balkans,Balkans,Corinth,Lacedaemon,16
+High.Roman,Balkans,Balkans,Corinth,Megara,2
+High.Roman,Balkans,Balkans,Corinth,Nicopolis,2
+High.Roman,Balkans,Balkans,Corinth,Patrae,17
+High.Roman,Balkans,Balkans,Corinth,Peparethus,1
+High.Roman,Balkans,Balkans,Corinth,Pheneus,1
+High.Roman,Balkans,Balkans,Corinth,Syros,1
+High.Roman,Balkans,Balkans,Corinth,Tanagra,2
+High.Roman,Balkans,Balkans,Corinth,Tegea,1
+High.Roman,Balkans,Balkans,Corinth,Thelpusa,1
+High.Roman,Balkans,Balkans,Corinth,Thespiae,4
+High.Roman,Balkans,Balkans,Corinth,Thessalonica,2
+High.Roman,Balkans,Balkans,Corinth,Troezen,1
+High.Roman,Balkans,Balkans,Corinth,uncertain,1
+High.Roman,Balkans,Balkans,Histria,Histria,683
+High.Roman,Balkans,Balkans,Histria,Nicopolis ad Istrum,1
+High.Roman,Balkans,Balkans,Histria,Tomis,2
+High.Roman,Balkans,Balkans,Nicopolis ad Istrum,Marcianopolis,1
+High.Roman,Balkans,Balkans,Nicopolis ad Istrum,Nicopolis,8
+High.Roman,Balkans,Cappadocia,Corinth,Caesarea,1
+High.Roman,Balkans,Cilicia,Athens,Tarsus,1
+High.Roman,Balkans,Cilicia,Corinth,Aegeae,1
+High.Roman,Balkans,Egypt,Athens,Alexandria,8
+High.Roman,Balkans,Egypt,Athens,uncertain,1
+High.Roman,Balkans,Egypt,Corinth,Alexandria,1
+High.Roman,Balkans,Italy/Sicily,Athens,Cisalpine Celts,1
+High.Roman,Balkans,Italy/Sicily,Athens,Rome,244
+High.Roman,Balkans,Italy/Sicily,Corinth,Rome,76
+High.Roman,Balkans,Italy/Sicily,Corinth,Rome?,2
+High.Roman,Balkans,Italy/Sicily,Histria,Rome?,64
+High.Roman,Balkans,Italy/Sicily,Nicopolis ad Istrum,Rome,16
+High.Roman,Balkans,Southern Levant,Athens,uncertain,8
+High.Roman,Balkans,Syria,Athens,Antioch,2
+High.Roman,Balkans,Syria,Corinth,Antioch,2
+High.Roman,Balkans,Syria,Corinth,Seleucia Pieria,1
+High.Roman,Balkans,West,Athens,Lyons,3
+High.Roman,Cilicia,Anatolia,Tarsus,Galatia,1
+High.Roman,Cilicia,Anatolia,Tarsus,Laodicia (Phrygia) and Smyrna (Ionia),1
+High.Roman,Cilicia,Cilicia,Elaiussa Sebaste,Aegeae,1
+High.Roman,Cilicia,Cilicia,Elaiussa Sebaste,Corycus,2
+High.Roman,Cilicia,Cilicia,Elaiussa Sebaste,Elaiussa,4
+High.Roman,Cilicia,Cilicia,Elaiussa Sebaste,Sebaste,3
+High.Roman,Cilicia,Cilicia,Elaiussa Sebaste,Tarsus,2
+High.Roman,Cilicia,Cilicia,Tarsus,Adana,1
+High.Roman,Cilicia,Cilicia,Tarsus,Corycus,1
+High.Roman,Cilicia,Cilicia,Tarsus,Hieropolis Castabala,1
+High.Roman,Cilicia,Cilicia,Tarsus,Tarsus,23
+High.Roman,Cilicia,Cilicia,Tarsus,Zephyrium,5
+High.Roman,Cilicia,Cilicia,Yüceören Tepesi,Aegeae,2
+High.Roman,Cilicia,Italy/Sicily,Yüceören Tepesi,Rome?,1
+High.Roman,Cilicia,Syria,Tarsus,Antioch,1
+High.Roman,Cilicia,Syria,Tarsus,Laodicea ad Mare,1
+High.Roman,Cilicia,Syria,Yüceören Tepesi,uncertain,1
+High.Roman,Cyprus,Anatolia,Kourion,Cyzicus,4
+High.Roman,Cyprus,Anatolia,Kourion,Iasus (Caria),1
+High.Roman,Cyprus,Anatolia,Kourion,Pergamon,1
+High.Roman,Cyprus,Anatolia,Kourion,Perge (Pamphylia),2
+High.Roman,Cyprus,Anatolia,Kourion,Selge (Pisidia),2
+High.Roman,Cyprus,Anatolia,Paphos,Ephesus,1
+High.Roman,Cyprus,Anatolia,Paphos,Hermocapelia,1
+High.Roman,Cyprus,Anatolia,Paphos,Miletus (Ionia),1
+High.Roman,Cyprus,Anatolia,Paphos,Perge,2
+High.Roman,Cyprus,Anatolia,Paphos,Phaselis (Lycia),1
+High.Roman,Cyprus,Anatolia,Paphos,Selge (Pisidia),3
+High.Roman,Cyprus,Anatolia,Paphos,Side (Pamphylia),1
+High.Roman,Cyprus,Cyprus,Kourion,uncertain,113
+High.Roman,Cyprus,Cyprus,Paphos,Paphos,161
+High.Roman,Cyprus,Egypt,Kourion,Alexandria,3
+High.Roman,Cyprus,Egypt,Paphos,uncertain,5
+High.Roman,Cyprus,Italy/Sicily,Kourion,Rome,28
+High.Roman,Cyprus,Italy/Sicily,Paphos,Rome,2
+High.Roman,Cyprus,Southern Levant,Kourion,Gaza,1
+High.Roman,Cyprus,Southern Levant,Kourion,Nabataea,3
+High.Roman,Cyprus,Southern Levant,Kourion,uncertain,19
+High.Roman,Cyprus,Southern Levant,Paphos,Caesarea,4
+High.Roman,Cyprus,Southern Levant,Paphos,Jerusalem,1
+High.Roman,Cyprus,Southern Levant,Paphos,Nabataea,1
+High.Roman,Cyprus,Southern Levant,Paphos,uncertain,18
+High.Roman,Cyprus,Syria,Kourion,Antioch,2
+High.Roman,Cyprus,Syria,Kourion,Berytus,7
+High.Roman,Cyprus,Syria,Kourion,Tripolis,1
+High.Roman,Cyprus,Syria,Kourion,Tyre,2
+High.Roman,Cyprus,Syria,Paphos,Antioch,2
+High.Roman,Cyprus,Syria,Paphos,Berytus,1
+High.Roman,Cyprus,Syria,Paphos,Dora?,1
+High.Roman,Cyprus,Syria,Paphos,Tyre,4
+High.Roman,East,Anatolia,Dura Europos,Amasia (Pontus),1
+High.Roman,East,Anatolia,Dura Europos,Apamea,1
+High.Roman,East,Anatolia,Dura Europos,Cyme,1
+High.Roman,East,Anatolia,Dura Europos,Ephesus,3
+High.Roman,East,Anatolia,Dura Europos,Nicaea,1
+High.Roman,East,Anatolia,Dura Europos,Rhodes,1
+High.Roman,East,Anatolia,Dura Europos,Side,1
+High.Roman,East,Anatolia,Dura Europos,Smyrna,2
+High.Roman,East,Anatolia,Susa,Magnesia ad Sipylus,1
+High.Roman,East,Balkans,Dura Europos,Argos,1
+High.Roman,East,Balkans,Dura Europos,Corinth,1
+High.Roman,East,Balkans,Dura Europos,Patrae,1
+High.Roman,East,Balkans,Dura Europos,Tomis,1
+High.Roman,East,Cappadocia,Dura Europos,Caesarea,67
+High.Roman,East,Cappadocia,Dura Europos,Tyana,2
+High.Roman,East,Cappadocia,Tall She Hamad/Magdalu,Caesarea,7
+High.Roman,East,Cilicia,Dura Europos,Aegeae,1
+High.Roman,East,Cilicia,Dura Europos,Hieropolis-Castabala,1
+High.Roman,East,Cilicia,Dura Europos,Tarsus,1
+High.Roman,East,East,Dura Europos,Carrhae,58
+High.Roman,East,East,Dura Europos,Charax,2
+High.Roman,East,East,Dura Europos,Ecbatana,11
+High.Roman,East,East,Dura Europos,Edessa,17
+High.Roman,East,East,Dura Europos,Seleucia Tigris,186
+High.Roman,East,East,Dura Europos,uncertain,37
+High.Roman,East,East,Seleucia Tigris,Characene (Spasinou Charax),1
+High.Roman,East,East,Seleucia Tigris,Seleucia Tigris,353
+High.Roman,East,East,Susa,Ecbatana,5
+High.Roman,East,East,Susa,Ecbatana?,1
+High.Roman,East,East,Susa,Elymais (Elam, Susiana),1
+High.Roman,East,East,Susa,Seleucia Tigris,481
+High.Roman,East,East,Susa,Spasinou Charax (Characene),40
+High.Roman,East,East,Susa,Susa,357
+High.Roman,East,East,Tall She Hamad/Magdalu,Carrhae,3
+High.Roman,East,East,Tall She Hamad/Magdalu,Nisa,1
+High.Roman,East,East,Tall She Hamad/Magdalu,Seleucia Tigris,1
+High.Roman,East,East,Tall She Hamad/Magdalu,uncertain,3
+High.Roman,East,Egypt,Dura Europos,Alexandria,2
+High.Roman,East,Egypt,Susa,Alexandria,2
+High.Roman,East,Italy/Sicily,Dura Europos,Rome,373
+High.Roman,East,Italy/Sicily,Dura Europos,Rome ,1
+High.Roman,East,Italy/Sicily,Seleucia Tigris,Rome,2
+High.Roman,East,Italy/Sicily,Tall She Hamad/Magdalu,Rome,1
+High.Roman,East,Southern Levant,Dura Europos,Ascalon,2
+High.Roman,East,Southern Levant,Dura Europos,Caesarea,1
+High.Roman,East,Southern Levant,Dura Europos,Jerash,1
+High.Roman,East,Southern Levant,Dura Europos,Jerusalem,3
+High.Roman,East,Southern Levant,Dura Europos,Neapolis,1
+High.Roman,East,Southern Levant,Dura Europos,Petra,9
+High.Roman,East,Southern Levant,Dura Europos,uncertain,23
+High.Roman,East,Southern Levant,Susa,Jerusalem,1
+High.Roman,East,Southern Levant,Susa,Petra,1
+High.Roman,East,Southern Levant,Tall She Hamad/Magdalu,Aelia Capitolina,1
+High.Roman,East,Syria,Dura Europos,Antioch,543
+High.Roman,East,Syria,Dura Europos,Apamea,2
+High.Roman,East,Syria,Dura Europos,Aradus,21
+High.Roman,East,Syria,Dura Europos,Beroea,10
+High.Roman,East,Syria,Dura Europos,Berytus,1
+High.Roman,East,Syria,Dura Europos,Bostra,1
+High.Roman,East,Syria,Dura Europos,Commagene,7
+High.Roman,East,Syria,Dura Europos,Cyrrhus,5
+High.Roman,East,Syria,Dura Europos,Emesa,2
+High.Roman,East,Syria,Dura Europos,Gabala,1
+High.Roman,East,Syria,Dura Europos,Germanicia Caesarea,1
+High.Roman,East,Syria,Dura Europos,Hierapolis,64
+High.Roman,East,Syria,Dura Europos,Laodicea Ad Mare,59
+High.Roman,East,Syria,Dura Europos,Leucus on the Chrysorhoas,1
+High.Roman,East,Syria,Dura Europos,Samosata,4
+High.Roman,East,Syria,Dura Europos,Seleucia Pieria,3
+High.Roman,East,Syria,Dura Europos,Sidon,4
+High.Roman,East,Syria,Dura Europos,Tyre,11
+High.Roman,East,Syria,Dura Europos,Zeugma,14
+High.Roman,East,Syria,Seleucia Tigris,Antioch,1
+High.Roman,East,Syria,Susa,Antioch,2
+High.Roman,East,Syria,Tall She Hamad/Magdalu,Antioch,15
+High.Roman,East,Syria,Tall She Hamad/Magdalu,Beroea,1
+High.Roman,East,Syria,Tall She Hamad/Magdalu,Hierapolis,4
+High.Roman,East,Syria,Tall She Hamad/Magdalu,Laodicea Mare,6
+High.Roman,East,West,Dura Europos,Lugdunum,1
+High.Roman,Egypt,Cyprus,Karanis,Paphos,1
+High.Roman,Egypt,Egypt,Alexandria,Alexandria,223
+High.Roman,Egypt,Egypt,Karanis,Alexandria,779
+High.Roman,Egypt,Egypt,Karanis,Arsinoite Nome,7
+High.Roman,Egypt,Egypt,Karanis,Hermopolite Nome,1
+High.Roman,Egypt,Egypt,Karanis,Memphite Nome,1
+High.Roman,Egypt,Egypt,Karanis,Oxyrhynchite Nome,1
+High.Roman,Egypt,Egypt,Karanis,Pharbaetite Nome,1
+High.Roman,Egypt,Egypt,Karanis,Phthenote Nome,1
+High.Roman,Egypt,Egypt,Karanis,uncertain,1
+High.Roman,Egypt,Egypt,Saqqara,Alexandria,8
+High.Roman,Egypt,Egypt,Saqqara,Memphis,1
+High.Roman,Egypt,Italy/Sicily,Alexandria,Rome,1
+High.Roman,Egypt,Italy/Sicily,Karanis,Rome,2
+High.Roman,Egypt,Southern Levant,Saqqara,uncertain,2
+High.Roman,Egypt,Syria,Alexandria,Berytus,1
+High.Roman,Italy/Sicily,Anatolia,Cosa,Stratoniceia,1
+High.Roman,Italy/Sicily,Anatolia,Minturnae,Samos,1
+High.Roman,Italy/Sicily,Balkans,Ordona,Buthrotum,1
+High.Roman,Italy/Sicily,Balkans,Ordona,Perinthus,1
+High.Roman,Italy/Sicily,Cappadocia,Ordona,Caesarea,1
+High.Roman,Italy/Sicily,Egypt,Cosa,Alexandria,1
+High.Roman,Italy/Sicily,Italy/Sicily,Cosa,Panormus,1
+High.Roman,Italy/Sicily,Italy/Sicily,Cosa,Rome,145
+High.Roman,Italy/Sicily,Italy/Sicily,Cosa,Rome?,88
+High.Roman,Italy/Sicily,Italy/Sicily,Cosa,Umbria,1
+High.Roman,Italy/Sicily,Italy/Sicily,Minturnae,Rome,138
+High.Roman,Italy/Sicily,Italy/Sicily,Minturnae,Rome?,2
+High.Roman,Italy/Sicily,Italy/Sicily,Ordona,Rome,119
+High.Roman,Italy/Sicily,Italy/Sicily,Ordona,uncertain,7
+High.Roman,Italy/Sicily,West,Cosa,Lugdunum,1
+High.Roman,Italy/Sicily,West,Minturnae,Lugdunum,1
+High.Roman,Italy/Sicily,West,Minturnae,uncertain,2
+High.Roman,Southern Levant,Anatolia,Horvat 'Eleq,Lycia Aperlai,1
+High.Roman,Southern Levant,Anatolia,Masada,Side,1
+High.Roman,Southern Levant,Anatolia,Pella,Ephesus,1
+High.Roman,Southern Levant,Anatolia,Samaria,Rhodes,1
+High.Roman,Southern Levant,Anatolia,Samaria,Side,1
+High.Roman,Southern Levant,Anatolia,Tel Anafa,Chalcis (Galatia),1
+High.Roman,Southern Levant,Cappadocia,Jaffa,Caesarea,1
+High.Roman,Southern Levant,Egypt,Caesarea Maritima,Alexandria,13
+High.Roman,Southern Levant,Egypt,Jaffa,Alexandria,4
+High.Roman,Southern Levant,Egypt,Jerash,Alexandria,5
+High.Roman,Southern Levant,Egypt,Jerusalem,Alexandria,3
+High.Roman,Southern Levant,Egypt,Jerusalem,Alexandria?,1
+High.Roman,Southern Levant,Egypt,Masada,Alexandria,4
+High.Roman,Southern Levant,Italy/Sicily,Bethsaida,Rome,1
+High.Roman,Southern Levant,Italy/Sicily,Caesarea Maritima,Rome,8
+High.Roman,Southern Levant,Italy/Sicily,Horvat 'Eleq,Rome,1
+High.Roman,Southern Levant,Italy/Sicily,Jaffa,Rome,1
+High.Roman,Southern Levant,Italy/Sicily,Jerash,Rome,8
+High.Roman,Southern Levant,Italy/Sicily,Masada,Rome,1
+High.Roman,Southern Levant,Italy/Sicily,Paneas,Rome,1
+High.Roman,Southern Levant,Italy/Sicily,Pella,Rome,2
+High.Roman,Southern Levant,Southern Levant,Bethsaida,Diocaesarea,1
+High.Roman,Southern Levant,Southern Levant,Bethsaida,Jerusalem,7
+High.Roman,Southern Levant,Southern Levant,Bethsaida,Paneas,3
+High.Roman,Southern Levant,Southern Levant,Bethsaida,Paneas?,1
+High.Roman,Southern Levant,Southern Levant,Bethsaida,Tiberias,5
+High.Roman,Southern Levant,Southern Levant,Caesarea Maritima,Ascalon,1
+High.Roman,Southern Levant,Southern Levant,Caesarea Maritima,Caesarea Maritima,26
+High.Roman,Southern Levant,Southern Levant,Caesarea Maritima,Caesarea Maritima?,4
+High.Roman,Southern Levant,Southern Levant,Caesarea Maritima,Gaza,1
+High.Roman,Southern Levant,Southern Levant,Caesarea Maritima,Jerusalem,159
+High.Roman,Southern Levant,Southern Levant,Caesarea Maritima,Nabataea,1
+High.Roman,Southern Levant,Southern Levant,Caesarea Maritima,Sepphoris,3
+High.Roman,Southern Levant,Southern Levant,En-Gedi,Ascalon,1
+High.Roman,Southern Levant,Southern Levant,En-Gedi,Caesarea,3
+High.Roman,Southern Levant,Southern Levant,En-Gedi,Dora,1
+High.Roman,Southern Levant,Southern Levant,En-Gedi,Jerusalem,10
+High.Roman,Southern Levant,Southern Levant,En-Gedi,uncertain,1
+High.Roman,Southern Levant,Southern Levant,Horvat 'Eleq,Caesarea,3
+High.Roman,Southern Levant,Southern Levant,Horvat 'Eleq,Caesarea Maritima,1
+High.Roman,Southern Levant,Southern Levant,Horvat 'Eleq,Jerusalem,43
+High.Roman,Southern Levant,Southern Levant,Horvat 'Eleq,Sepphoris,1
+High.Roman,Southern Levant,Southern Levant,Jaffa,Caesarea Maritima,1
+High.Roman,Southern Levant,Southern Levant,Jaffa,Nabataean,3
+High.Roman,Southern Levant,Southern Levant,Jaffa,Neapolis,2
+High.Roman,Southern Levant,Southern Levant,Jaffa,Sepphoris-Diocaesarea,3
+High.Roman,Southern Levant,Southern Levant,Jaffa,Tiberias,1
+High.Roman,Southern Levant,Southern Levant,Jaffa,uncertain,52
+High.Roman,Southern Levant,Southern Levant,Jerash,Bostra,5
+High.Roman,Southern Levant,Southern Levant,Jerash,Esbus?,1
+High.Roman,Southern Levant,Southern Levant,Jerash,Gerasa,11
+High.Roman,Southern Levant,Southern Levant,Jerash,Philadelphia,1
+High.Roman,Southern Levant,Southern Levant,Jerash,uncertain,28
+High.Roman,Southern Levant,Southern Levant,Jerusalem,Caesarea,3
+High.Roman,Southern Levant,Southern Levant,Jerusalem,Jerusalem,179
+High.Roman,Southern Levant,Southern Levant,Jerusalem,uncertain,117
+High.Roman,Southern Levant,Southern Levant,Masada,Ascalon,71
+High.Roman,Southern Levant,Southern Levant,Masada,BethShean/Nysa,3
+High.Roman,Southern Levant,Southern Levant,Masada,Bostra,1
+High.Roman,Southern Levant,Southern Levant,Masada,Caesarea Maritima,24
+High.Roman,Southern Levant,Southern Levant,Masada,Caesarea Maritima?,4
+High.Roman,Southern Levant,Southern Levant,Masada,Jerash,2
+High.Roman,Southern Levant,Southern Levant,Masada,Jerusalem,1213
+High.Roman,Southern Levant,Southern Levant,Masada,Paneas,2
+High.Roman,Southern Levant,Southern Levant,Masada,Paneas?,2
+High.Roman,Southern Levant,Southern Levant,Masada,Petra,59
+High.Roman,Southern Levant,Southern Levant,Masada,Samaria,1
+High.Roman,Southern Levant,Southern Levant,Masada,Samaria-Sebaste,1
+High.Roman,Southern Levant,Southern Levant,Masada,Tiberias,1
+High.Roman,Southern Levant,Southern Levant,Masada,uncertain,2342
+High.Roman,Southern Levant,Southern Levant,Nessana,Nabataea,7
+High.Roman,Southern Levant,Southern Levant,Paneas,Caesarea,1
+High.Roman,Southern Levant,Southern Levant,Paneas,Caesarea Paneas (Phillipi),1
+High.Roman,Southern Levant,Southern Levant,Paneas,Nabataea,1
+High.Roman,Southern Levant,Southern Levant,Paneas,Tiberias,1
+High.Roman,Southern Levant,Southern Levant,Pella,Bostra,1
+High.Roman,Southern Levant,Southern Levant,Pella,Gadara,1
+High.Roman,Southern Levant,Southern Levant,Pella,Gerasa,1
+High.Roman,Southern Levant,Southern Levant,Pella,Jerusalem,2
+High.Roman,Southern Levant,Southern Levant,Pella,Nysa-Scythopolis,2
+High.Roman,Southern Levant,Southern Levant,Pella,uncertain,11
+High.Roman,Southern Levant,Southern Levant,Qiryat Sefer,Caesarea,7
+High.Roman,Southern Levant,Southern Levant,Qiryat Sefer,Caesarea Paneas (Philippi),2
+High.Roman,Southern Levant,Southern Levant,Qiryat Sefer,Jerusalem,31
+High.Roman,Southern Levant,Southern Levant,Qiryat Sefer,Sepphoris,2
+High.Roman,Southern Levant,Southern Levant,Qiryat Sefer,uncertain,4
+High.Roman,Southern Levant,Southern Levant,Samaria,Ascalon,2
+High.Roman,Southern Levant,Southern Levant,Samaria,Caesarea,8
+High.Roman,Southern Levant,Southern Levant,Samaria,Gaba,1
+High.Roman,Southern Levant,Southern Levant,Samaria,Gaza,2
+High.Roman,Southern Levant,Southern Levant,Samaria,Gaza?,1
+High.Roman,Southern Levant,Southern Levant,Samaria,Jerusalem,4
+High.Roman,Southern Levant,Southern Levant,Samaria,Neapolis,5
+High.Roman,Southern Levant,Southern Levant,Samaria,Palestine,131
+High.Roman,Southern Levant,Southern Levant,Samaria,Petra,1
+High.Roman,Southern Levant,Southern Levant,Samaria,Samaria (Sebaste),1
+High.Roman,Southern Levant,Southern Levant,Samaria,uncertain,55
+High.Roman,Southern Levant,Southern Levant,Si (Hauran),uncertain,117
+High.Roman,Southern Levant,Southern Levant,Tel Anafa,Paneas,6
+High.Roman,Southern Levant,Southern Levant,Tel Anafa,uncertain,2
+High.Roman,Southern Levant,Southern Levant,Tel Jezreel,Caesarea?,1
+High.Roman,Southern Levant,Southern Levant,Tel Jezreel,Nysa-Scythopolis,1
+High.Roman,Southern Levant,Southern Levant,Tel Jezreel,Sepphoris,1
+High.Roman,Southern Levant,Southern Levant,Tel Jezreel,uncertain,1
+High.Roman,Southern Levant,Syria,Bethsaida,Tyre,8
+High.Roman,Southern Levant,Syria,Caesarea Maritima,Ake-Ptolemais,1
+High.Roman,Southern Levant,Syria,Caesarea Maritima,Antioch,4
+High.Roman,Southern Levant,Syria,Caesarea Maritima,Berytus,1
+High.Roman,Southern Levant,Syria,Caesarea Maritima,Canatha (Kanata),1
+High.Roman,Southern Levant,Syria,Caesarea Maritima,Dora,4
+High.Roman,Southern Levant,Syria,Caesarea Maritima,Gaba,1
+High.Roman,Southern Levant,Syria,Caesarea Maritima,Paneas,7
+High.Roman,Southern Levant,Syria,Caesarea Maritima,Sidon,1
+High.Roman,Southern Levant,Syria,Caesarea Maritima,Tyre,8
+High.Roman,Southern Levant,Syria,En-Gedi,Antioch,1
+High.Roman,Southern Levant,Syria,Horvat 'Eleq,Antioch,1
+High.Roman,Southern Levant,Syria,Horvat 'Eleq,Dora,1
+High.Roman,Southern Levant,Syria,Horvat 'Eleq,Tyre,1
+High.Roman,Southern Levant,Syria,Jaffa,Antioch,15
+High.Roman,Southern Levant,Syria,Jaffa,Tyre,2
+High.Roman,Southern Levant,Syria,Jerash,Antioch,6
+High.Roman,Southern Levant,Syria,Jerash,Berytus,1
+High.Roman,Southern Levant,Syria,Jerash,Tyre,4
+High.Roman,Southern Levant,Syria,Jerusalem,Antioch,3
+High.Roman,Southern Levant,Syria,Jerusalem,Berytus,1
+High.Roman,Southern Levant,Syria,Jerusalem,Dora,1
+High.Roman,Southern Levant,Syria,Jerusalem,Gadara,1
+High.Roman,Southern Levant,Syria,Jerusalem,uncertain,1
+High.Roman,Southern Levant,Syria,Masada,Ake-Ptolemais,2
+High.Roman,Southern Levant,Syria,Masada,Antioch,16
+High.Roman,Southern Levant,Syria,Masada,Antioch?,6
+High.Roman,Southern Levant,Syria,Masada,Canatha,1
+High.Roman,Southern Levant,Syria,Masada,Dora,11
+High.Roman,Southern Levant,Syria,Masada,Sidon,3
+High.Roman,Southern Levant,Syria,Masada,Tyre,10
+High.Roman,Southern Levant,Syria,Masada,Tyre?,1
+High.Roman,Southern Levant,Syria,Paneas,Sidon,3
+High.Roman,Southern Levant,Syria,Pella,Antioch,1
+High.Roman,Southern Levant,Syria,Qiryat Sefer,Antioch,2
+High.Roman,Southern Levant,Syria,Samaria,Antioch,27
+High.Roman,Southern Levant,Syria,Samaria,Damascus,2
+High.Roman,Southern Levant,Syria,Samaria,Dora,3
+High.Roman,Southern Levant,Syria,Samaria,Ptolemais-Ake,4
+High.Roman,Southern Levant,Syria,Samaria,Sidon,1
+High.Roman,Southern Levant,Syria,Samaria,Tyre,22
+High.Roman,Southern Levant,Syria,Si (Hauran),Bostra,5
+High.Roman,Southern Levant,Syria,Si (Hauran),Canatha,9
+High.Roman,Southern Levant,Syria,Tel Anafa,Sidon,3
+High.Roman,Southern Levant,Syria,Tel Anafa,Tyre,18
+High.Roman,Southern Levant,Syria,Tel Anafa,uncertain,20
+High.Roman,Southern Levant,Syria,Tel Beth-Shean,Berytus,1
+High.Roman,Southern Levant,Syria,Tel Beth-Shean,Tyre,1
+High.Roman,Southern Levant,Syria,Tel Jezreel,Dora,1
+High.Roman,Southern Levant,Syria,Tel Jezreel,Tyre,2
+High.Roman,Syria,Anatolia,Antioch,Perga (Lycia and Pamphylia),1
+High.Roman,Syria,Anatolia,Antioch,Pergamon,5
+High.Roman,Syria,Anatolia,Antioch,Rhodes,1
+High.Roman,Syria,Anatolia,Antioch,Side,2
+High.Roman,Syria,Anatolia,Berytus,Etenna (Pisidia),1
+High.Roman,Syria,Anatolia,Berytus,Nicaea,1
+High.Roman,Syria,Anatolia,Berytus,Parium (Mysia),1
+High.Roman,Syria,Anatolia,Palmyra,Ancyra (Galatia),1
+High.Roman,Syria,Anatolia,Palmyra,Bithynia,2
+High.Roman,Syria,Anatolia,Palmyra,Pergamon,1
+High.Roman,Syria,Anatolia,Palmyra,Tavium (Galatia),1
+High.Roman,Syria,Anatolia,Seleucia Pieria,Cos,1
+High.Roman,Syria,Anatolia,Seleucia Pieria,Ephesus,1
+High.Roman,Syria,Anatolia,Seleucia Pieria,Pergamon,2
+High.Roman,Syria,Anatolia,Tyre,Rhodes,1
+High.Roman,Syria,Balkans,Antioch,Thessalonica,1
+High.Roman,Syria,Cappadocia,Antioch,Caesarea,1
+High.Roman,Syria,Cappadocia,Palmyra,Caesarea,2
+High.Roman,Syria,Cappadocia,Tille,Caesarea,2
+High.Roman,Syria,Cilicia,Antioch,Mallus,1
+High.Roman,Syria,Cilicia,Antioch,Tarsus,2
+High.Roman,Syria,Cyprus,Berytus,uncertain,1
+High.Roman,Syria,East,Antioch,Seleucia Tigris,1
+High.Roman,Syria,East,Palmyra,Characene,3
+High.Roman,Syria,East,Palmyra,Edessa,1
+High.Roman,Syria,East,Palmyra,Seleucia Tigris,1
+High.Roman,Syria,Egypt,Antioch,Alexandria,10
+High.Roman,Syria,Egypt,Antioch,Ptolemaic,1
+High.Roman,Syria,Egypt,Berytus,Alexandria,3
+High.Roman,Syria,Egypt,Seleucia Pieria,uncertain,1
+High.Roman,Syria,Italy/Sicily,Antioch,Rome,16
+High.Roman,Syria,Italy/Sicily,Antioch/Seleucia,Rome,67
+High.Roman,Syria,Italy/Sicily,Apamea,Rome,1
+High.Roman,Syria,Italy/Sicily,Berytus,Rome,5
+High.Roman,Syria,Italy/Sicily,Palmyra,Rome,2
+High.Roman,Syria,Italy/Sicily,Palmyra,Rome?,4
+High.Roman,Syria,Italy/Sicily,Perrhe,Rome,1
+High.Roman,Syria,Italy/Sicily,Tell Rifa'at,Rome,1
+High.Roman,Syria,Italy/Sicily,Tille,Rome,2
+High.Roman,Syria,Italy/Sicily,Zeugma,Rome,3
+High.Roman,Syria,Southern Levant,Antioch,Ascalon,1
+High.Roman,Syria,Southern Levant,Antioch,Caesarea,1
+High.Roman,Syria,Southern Levant,Antioch,Coins of the Jews,8
+High.Roman,Syria,Southern Levant,Antioch,Nabataean Kingdom,21
+High.Roman,Syria,Southern Levant,Apamea,Coin of the Jews,1
+High.Roman,Syria,Southern Levant,Berytus,Ascalon,2
+High.Roman,Syria,Southern Levant,Berytus,Caesarea Maritima?,1
+High.Roman,Syria,Southern Levant,Berytus,Jerusalem,4
+High.Roman,Syria,Southern Levant,Berytus,Neronias?,1
+High.Roman,Syria,Southern Levant,Berytus,Paneas,1
+High.Roman,Syria,Southern Levant,Berytus,uncertain,22
+High.Roman,Syria,Southern Levant,Hama,uncertain,2
+High.Roman,Syria,Southern Levant,Palmyra,Nabataea,7
+High.Roman,Syria,Southern Levant,Palmyra,uncertain,2
+High.Roman,Syria,Southern Levant,Seleucia Pieria,uncertain,4
+High.Roman,Syria,Southern Levant,Tell el Hajj,uncertain,2
+High.Roman,Syria,Southern Levant,Tille,Jerusalem,1
+High.Roman,Syria,Southern Levant,Zeugma,uncertain,2
+High.Roman,Syria,Syria,Antioch,Antioch,845
+High.Roman,Syria,Syria,Antioch,Antioch ,6
+High.Roman,Syria,Syria,Antioch,Antioch?,1
+High.Roman,Syria,Syria,Antioch,Apamea,1
+High.Roman,Syria,Syria,Antioch,Aradus,1
+High.Roman,Syria,Syria,Antioch,Canata,1
+High.Roman,Syria,Syria,Antioch,Cyrrhus,2
+High.Roman,Syria,Syria,Antioch,Laodicea ad Mare,8
+High.Roman,Syria,Syria,Antioch,Raphanea?,1
+High.Roman,Syria,Syria,Antioch,Seleucia Pieria,17
+High.Roman,Syria,Syria,Antioch,uncertain,3
+High.Roman,Syria,Syria,Antioch,Zeugma,1
+High.Roman,Syria,Syria,Antioch/Seleucia,Antioch,17
+High.Roman,Syria,Syria,Antioch/Seleucia,uncertain,3
+High.Roman,Syria,Syria,Apamea,Antioch,5
+High.Roman,Syria,Syria,Apamea,uncertain,1
+High.Roman,Syria,Syria,Berytus,Antioch,66
+High.Roman,Syria,Syria,Berytus,Berytus,85
+High.Roman,Syria,Syria,Berytus,Byblus,1
+High.Roman,Syria,Syria,Berytus,Chalcis,3
+High.Roman,Syria,Syria,Berytus,Damascus,1
+High.Roman,Syria,Syria,Berytus,Dora,1
+High.Roman,Syria,Syria,Berytus,Sidon,3
+High.Roman,Syria,Syria,Berytus,Tripolis,1
+High.Roman,Syria,Syria,Berytus,Tyre,5
+High.Roman,Syria,Syria,Gindaros,Antioch,9
+High.Roman,Syria,Syria,Gindaros,Antioch?,1
+High.Roman,Syria,Syria,Hama,Antioch,22
+High.Roman,Syria,Syria,Hama,Apamea,24
+High.Roman,Syria,Syria,Hama,Aradus,21
+High.Roman,Syria,Syria,Hama,Dora,1
+High.Roman,Syria,Syria,Hama,Laodicea ad Mare,4
+High.Roman,Syria,Syria,Hama,Seleucia Pieria,2
+High.Roman,Syria,Syria,Hama,Tripolis,1
+High.Roman,Syria,Syria,Hama,uncertain,4
+High.Roman,Syria,Syria,Jebel Khallid,Antioch,1
+High.Roman,Syria,Syria,Oumm El'Marra,Antioch,1
+High.Roman,Syria,Syria,Palmyra,Antioch,45
+High.Roman,Syria,Syria,Palmyra,Antioch?,1
+High.Roman,Syria,Syria,Palmyra,Damascus,12
+High.Roman,Syria,Syria,Palmyra,Laodicea Mare,2
+High.Roman,Syria,Syria,Palmyra,Palmyra,2
+High.Roman,Syria,Syria,Palmyra,Samosata,2
+High.Roman,Syria,Syria,Perrhe,Antioch,1
+High.Roman,Syria,Syria,Perrhe,Doliche,1
+High.Roman,Syria,Syria,Perrhe,Laodicea ad Mare,2
+High.Roman,Syria,Syria,Perrhe,Samosata,1
+High.Roman,Syria,Syria,Perrhe,uncertain,2
+High.Roman,Syria,Syria,Raphanea,Antioch,1
+High.Roman,Syria,Syria,Ras Shamra,Laodicea ad Mare,7
+High.Roman,Syria,Syria,Seleucia Pieria,Antioch,52
+High.Roman,Syria,Syria,Seleucia Pieria,Laodicea ad Mare,1
+High.Roman,Syria,Syria,Seleucia Pieria,Seleucia Pieria,55
+High.Roman,Syria,Syria,Seleucia Pieria,Tyre,1
+High.Roman,Syria,Syria,Seleucia Pieria,uncertain,2
+High.Roman,Syria,Syria,Tell abou Danne,Antioch,24
+High.Roman,Syria,Syria,Tell Barri,Hierapolis,1
+High.Roman,Syria,Syria,Tell el Hajj,Antioch,11
+High.Roman,Syria,Syria,Tell el Hajj,Hierapolis,1
+High.Roman,Syria,Syria,Tell el Hajj,Laodicea ad Mare,1
+High.Roman,Syria,Syria,Tell Rifa'at,Antioch,5
+High.Roman,Syria,Syria,Tell Rifa'at,Laodicea ad Mare?,1
+High.Roman,Syria,Syria,Tille,Antioch,5
+High.Roman,Syria,Syria,Tille,Cyrrhus,1
+High.Roman,Syria,Syria,Tille,Samosata,1
+High.Roman,Syria,Syria,Tille,uncertain,6
+High.Roman,Syria,Syria,Tille,Zeugma,2
+High.Roman,Syria,Syria,Tyre,Antioch,1
+High.Roman,Syria,Syria,Tyre,Sidon,1
+High.Roman,Syria,Syria,Tyre,Tyre,70
+High.Roman,Syria,Syria,Zeugma,Antioch,8
+High.Roman,Syria,Syria,Zeugma,Beroea,1
+High.Roman,Syria,Syria,Zeugma,Chalcis,3
+High.Roman,Syria,Syria,Zeugma,Cyrrhus,1
+High.Roman,Syria,Syria,Zeugma,Hierapolis,3
+High.Roman,Syria,Syria,Zeugma,uncertain,1
+High.Roman,Syria,Syria,Zeugma,Zeugma,6
+High.Roman,West,Cappadocia,Idanha-a-Velha,Caesarea,1
+High.Roman,West,East,Bath,uncertain,4
+High.Roman,West,Italy/Sicily,Bath,Rome,304
+High.Roman,West,Italy/Sicily,Bath,Rome?,7
+High.Roman,West,Italy/Sicily,Conimbriga,Rome,121
+High.Roman,West,Italy/Sicily,Haltonchesters,Rome,38
+High.Roman,West,Italy/Sicily,Idanha-a-Velha,Catania,1
+High.Roman,West,Italy/Sicily,Idanha-a-Velha,Rome,23
+High.Roman,West,Italy/Sicily,Segobriga,Rome,110
+High.Roman,West,Italy/Sicily,Silchester,Rome,29
+High.Roman,West,Italy/Sicily,Silchester,Rome?,2
+High.Roman,West,Syria,Bath,Antioch,3
+High.Roman,West,Syria,Bath,Antioch?,20
+High.Roman,West,Syria,Idanha-a-Velha,Antioch,1
+High.Roman,West,West,Bath,Lugdunum,218
+High.Roman,West,West,Bath,uncertain,613
+High.Roman,West,West,Conimbriga,Caesar Augusta (Saragosse),2
+High.Roman,West,West,Conimbriga,Calagurris (Calahorra),2
+High.Roman,West,West,Conimbriga,Carteia,1
+High.Roman,West,West,Conimbriga,Carthago Nova,1
+High.Roman,West,West,Conimbriga,Castuo,1
+High.Roman,West,West,Conimbriga,Celsa,1
+High.Roman,West,West,Conimbriga,Colonia Patricia,5
+High.Roman,West,West,Conimbriga,Colonia Romula,1
+High.Roman,West,West,Conimbriga,Ebora,2
+High.Roman,West,West,Conimbriga,Emerita,30
+High.Roman,West,West,Conimbriga,Ercavica,1
+High.Roman,West,West,Conimbriga,Irippo,2
+High.Roman,West,West,Conimbriga,Italica,1
+High.Roman,West,West,Conimbriga,Lyon,5
+High.Roman,West,West,Conimbriga,Myrtilis,1
+High.Roman,West,West,Conimbriga,Segobriga,1
+High.Roman,West,West,Conimbriga,Tarraco,2
+High.Roman,West,West,Conimbriga,Turiaso,1
+High.Roman,West,West,Conimbriga,uncertain,51
+High.Roman,West,West,Idanha-a-Velha,Calagurris,2
+High.Roman,West,West,Idanha-a-Velha,Ebora,1
+High.Roman,West,West,Idanha-a-Velha,Emerita,1
+High.Roman,West,West,Idanha-a-Velha,Italica,1
+High.Roman,West,West,Idanha-a-Velha,Murtili,1
+High.Roman,West,West,Idanha-a-Velha,Salacia,1
+High.Roman,West,West,Idanha-a-Velha,Spain,2
+High.Roman,West,West,Idanha-a-Velha,uncertain,5
+High.Roman,West,West,Segobriga,Bilbilis (Zaragoza),15
+High.Roman,West,West,Segobriga,Caesar Augusta (Zaragonza),9
+High.Roman,West,West,Segobriga,Calagurris (La Rioja),4
+High.Roman,West,West,Segobriga,Carthago Nova (Cartagena),9
+High.Roman,West,West,Segobriga,Castulo,1
+High.Roman,West,West,Segobriga,Clunia (Burgos),2
+High.Roman,West,West,Segobriga,Ieso (Guisona, Lerida),1
+High.Roman,West,West,Segobriga,Ilici (Alicante),1
+High.Roman,West,West,Segobriga,Kelse (Zaragoza),1
+High.Roman,West,West,Segobriga,Konterbia Karbika (Cuenca),3
+High.Roman,West,West,Segobriga,Lakine (Zaragoza),1
+High.Roman,West,West,Segobriga,Lepida-Celsa (Zaragoza),9
+High.Roman,West,West,Segobriga,Lugdunum,5
+High.Roman,West,West,Segobriga,Lugdunum ,5
+High.Roman,West,West,Segobriga,Obulco-Castulo,1
+High.Roman,West,West,Segobriga,Osca (Huesca),1
+High.Roman,West,West,Segobriga,Segobriga (Cuenca),38
+High.Roman,West,West,Segobriga,Segobriga? (Cuenca),1
+High.Roman,West,West,Segobriga,Tarraco,2
+High.Roman,West,West,Segobriga,Turiaso (Zaragoza),2
+High.Roman,West,West,Segobriga,uncertain,11
+High.Roman,West,West,Silchester,Atrebates,4
+High.Roman,West,West,Silchester,Catuvellauni,3
+High.Roman,West,West,Silchester,Curiosolitae (Brittany),1
+High.Roman,West,West,Silchester,Lyons,12
+High.Roman,West,West,Silchester,Nimes,1
+High.Roman,West,West,Silchester,Rouen-Amiens,1
+High.Roman,West,West,Silchester,Trinovantes,2
+High.Roman,West,West,Silchester,uncertain,2
+Late.Roman,Africa,Italy/Sicily,Cyrene,Rome,6
+Late.Roman,Africa,Italy/Sicily,Sabratha,Rome?,8
+Late.Roman,Africa,West,Carthage,uncertain,5
+Late.Roman,Anatolia,Anatolia,Andriake (Myra),Aspendos,1
+Late.Roman,Anatolia,Anatolia,Andriake (Myra),Kyenai (Lycia),1
+Late.Roman,Anatolia,Anatolia,Andriake (Myra),Myra (Lycia),1
+Late.Roman,Anatolia,Anatolia,Andriake (Myra),Nicomedia,1
+Late.Roman,Anatolia,Anatolia,Andriake (Myra),Olbasa (Pisidia),1
+Late.Roman,Anatolia,Anatolia,Andriake (Myra),Perge (Pamphylia),1
+Late.Roman,Anatolia,Anatolia,Aphrodisias,Alabanda (Caria),2
+Late.Roman,Anatolia,Anatolia,Aphrodisias,Antioch (Caria),3
+Late.Roman,Anatolia,Anatolia,Aphrodisias,Antioch (Caria)?,1
+Late.Roman,Anatolia,Anatolia,Aphrodisias,Aphrodisias,92
+Late.Roman,Anatolia,Anatolia,Aphrodisias,Bargasa (Caria),7
+Late.Roman,Anatolia,Anatolia,Aphrodisias,Colophon (Ionia),1
+Late.Roman,Anatolia,Anatolia,Aphrodisias,Cyme (Mysia),1
+Late.Roman,Anatolia,Anatolia,Aphrodisias,Cyzicus,9
+Late.Roman,Anatolia,Anatolia,Aphrodisias,Dioshieron (Lydia),1
+Late.Roman,Anatolia,Anatolia,Aphrodisias,Ephesus,14
+Late.Roman,Anatolia,Anatolia,Aphrodisias,Eucarpeia,1
+Late.Roman,Anatolia,Anatolia,Aphrodisias,Hypaepa,2
+Late.Roman,Anatolia,Anatolia,Aphrodisias,Laodiceia (Phrygia),3
+Late.Roman,Anatolia,Anatolia,Aphrodisias,Magnesia,2
+Late.Roman,Anatolia,Anatolia,Aphrodisias,Metropolis,3
+Late.Roman,Anatolia,Anatolia,Aphrodisias,Nysa,1
+Late.Roman,Anatolia,Anatolia,Aphrodisias,Perge,1
+Late.Roman,Anatolia,Anatolia,Aphrodisias,Sardis,1
+Late.Roman,Anatolia,Anatolia,Aphrodisias,Stratonicea,1
+Late.Roman,Anatolia,Anatolia,Aphrodisias,Tabai,1
+Late.Roman,Anatolia,Anatolia,Aphrodisias,Thyatira,1
+Late.Roman,Anatolia,Anatolia,Aphrodisias,Tralles,1
+Late.Roman,Anatolia,Anatolia,Cankirikapi,Ancyra (Galatia),34
+Late.Roman,Anatolia,Anatolia,Cankirikapi,Antiochia ad Maeandrum,1
+Late.Roman,Anatolia,Anatolia,Cankirikapi,Germanikopolis (Paphlagonia),7
+Late.Roman,Anatolia,Anatolia,Cankirikapi,Metropolis,1
+Late.Roman,Anatolia,Anatolia,Cankirikapi,Neocaesarea (Pontus),1
+Late.Roman,Anatolia,Anatolia,Cankirikapi,Nikaia (Bithynia),1
+Late.Roman,Anatolia,Anatolia,Cankirikapi,Pessinus,3
+Late.Roman,Anatolia,Anatolia,Cankirikapi,Prusias ad Hypium,1
+Late.Roman,Anatolia,Anatolia,Cankirikapi,Side (Pamphylia),1
+Late.Roman,Anatolia,Anatolia,Cankirikapi,Tavium (Galatia),3
+Late.Roman,Anatolia,Anatolia,Ephesus,Cyzicus,2
+Late.Roman,Anatolia,Anatolia,Ephesus,Cyzicus?,1
+Late.Roman,Anatolia,Anatolia,Ephesus,Ephesus,7
+Late.Roman,Anatolia,Anatolia,Ephesus,Hypaipa (Lydia),1
+Late.Roman,Anatolia,Anatolia,Ephesus,Magnesia,1
+Late.Roman,Anatolia,Anatolia,Ephesus,Metropolis (Ionia?),1
+Late.Roman,Anatolia,Anatolia,Ephesus,Nysa (Lydia),1
+Late.Roman,Anatolia,Anatolia,Ephesus,uncertain,2
+Late.Roman,Anatolia,Anatolia,Hierapolis,Alexandria Troas,1
+Late.Roman,Anatolia,Anatolia,Hierapolis,Ancyra,1
+Late.Roman,Anatolia,Anatolia,Hierapolis,Antioch Maeandrum,1
+Late.Roman,Anatolia,Anatolia,Hierapolis,Apamea,1
+Late.Roman,Anatolia,Anatolia,Hierapolis,Attaleia,1
+Late.Roman,Anatolia,Anatolia,Hierapolis,Cyzicus,4
+Late.Roman,Anatolia,Anatolia,Hierapolis,Ephesus,1
+Late.Roman,Anatolia,Anatolia,Hierapolis,Heraclea,1
+Late.Roman,Anatolia,Anatolia,Hierapolis,Hierapolis,51
+Late.Roman,Anatolia,Anatolia,Hierapolis,Laodiceia,5
+Late.Roman,Anatolia,Anatolia,Hierapolis,Pergamum,1
+Late.Roman,Anatolia,Anatolia,Hierapolis,Smyrna,2
+Late.Roman,Anatolia,Anatolia,Hierapolis,Synaus,1
+Late.Roman,Anatolia,Anatolia,Hierapolis,Tralles,1
+Late.Roman,Anatolia,Anatolia,Hierapolis,Tripolis,1
+Late.Roman,Anatolia,Anatolia,Niksar,Commana Pontica,1
+Late.Roman,Anatolia,Anatolia,Niksar,Neocaesarea,11
+Late.Roman,Anatolia,Anatolia,Pergamon,Akrasos (Lydia),1
+Late.Roman,Anatolia,Anatolia,Pergamon,Cyzicus,6
+Late.Roman,Anatolia,Anatolia,Pergamon,Ephesus,1
+Late.Roman,Anatolia,Anatolia,Pergamon,Pergamon,19
+Late.Roman,Anatolia,Anatolia,Pergamon,Pitane,1
+Late.Roman,Anatolia,Anatolia,Pergamon,Thyatira,3
+Late.Roman,Anatolia,Anatolia,Sagalassos,Aspendos (Pamphylia),2
+Late.Roman,Anatolia,Anatolia,Sagalassos,Baris (Pisidia),2
+Late.Roman,Anatolia,Anatolia,Sagalassos,Eucarpeia (Phrygia),1
+Late.Roman,Anatolia,Anatolia,Sagalassos,Kremna (Pisidia),1
+Late.Roman,Anatolia,Anatolia,Sagalassos,Perge,12
+Late.Roman,Anatolia,Anatolia,Sagalassos,Perge (Pamphylia),2
+Late.Roman,Anatolia,Anatolia,Sagalassos,Prymnessus (Phrygia),1
+Late.Roman,Anatolia,Anatolia,Sagalassos,Sagalassos,22
+Late.Roman,Anatolia,Anatolia,Sagalassos,Sagalassos?,1
+Late.Roman,Anatolia,Anatolia,Sagalassos,Tripolis (Phrygia),1
+Late.Roman,Anatolia,Anatolia,Sardis,Adramyteum (Mysia),1
+Late.Roman,Anatolia,Anatolia,Sardis,Aezanis (Phrygia),1
+Late.Roman,Anatolia,Anatolia,Sardis,Antioch ad Meandrum (Caria),1
+Late.Roman,Anatolia,Anatolia,Sardis,Apollonis (Lydia),1
+Late.Roman,Anatolia,Anatolia,Sardis,Colophon (Ionia),1
+Late.Roman,Anatolia,Anatolia,Sardis,Conana (Pisidia),1
+Late.Roman,Anatolia,Anatolia,Sardis,Cyzicus,8
+Late.Roman,Anatolia,Anatolia,Sardis,Ephesus,6
+Late.Roman,Anatolia,Anatolia,Sardis,Germe,1
+Late.Roman,Anatolia,Anatolia,Sardis,Gordus Julia,2
+Late.Roman,Anatolia,Anatolia,Sardis,Hypaepa,2
+Late.Roman,Anatolia,Anatolia,Sardis,Laodiceia (Phrygia),2
+Late.Roman,Anatolia,Anatolia,Sardis,Maeonia,8
+Late.Roman,Anatolia,Anatolia,Sardis,Magnesia ad Maeandrum,3
+Late.Roman,Anatolia,Anatolia,Sardis,Magnesia ad Sipylum,3
+Late.Roman,Anatolia,Anatolia,Sardis,Metropolis,2
+Late.Roman,Anatolia,Anatolia,Sardis,Miletus,1
+Late.Roman,Anatolia,Anatolia,Sardis,Mostene,1
+Late.Roman,Anatolia,Anatolia,Sardis,Nacrasa,1
+Late.Roman,Anatolia,Anatolia,Sardis,Ococleia (Phrygia),1
+Late.Roman,Anatolia,Anatolia,Sardis,Pergamum,3
+Late.Roman,Anatolia,Anatolia,Sardis,Philadelphia,7
+Late.Roman,Anatolia,Anatolia,Sardis,Phocaea,1
+Late.Roman,Anatolia,Anatolia,Sardis,Saitta,1
+Late.Roman,Anatolia,Anatolia,Sardis,Sala,1
+Late.Roman,Anatolia,Anatolia,Sardis,Sardis,282
+Late.Roman,Anatolia,Anatolia,Sardis,Smyrna,8
+Late.Roman,Anatolia,Anatolia,Sardis,Stratonicea,1
+Late.Roman,Anatolia,Anatolia,Sardis,Synaus (Phrygia),2
+Late.Roman,Anatolia,Anatolia,Sardis,Temenothyrae (Phrygia),1
+Late.Roman,Anatolia,Anatolia,Sardis,Thyatira,8
+Late.Roman,Anatolia,Anatolia,Sardis,Tmolus,1
+Late.Roman,Anatolia,Anatolia,Sardis,Tralles,1
+Late.Roman,Anatolia,Anatolia,Sardis,Tripolis,1
+Late.Roman,Anatolia,Anatolia,Sardis,uncertain,2
+Late.Roman,Anatolia,Anatolia,Side,Ankyra (Phrygia),1
+Late.Roman,Anatolia,Anatolia,Side,Antioch (Pisidia),1
+Late.Roman,Anatolia,Anatolia,Side,Aspendos (Pamphylia),11
+Late.Roman,Anatolia,Anatolia,Side,Attaleia (Pamphylia),2
+Late.Roman,Anatolia,Anatolia,Side,Cyzicus,2
+Late.Roman,Anatolia,Anatolia,Side,Etenna (Pisidia),1
+Late.Roman,Anatolia,Anatolia,Side,Germe (Mysia),2
+Late.Roman,Anatolia,Anatolia,Side,Peltai (Phrygia),1
+Late.Roman,Anatolia,Anatolia,Side,Perge (Pamphylia),9
+Late.Roman,Anatolia,Anatolia,Side,Prostanna (Pisidia),1
+Late.Roman,Anatolia,Anatolia,Side,Sagalossos (Pisidia),2
+Late.Roman,Anatolia,Anatolia,Side,Selge (Pisidia),2
+Late.Roman,Anatolia,Anatolia,Side,Side,59
+Late.Roman,Anatolia,Anatolia,Side,Sillyon,4
+Late.Roman,Anatolia,Anatolia,Side,Traianopolis (Phrygia),1
+Late.Roman,Anatolia,Anatolia,Side,Tripolis (Phrygia),3
+Late.Roman,Anatolia,Anatolia,Side,uncertain,4
+Late.Roman,Anatolia,Anatolia,Troy,Abydus,1
+Late.Roman,Anatolia,Anatolia,Troy,Alexandria Troas,45
+Late.Roman,Anatolia,Anatolia,Troy,Apollonis (Lydia),1
+Late.Roman,Anatolia,Anatolia,Troy,Attaea (Mysia),1
+Late.Roman,Anatolia,Anatolia,Troy,Attalea (Lydia),1
+Late.Roman,Anatolia,Anatolia,Troy,Cyzicus,2
+Late.Roman,Anatolia,Anatolia,Troy,Ilium,16
+Late.Roman,Anatolia,Anatolia,Troy,Parium,8
+Late.Roman,Anatolia,Balkans,Aphrodisias,Siscia,13
+Late.Roman,Anatolia,Balkans,Cankirikapi,Psophis? (Arcadia),1
+Late.Roman,Anatolia,Balkans,Ephesus,Serdica,1
+Late.Roman,Anatolia,Balkans,Ephesus,Siscia,4
+Late.Roman,Anatolia,Balkans,Hierapolis,Siscia,3
+Late.Roman,Anatolia,Balkans,Pergamon,Athens,1
+Late.Roman,Anatolia,Balkans,Pergamon,Siscia,2
+Late.Roman,Anatolia,Balkans,Pergamon,Viminacium,1
+Late.Roman,Anatolia,Balkans,Sardis,Siscia,8
+Late.Roman,Anatolia,Balkans,Side,Viminacium,1
+Late.Roman,Anatolia,Balkans,Troy,Byzantium,1
+Late.Roman,Anatolia,Balkans,Troy,Coela,3
+Late.Roman,Anatolia,Balkans,Troy,Siscia,4
+Late.Roman,Anatolia,Cappadocia,Cankirikapi,Caesarea,1
+Late.Roman,Anatolia,Cappadocia,Sardis,Caesarea,1
+Late.Roman,Anatolia,Cilicia,Side,Anemorion,1
+Late.Roman,Anatolia,Cilicia,Side,Colybrassos,2
+Late.Roman,Anatolia,Cilicia,Side,Iotape,1
+Late.Roman,Anatolia,Cilicia,Side,Kasai,1
+Late.Roman,Anatolia,Cilicia,Side,Laerte,1
+Late.Roman,Anatolia,Cilicia,Side,Lyrbe,2
+Late.Roman,Anatolia,Cilicia,Side,Tarsus,3
+Late.Roman,Anatolia,East,Cankirikapi,Carrhae,1
+Late.Roman,Anatolia,East,Cankirikapi,Edessa,3
+Late.Roman,Anatolia,East,Cankirikapi,Rhesaena,1
+Late.Roman,Anatolia,Egypt,Side,Egypt,1
+Late.Roman,Anatolia,Italy/Sicily,Andriake (Myra),Rome,3
+Late.Roman,Anatolia,Italy/Sicily,Aphrodisias,Mediolanum,12
+Late.Roman,Anatolia,Italy/Sicily,Aphrodisias,Rome,107
+Late.Roman,Anatolia,Italy/Sicily,Ephesus,Rome,12
+Late.Roman,Anatolia,Italy/Sicily,Hierapolis,Mediolanum,2
+Late.Roman,Anatolia,Italy/Sicily,Hierapolis,Rome,19
+Late.Roman,Anatolia,Italy/Sicily,Pergamon,Milan,2
+Late.Roman,Anatolia,Italy/Sicily,Pergamon,Rome,18
+Late.Roman,Anatolia,Italy/Sicily,Sagalassos,Rome,7
+Late.Roman,Anatolia,Italy/Sicily,Sardis,Milan,8
+Late.Roman,Anatolia,Italy/Sicily,Sardis,Rome,68
+Late.Roman,Anatolia,Italy/Sicily,Side,Rome,15
+Late.Roman,Anatolia,Italy/Sicily,Troy,Mediolanum,1
+Late.Roman,Anatolia,Italy/Sicily,Troy,Rome,8
+Late.Roman,Anatolia,Syria,Andriake (Myra),Antioch,1
+Late.Roman,Anatolia,Syria,Cankirikapi,Antioch,1
+Late.Roman,Anatolia,Syria,Cankirikapi,Gabala,1
+Late.Roman,Anatolia,Syria,Cankirikapi,Zeugma (Commagene),1
+Late.Roman,Anatolia,Syria,Sagalassos,Antioch,3
+Late.Roman,Anatolia,Syria,Sardis,Antioch,1
+Late.Roman,Anatolia,Syria,Side,Antioch,7
+Late.Roman,Anatolia,Syria,Troy,Antioch,1
+Late.Roman,Anatolia,West,Ephesus,uncertain,1
+Late.Roman,Anatolia,West,Pergamon,Cologne,2
+Late.Roman,Anatolia,West,Sardis,Ticinum,2
+Late.Roman,Balkans,Anatolia,Athens,Adramyteion (Mysia),1
+Late.Roman,Balkans,Anatolia,Athens,Aigai (Aiolis),1
+Late.Roman,Balkans,Anatolia,Athens,Alexandria (Troas),5
+Late.Roman,Balkans,Anatolia,Athens,Antioch (Pisidia),1
+Late.Roman,Balkans,Anatolia,Athens,Chios,2
+Late.Roman,Balkans,Anatolia,Athens,Cyzicus,70
+Late.Roman,Balkans,Anatolia,Athens,Ephesus (Ionia),4
+Late.Roman,Balkans,Anatolia,Athens,Kyme (Aeolis),2
+Late.Roman,Balkans,Anatolia,Athens,Magnesia on the Maiandros,1
+Late.Roman,Balkans,Anatolia,Athens,Mytilene (Lesbos),1
+Late.Roman,Balkans,Anatolia,Athens,Nicomedia,2
+Late.Roman,Balkans,Anatolia,Athens,Nikaia (Bithynia),1
+Late.Roman,Balkans,Anatolia,Athens,Patara,1
+Late.Roman,Balkans,Anatolia,Athens,Samos,1
+Late.Roman,Balkans,Anatolia,Athens,Smyrna,4
+Late.Roman,Balkans,Anatolia,Athens,Synnada (Phrygia),2
+Late.Roman,Balkans,Anatolia,Athens,uncertain,5
+Late.Roman,Balkans,Anatolia,Corinth,Alexandria (Troas),1
+Late.Roman,Balkans,Anatolia,Corinth,Aspendus (Pamphylia),1
+Late.Roman,Balkans,Anatolia,Corinth,Cyzicus,6
+Late.Roman,Balkans,Anatolia,Corinth,Ephesus (Ionia),1
+Late.Roman,Balkans,Anatolia,Corinth,Magnesia on the Maeander,1
+Late.Roman,Balkans,Anatolia,Corinth,Nicomedia (Bithynia),1
+Late.Roman,Balkans,Anatolia,Corinth,Synnada,1
+Late.Roman,Balkans,Anatolia,Corinth,uncertain,10
+Late.Roman,Balkans,Anatolia,Histria,Byzantium,1
+Late.Roman,Balkans,Anatolia,Histria,Cyzicus,2
+Late.Roman,Balkans,Anatolia,Histria,Cyzicus?,1
+Late.Roman,Balkans,Anatolia,Histria,Nicaea,8
+Late.Roman,Balkans,Anatolia,Histria,Pessinus,1
+Late.Roman,Balkans,Anatolia,Nicopolis ad Istrum,Nicaea,1
+Late.Roman,Balkans,Balkans,Athens,Aigina,1
+Late.Roman,Balkans,Balkans,Athens,Aigion (Achaea),1
+Late.Roman,Balkans,Balkans,Athens,Argos (Argolis),2
+Late.Roman,Balkans,Balkans,Athens,Athens,1154
+Late.Roman,Balkans,Balkans,Athens,Boura (Achaea),1
+Late.Roman,Balkans,Balkans,Athens,Chalkis (Euboia),3
+Late.Roman,Balkans,Balkans,Athens,Coela (Chersonese),1
+Late.Roman,Balkans,Balkans,Athens,Corinth (Corinthia),8
+Late.Roman,Balkans,Balkans,Athens,Deultum,1
+Late.Roman,Balkans,Balkans,Athens,Hermione,1
+Late.Roman,Balkans,Balkans,Athens,Kleonai,1
+Late.Roman,Balkans,Balkans,Athens,Kyparissia,1
+Late.Roman,Balkans,Balkans,Athens,Magnetes (Thessaly),1
+Late.Roman,Balkans,Balkans,Athens,Megara (Megaris),3
+Late.Roman,Balkans,Balkans,Athens,Methana,1
+Late.Roman,Balkans,Balkans,Athens,Mothone,1
+Late.Roman,Balkans,Balkans,Athens,Nikopolis (Epirus),7
+Late.Roman,Balkans,Balkans,Athens,Patrai (Achaea),3
+Late.Roman,Balkans,Balkans,Athens,Perinthos,1
+Late.Roman,Balkans,Balkans,Athens,Pheneos,1
+Late.Roman,Balkans,Balkans,Athens,Philippopolis,2
+Late.Roman,Balkans,Balkans,Athens,Serdica,24
+Late.Roman,Balkans,Balkans,Athens,Sikyon (Sikyonia),1
+Late.Roman,Balkans,Balkans,Athens,Siscia,116
+Late.Roman,Balkans,Balkans,Athens,Tanagra (Boetia),1
+Late.Roman,Balkans,Balkans,Athens,Tegea,1
+Late.Roman,Balkans,Balkans,Athens,Tenea,1
+Late.Roman,Balkans,Balkans,Athens,Thessalonica,2
+Late.Roman,Balkans,Balkans,Athens,Thouria,1
+Late.Roman,Balkans,Balkans,Athens,uncertain (Thessaly),2
+Late.Roman,Balkans,Balkans,Corinth,Argos (Argolis),15
+Late.Roman,Balkans,Balkans,Corinth,Athens,8
+Late.Roman,Balkans,Balkans,Corinth,Buthrotum,1
+Late.Roman,Balkans,Balkans,Corinth,Cleonae,1
+Late.Roman,Balkans,Balkans,Corinth,Corinth,52
+Late.Roman,Balkans,Balkans,Corinth,Epidaurus,1
+Late.Roman,Balkans,Balkans,Corinth,Hadrianopolis,1
+Late.Roman,Balkans,Balkans,Corinth,Hermione,1
+Late.Roman,Balkans,Balkans,Corinth,Lacedaemon,1
+Late.Roman,Balkans,Balkans,Corinth,Megalopolis,2
+Late.Roman,Balkans,Balkans,Corinth,Megara,3
+Late.Roman,Balkans,Balkans,Corinth,Messene,2
+Late.Roman,Balkans,Balkans,Corinth,Mothone,2
+Late.Roman,Balkans,Balkans,Corinth,Nicopolis,2
+Late.Roman,Balkans,Balkans,Corinth,Orchomenus,1
+Late.Roman,Balkans,Balkans,Corinth,Patrae,5
+Late.Roman,Balkans,Balkans,Corinth,Philus,1
+Late.Roman,Balkans,Balkans,Corinth,Serdica,2
+Late.Roman,Balkans,Balkans,Corinth,Sicyon,2
+Late.Roman,Balkans,Balkans,Corinth,Siscia,24
+Late.Roman,Balkans,Balkans,Corinth,Thelpusa,1
+Late.Roman,Balkans,Balkans,Corinth,Thessalonica,1
+Late.Roman,Balkans,Balkans,Corinth,Thuria,2
+Late.Roman,Balkans,Balkans,Corinth,Troezen,4
+Late.Roman,Balkans,Balkans,Histria,Amphipolis,1
+Late.Roman,Balkans,Balkans,Histria,Anchialos,1
+Late.Roman,Balkans,Balkans,Histria,Bizya,1
+Late.Roman,Balkans,Balkans,Histria,Callatis,4
+Late.Roman,Balkans,Balkans,Histria,Deultum,1
+Late.Roman,Balkans,Balkans,Histria,Dionysopolis,1
+Late.Roman,Balkans,Balkans,Histria,Histria,80
+Late.Roman,Balkans,Balkans,Histria,Marcianopolis,4
+Late.Roman,Balkans,Balkans,Histria,maronea,1
+Late.Roman,Balkans,Balkans,Histria,Mesembria,2
+Late.Roman,Balkans,Balkans,Histria,Nicopolis ad Istrum,3
+Late.Roman,Balkans,Balkans,Histria,Pautalia,1
+Late.Roman,Balkans,Balkans,Histria,Philippi,1
+Late.Roman,Balkans,Balkans,Histria,Philippopolis,1
+Late.Roman,Balkans,Balkans,Histria,Serdica,2
+Late.Roman,Balkans,Balkans,Histria,Siscia,13
+Late.Roman,Balkans,Balkans,Histria,Tomis,24
+Late.Roman,Balkans,Balkans,Histria,uncertain,4
+Late.Roman,Balkans,Balkans,Nicopolis ad Istrum,Anchialus,7
+Late.Roman,Balkans,Balkans,Nicopolis ad Istrum,Augusta Traiana,1
+Late.Roman,Balkans,Balkans,Nicopolis ad Istrum,Deultum,1
+Late.Roman,Balkans,Balkans,Nicopolis ad Istrum,Hadrianopolis,3
+Late.Roman,Balkans,Balkans,Nicopolis ad Istrum,Marcianopolis,11
+Late.Roman,Balkans,Balkans,Nicopolis ad Istrum,Nicopolis,35
+Late.Roman,Balkans,Balkans,Nicopolis ad Istrum,Odessus,3
+Late.Roman,Balkans,Balkans,Nicopolis ad Istrum,Serdica,1
+Late.Roman,Balkans,Balkans,Nicopolis ad Istrum,Siscia,5
+Late.Roman,Balkans,Balkans,Nicopolis ad Istrum,Viminacium,2
+Late.Roman,Balkans,Cilicia,Athens,Syedra,1
+Late.Roman,Balkans,Cyprus,Corinth,uncertain,1
+Late.Roman,Balkans,East,Nicopolis ad Istrum,uncertain,1
+Late.Roman,Balkans,Egypt,Athens,Alexandria,1
+Late.Roman,Balkans,Italy/Sicily,Athens,Milan,32
+Late.Roman,Balkans,Italy/Sicily,Athens,Rome,460
+Late.Roman,Balkans,Italy/Sicily,Corinth,Milan,10
+Late.Roman,Balkans,Italy/Sicily,Corinth,Rome,51
+Late.Roman,Balkans,Italy/Sicily,Histria,Olbia?,2
+Late.Roman,Balkans,Italy/Sicily,Histria,Rome,5
+Late.Roman,Balkans,Italy/Sicily,Histria,Rome?,49
+Late.Roman,Balkans,Italy/Sicily,Nicopolis ad Istrum,Milan,4
+Late.Roman,Balkans,Italy/Sicily,Nicopolis ad Istrum,Rome,19
+Late.Roman,Balkans,Syria,Athens,Antioch,118
+Late.Roman,Balkans,Syria,Corinth,Antioch,5
+Late.Roman,Balkans,Syria,Corinth,Antioch?,1
+Late.Roman,Balkans,Syria,Nicopolis ad Istrum,Antioch,1
+Late.Roman,Balkans,West,Athens,Cologne,1
+Late.Roman,Balkans,West,Athens,Lyons,6
+Late.Roman,Balkans,West,Athens,Ticinum,22
+Late.Roman,Balkans,West,Athens,uncertain,1
+Late.Roman,Balkans,West,Corinth,Ticinum,5
+Late.Roman,Balkans,West,Corinth,uncertain,1
+Late.Roman,Balkans,West,Histria,Ticinum,3
+Late.Roman,Balkans,West,Histria,uncertain,1
+Late.Roman,Cilicia,Anatolia,Elaiussa Sebaste,Antioch (Pisidia)?,1
+Late.Roman,Cilicia,Anatolia,Elaiussa Sebaste,Cyzicus,3
+Late.Roman,Cilicia,Anatolia,Elaiussa Sebaste,Sebastopolis/Heracleopolis (Pontus),1
+Late.Roman,Cilicia,Anatolia,Elaiussa Sebaste,uncertain,1
+Late.Roman,Cilicia,Anatolia,Tarsus,Tralles (Lydia),1
+Late.Roman,Cilicia,Cappadocia,Tarsus,Caesarea,1
+Late.Roman,Cilicia,Cilicia,Elaiussa Sebaste,Adana,2
+Late.Roman,Cilicia,Cilicia,Elaiussa Sebaste,Elaiussa,1
+Late.Roman,Cilicia,Cilicia,Elaiussa Sebaste,Sebaste,6
+Late.Roman,Cilicia,Cilicia,Elaiussa Sebaste,Seleucia Calycadnum,2
+Late.Roman,Cilicia,Cilicia,Tarsus,Adana,1
+Late.Roman,Cilicia,Cilicia,Tarsus,Diocaesaria?,1
+Late.Roman,Cilicia,Cilicia,Tarsus,Flaviopolis,1
+Late.Roman,Cilicia,Cilicia,Tarsus,Laertes,1
+Late.Roman,Cilicia,Cilicia,Tarsus,Seleucia ad Calycadnum,1
+Late.Roman,Cilicia,Cilicia,Tarsus,Tarsus,54
+Late.Roman,Cilicia,Cilicia,Yüceören Tepesi,Aegeae?,1
+Late.Roman,Cilicia,East,Elaiussa Sebaste,uncertain?,2
+Late.Roman,Cilicia,Syria,Elaiussa Sebaste,Antioch,4
+Late.Roman,Cyprus,Anatolia,Kourion,Alexandria Troas,1
+Late.Roman,Cyprus,Anatolia,Kourion,Antioch (Pisidia),1
+Late.Roman,Cyprus,Anatolia,Kourion,Cyzicus,3
+Late.Roman,Cyprus,Anatolia,Kourion,Magnesia (Ionia),1
+Late.Roman,Cyprus,Anatolia,Kourion,Nicomedia,1
+Late.Roman,Cyprus,Anatolia,Kourion,Side (Pamphylia),1
+Late.Roman,Cyprus,Anatolia,Paphos,Phocaea,2
+Late.Roman,Cyprus,Balkans,Kourion,Pheneus,1
+Late.Roman,Cyprus,Cilicia,Kourion,Anemurium,1
+Late.Roman,Cyprus,Cilicia,Kourion,Corycus,1
+Late.Roman,Cyprus,Cyprus,Kourion,uncertain,58
+Late.Roman,Cyprus,East,Kourion,Carrhae,1
+Late.Roman,Cyprus,Italy/Sicily,Kourion,Rome,81
+Late.Roman,Cyprus,Italy/Sicily,Paphos,Rome,4
+Late.Roman,Cyprus,Syria,Kourion,Antioch,40
+Late.Roman,Cyprus,Syria,Kourion,Laodicea ad Mare,3
+Late.Roman,Cyprus,Syria,Kourion,Seleucia Pieria,1
+Late.Roman,Cyprus,Syria,Kourion,Tripolis,2
+Late.Roman,Cyprus,Syria,Paphos,Antioch,8
+Late.Roman,Cyprus,Syria,Paphos,Antioch?,1
+Late.Roman,East,Anatolia,Dura Europos,Amasia (Pontus),1053
+Late.Roman,East,Anatolia,Dura Europos,Antioch (Pisidia),6
+Late.Roman,East,Anatolia,Dura Europos,Comana (Pontus),29
+Late.Roman,East,Anatolia,Dura Europos,Heraclea,1
+Late.Roman,East,Anatolia,Dura Europos,Ilium,1
+Late.Roman,East,Anatolia,Dura Europos,Miletus,1
+Late.Roman,East,Anatolia,Dura Europos,Neocaesarea (Pontus),172
+Late.Roman,East,Anatolia,Dura Europos,Nicaea,1
+Late.Roman,East,Anatolia,Dura Europos,Nicomedia,1
+Late.Roman,East,Anatolia,Dura Europos,Peltae,1
+Late.Roman,East,Anatolia,Dura Europos,Sebastopolis-Heracleopolis,2
+Late.Roman,East,Anatolia,Dura Europos,Sinope (Pontus),1
+Late.Roman,East,Anatolia,Dura Europos,Themisonium (Phrygia),1
+Late.Roman,East,Anatolia,Dura Europos,Trapezus (Pontus),1
+Late.Roman,East,Anatolia,Dura Europos,Zela (Pontus),31
+Late.Roman,East,Anatolia,Susa,Samos (Ionia),3
+Late.Roman,East,Anatolia,Tall She Hamad/Magdalu,Magnesia (Ionia),1
+Late.Roman,East,Balkans,Dura Europos,Aegira,3
+Late.Roman,East,Balkans,Dura Europos,Aegium,2
+Late.Roman,East,Balkans,Dura Europos,Anchialus,1
+Late.Roman,East,Balkans,Dura Europos,Argos,1
+Late.Roman,East,Balkans,Dura Europos,Asine,5
+Late.Roman,East,Balkans,Dura Europos,Asopus,1
+Late.Roman,East,Balkans,Dura Europos,Boea,3
+Late.Roman,East,Balkans,Dura Europos,Byzantium,1
+Late.Roman,East,Balkans,Dura Europos,Caphyae,5
+Late.Roman,East,Balkans,Dura Europos,Cleonae,7
+Late.Roman,East,Balkans,Dura Europos,Colone (Messenia?),4
+Late.Roman,East,Balkans,Dura Europos,Corcyra,1
+Late.Roman,East,Balkans,Dura Europos,Corinth,2
+Late.Roman,East,Balkans,Dura Europos,Cyparissia,8
+Late.Roman,East,Balkans,Dura Europos,Gytheium,14
+Late.Roman,East,Balkans,Dura Europos,Heraea (Arcadia?),1
+Late.Roman,East,Balkans,Dura Europos,Hermione,1
+Late.Roman,East,Balkans,Dura Europos,Las (Laconia),5
+Late.Roman,East,Balkans,Dura Europos,Mantinea,4
+Late.Roman,East,Balkans,Dura Europos,Megalopolis,1
+Late.Roman,East,Balkans,Dura Europos,Megara,5
+Late.Roman,East,Balkans,Dura Europos,Mothone,6
+Late.Roman,East,Balkans,Dura Europos,Orchomenus (Boetia),3
+Late.Roman,East,Balkans,Dura Europos,Pellene,9
+Late.Roman,East,Balkans,Dura Europos,Phigaleia,2
+Late.Roman,East,Balkans,Dura Europos,Phlius,3
+Late.Roman,East,Balkans,Dura Europos,Pylus,3
+Late.Roman,East,Balkans,Dura Europos,Sicyon,7
+Late.Roman,East,Balkans,Dura Europos,Thelpusa,3
+Late.Roman,East,Balkans,Dura Europos,Thuria,16
+Late.Roman,East,Balkans,Dura Europos,Troezene,1
+Late.Roman,East,Balkans,Dura Europos,Viminacium,1
+Late.Roman,East,Balkans,Dura Europos,Zacynthus,1
+Late.Roman,East,Cappadocia,Dura Europos,Caesarea,9
+Late.Roman,East,Cappadocia,Dura Europos,Tyana,1
+Late.Roman,East,Cilicia,Dura Europos,Aegeae,2
+Late.Roman,East,Cilicia,Dura Europos,Epiphania,1
+Late.Roman,East,Cilicia,Dura Europos,Mopsus,1
+Late.Roman,East,Cilicia,Dura Europos,Tarsus,4
+Late.Roman,East,Cyprus,Dura Europos,uncertain,17
+Late.Roman,East,East,Ain Sinu,Carrhae,3
+Late.Roman,East,East,Ain Sinu,Edessa,7
+Late.Roman,East,East,Ain Sinu,Nisibis,1
+Late.Roman,East,East,Ain Sinu,Rhesaena,11
+Late.Roman,East,East,Dura Europos,Anthemusia,2
+Late.Roman,East,East,Dura Europos,Carrhae,611
+Late.Roman,East,East,Dura Europos,Edessa,2939
+Late.Roman,East,East,Dura Europos,Nisibis,1326
+Late.Roman,East,East,Dura Europos,Rhesaena,54
+Late.Roman,East,East,Dura Europos,Seleucia Tigris,16
+Late.Roman,East,East,Dura Europos,Singara,381
+Late.Roman,East,East,Seleucia Tigris,Edessa,1
+Late.Roman,East,East,Seleucia Tigris,Seleucia Tigris,4
+Late.Roman,East,East,Susa,Ecbatana?,4
+Late.Roman,East,East,Susa,Seleucia Tigris,4
+Late.Roman,East,East,Tall She Hamad/Magdalu,Carrhae,3
+Late.Roman,East,East,Tall She Hamad/Magdalu,Edessa,8
+Late.Roman,East,East,Tall She Hamad/Magdalu,Nisibis,4
+Late.Roman,East,East,Tall She Hamad/Magdalu,Rhesaena,6
+Late.Roman,East,Egypt,Susa,Alexandria,1
+Late.Roman,East,Italy/Sicily,Ain Sinu,Rome,1
+Late.Roman,East,Italy/Sicily,Dura Europos,Rome,696
+Late.Roman,East,Italy/Sicily,Tall She Hamad/Magdalu,Rome,5
+Late.Roman,East,Southern Levant,Dura Europos,Aelia Capitolina,7
+Late.Roman,East,Southern Levant,Dura Europos,Ascalon,3
+Late.Roman,East,Southern Levant,Dura Europos,Caesarea,16
+Late.Roman,East,Southern Levant,Dura Europos,Gadara,11
+Late.Roman,East,Southern Levant,Dura Europos,Gaza,2
+Late.Roman,East,Southern Levant,Dura Europos,Neapolis,2
+Late.Roman,East,Southern Levant,Dura Europos,Rabbathmoba,1
+Late.Roman,East,Southern Levant,Dura Europos,Raphia,1
+Late.Roman,East,Southern Levant,Tall She Hamad/Magdalu,Gaza,1
+Late.Roman,East,Syria,Ain Sinu,Antioch?,1
+Late.Roman,East,Syria,Dura Europos,Aleppo,5
+Late.Roman,East,Syria,Dura Europos,Antioch,3297
+Late.Roman,East,Syria,Dura Europos,Antioch?,2
+Late.Roman,East,Syria,Dura Europos,Aradus,25
+Late.Roman,East,Syria,Dura Europos,Beroea,8
+Late.Roman,East,Syria,Dura Europos,Berytus,10
+Late.Roman,East,Syria,Dura Europos,Bostra,1
+Late.Roman,East,Syria,Dura Europos,Byblus,16
+Late.Roman,East,Syria,Dura Europos,Cyrrhus,28
+Late.Roman,East,Syria,Dura Europos,Damascus,9
+Late.Roman,East,Syria,Dura Europos,Emesa,259
+Late.Roman,East,Syria,Dura Europos,Gabala,6
+Late.Roman,East,Syria,Dura Europos,Heliopolis,5
+Late.Roman,East,Syria,Dura Europos,Hierapolis,32
+Late.Roman,East,Syria,Dura Europos,Laodicea Ad Mare,95
+Late.Roman,East,Syria,Dura Europos,Laodicea-ad-Mare,34
+Late.Roman,East,Syria,Dura Europos,Leucus on the Chrysorhoas,1
+Late.Roman,East,Syria,Dura Europos,Orthosia,1
+Late.Roman,East,Syria,Dura Europos,Palmyra,12
+Late.Roman,East,Syria,Dura Europos,Samosata,11
+Late.Roman,East,Syria,Dura Europos,Seleucia Pieria,16
+Late.Roman,East,Syria,Dura Europos,Sidon,3
+Late.Roman,East,Syria,Dura Europos,Tripolis,28
+Late.Roman,East,Syria,Dura Europos,Tyre,34
+Late.Roman,East,Syria,Dura Europos,uncertain,8
+Late.Roman,East,Syria,Dura Europos,Zeugma,52
+Late.Roman,East,Syria,Susa,Antioch,1
+Late.Roman,East,Syria,Tall She Hamad/Magdalu,Antioch,4
+Late.Roman,East,Syria,Tall She Hamad/Magdalu,Seleucia Pieria,1
+Late.Roman,Egypt,Egypt,Alexandria,Alexandria,27
+Late.Roman,Egypt,Egypt,Karanis,Alexandria,9453
+Late.Roman,Egypt,Italy/Sicily,Saqqara,Rome,1
+Late.Roman,Egypt,Syria,Karanis,Antioch,1
+Late.Roman,Egypt,West,Karanis,Ticinum,1
+Late.Roman,Italy/Sicily,Anatolia,Cosa,Cyzicus,1
+Late.Roman,Italy/Sicily,Anatolia,Ordona,Perge,1
+Late.Roman,Italy/Sicily,Balkans,Cosa,Siscia,1
+Late.Roman,Italy/Sicily,Balkans,Minturnae,Siscia,6
+Late.Roman,Italy/Sicily,Balkans,Ordona,Siscia,2
+Late.Roman,Italy/Sicily,Italy/Sicily,Cosa,Milan,1
+Late.Roman,Italy/Sicily,Italy/Sicily,Cosa,Rome,32
+Late.Roman,Italy/Sicily,Italy/Sicily,Minturnae,Rome,21
+Late.Roman,Italy/Sicily,Italy/Sicily,Minturnae,Rome?,43
+Late.Roman,Italy/Sicily,Italy/Sicily,Ordona,Milan,2
+Late.Roman,Italy/Sicily,Italy/Sicily,Ordona,Rome,39
+Late.Roman,Italy/Sicily,Syria,Cosa,Antioch,1
+Late.Roman,Italy/Sicily,West,Cosa,Lugdunum,1
+Late.Roman,Italy/Sicily,West,Minturnae,Ticinum,4
+Late.Roman,Italy/Sicily,West,Minturnae,uncertain,1
+Late.Roman,Italy/Sicily,West,Ordona,Ticinum,2
+Late.Roman,Southern Levant,Anatolia,Caesarea Maritima,Tripolis,2
+Late.Roman,Southern Levant,Anatolia,Jerash,Perge,1
+Late.Roman,Southern Levant,Anatolia,Nessana,uncertain,1
+Late.Roman,Southern Levant,Anatolia,Tel Jezreel,Cyzicus?,1
+Late.Roman,Southern Levant,Balkans,Caesarea Maritima,Siscia?,1
+Late.Roman,Southern Levant,Balkans,Jerash,Siscia,2
+Late.Roman,Southern Levant,Balkans,Jerash,Thelpusa,1
+Late.Roman,Southern Levant,Balkans,Jerash,Thuria,1
+Late.Roman,Southern Levant,Balkans,Pella,Serdica,2
+Late.Roman,Southern Levant,Balkans,Samaria,Viminacium,1
+Late.Roman,Southern Levant,Cappadocia,Samaria,Caesarea,1
+Late.Roman,Southern Levant,East,Caesarea Maritima,uncertain,7
+Late.Roman,Southern Levant,East,Tel Jezreel,uncertain,1
+Late.Roman,Southern Levant,Italy/Sicily,Caesarea Maritima,Rome,5
+Late.Roman,Southern Levant,Italy/Sicily,Jaffa,Rome,6
+Late.Roman,Southern Levant,Italy/Sicily,Jerash,Rome,4
+Late.Roman,Southern Levant,Italy/Sicily,Pella,Rome,3
+Late.Roman,Southern Levant,Italy/Sicily,Qiryat Sefer,Rome,1
+Late.Roman,Southern Levant,Italy/Sicily,Tel Jezreel,Rome,1
+Late.Roman,Southern Levant,Southern Levant,Bethsaida,Bostra,1
+Late.Roman,Southern Levant,Southern Levant,Caesarea Maritima,Ascalon,1
+Late.Roman,Southern Levant,Southern Levant,Caesarea Maritima,Bostra,1
+Late.Roman,Southern Levant,Southern Levant,Caesarea Maritima,Caesarea Maritima,42
+Late.Roman,Southern Levant,Southern Levant,Caesarea Maritima,Caesarea Maritima?,31
+Late.Roman,Southern Levant,Southern Levant,Caesarea Maritima,Gadara,1
+Late.Roman,Southern Levant,Southern Levant,Caesarea Maritima,Jerusalem,3
+Late.Roman,Southern Levant,Southern Levant,Caesarea Maritima,Neapolis,1
+Late.Roman,Southern Levant,Southern Levant,Horvat 'Eleq,Caesarea,1
+Late.Roman,Southern Levant,Southern Levant,Horvat 'Eleq,Caesarea Maritima,1
+Late.Roman,Southern Levant,Southern Levant,Horvat 'Eleq,Neapolis,2
+Late.Roman,Southern Levant,Southern Levant,Jaffa,Aelia Capitolina,1
+Late.Roman,Southern Levant,Southern Levant,Jaffa,Caesarea Maritima,2
+Late.Roman,Southern Levant,Southern Levant,Jaffa,Jaffa,1
+Late.Roman,Southern Levant,Southern Levant,Jerash,Bostra,5
+Late.Roman,Southern Levant,Southern Levant,Jerash,Caesarea,4
+Late.Roman,Southern Levant,Southern Levant,Jerash,Neapolis,15
+Late.Roman,Southern Levant,Southern Levant,Jerash,Philippopolis,4
+Late.Roman,Southern Levant,Southern Levant,Jerash,Sepphoris-Diocaesarea,1
+Late.Roman,Southern Levant,Southern Levant,Nessana,Ascalon,1
+Late.Roman,Southern Levant,Southern Levant,Paneas,Caesarea,1
+Late.Roman,Southern Levant,Southern Levant,Paneas,Caesarea Paneas (Phillipi),2
+Late.Roman,Southern Levant,Southern Levant,Pella,Aelia Capitolina,1
+Late.Roman,Southern Levant,Southern Levant,Pella,Bostra,2
+Late.Roman,Southern Levant,Southern Levant,Pella,Gadara,1
+Late.Roman,Southern Levant,Southern Levant,Pella,Medaba,2
+Late.Roman,Southern Levant,Southern Levant,Qiryat Sefer,Caesarea,2
+Late.Roman,Southern Levant,Southern Levant,Qiryat Sefer,Joppa,1
+Late.Roman,Southern Levant,Southern Levant,Samaria,Caesarea,8
+Late.Roman,Southern Levant,Southern Levant,Samaria,Caesarea?,1
+Late.Roman,Southern Levant,Southern Levant,Samaria,Jerusalem,1
+Late.Roman,Southern Levant,Southern Levant,Samaria,Neapolis,12
+Late.Roman,Southern Levant,Southern Levant,Samaria,Samaria (Sebaste),9
+Late.Roman,Southern Levant,Southern Levant,Samaria,Sebaste (Samaria?),5
+Late.Roman,Southern Levant,Southern Levant,Tel Beth-Shean,Neapolis,1
+Late.Roman,Southern Levant,Southern Levant,Tel Jezreel,Aelia Capitolina?,1
+Late.Roman,Southern Levant,Southern Levant,Tel Jezreel,Caesarea,1
+Late.Roman,Southern Levant,Southern Levant,Tel Jezreel,Caesarea?,1
+Late.Roman,Southern Levant,Southern Levant,Tel Jezreel,Neapolis,1
+Late.Roman,Southern Levant,Southern Levant,Tel Jezreel,Nysa-Scythopolis,1
+Late.Roman,Southern Levant,Syria,Bethsaida,Damascus,2
+Late.Roman,Southern Levant,Syria,Bethsaida,Tyre,5
+Late.Roman,Southern Levant,Syria,Caesarea Maritima,Ake-Ptolemais,1
+Late.Roman,Southern Levant,Syria,Caesarea Maritima,Antioch,13
+Late.Roman,Southern Levant,Syria,Caesarea Maritima,Berytus,2
+Late.Roman,Southern Levant,Syria,Caesarea Maritima,Tyre,4
+Late.Roman,Southern Levant,Syria,Horvat 'Eleq,Ake-Ptolemais,1
+Late.Roman,Southern Levant,Syria,Jaffa,Tyre,1
+Late.Roman,Southern Levant,Syria,Jerash,Antioch,34
+Late.Roman,Southern Levant,Syria,Jerash,Antioch?,1
+Late.Roman,Southern Levant,Syria,Jerash,Hierapolis,1
+Late.Roman,Southern Levant,Syria,Jerash,Tripolis,2
+Late.Roman,Southern Levant,Syria,Jerash,Tyre,4
+Late.Roman,Southern Levant,Syria,Nessana,Antioch,1
+Late.Roman,Southern Levant,Syria,Nessana,Damascus,1
+Late.Roman,Southern Levant,Syria,Paneas,Ake-Ptolemais,1
+Late.Roman,Southern Levant,Syria,Paneas,Antioch,11
+Late.Roman,Southern Levant,Syria,Paneas,Damascus,1
+Late.Roman,Southern Levant,Syria,Paneas,Sidon,1
+Late.Roman,Southern Levant,Syria,Paneas,Tripolis,1
+Late.Roman,Southern Levant,Syria,Paneas,Tyre,5
+Late.Roman,Southern Levant,Syria,Pella,Antioch,4
+Late.Roman,Southern Levant,Syria,Pella,Tyre,1
+Late.Roman,Southern Levant,Syria,Qiryat Sefer,Antioch,1
+Late.Roman,Southern Levant,Syria,Qiryat Sefer,Tyre,1
+Late.Roman,Southern Levant,Syria,Samaria,Antioch,12
+Late.Roman,Southern Levant,Syria,Samaria,Antioch?,1
+Late.Roman,Southern Levant,Syria,Samaria,Bostra,1
+Late.Roman,Southern Levant,Syria,Samaria,Gadara,2
+Late.Roman,Southern Levant,Syria,Samaria,Tyre,6
+Late.Roman,Southern Levant,Syria,Si (Hauran),Antioch,1
+Late.Roman,Southern Levant,Syria,Si (Hauran),Tyre,1
+Late.Roman,Southern Levant,Syria,Tel Beth-Shean,Damascus,1
+Late.Roman,Southern Levant,Syria,Tel Jezreel,Antioch,1
+Late.Roman,Syria,Anatolia,Antioch,Alexandria,1
+Late.Roman,Syria,Anatolia,Antioch,Pergamon,1
+Late.Roman,Syria,Anatolia,Antioch/Seleucia,Cyzicus,6
+Late.Roman,Syria,Anatolia,Antioch/Seleucia,Cyzicus?,3
+Late.Roman,Syria,Anatolia,Antioch/Seleucia,Heraclea,1
+Late.Roman,Syria,Anatolia,Antioch/Seleucia,uncertain,1
+Late.Roman,Syria,Anatolia,Apamea,Cyzicus,1
+Late.Roman,Syria,Anatolia,Arsameia,Otrus (Phrygia),1
+Late.Roman,Syria,Anatolia,Arsameia,Prusa ad Olympum,1
+Late.Roman,Syria,Anatolia,Arsameia,Prusias ad Hypium,1
+Late.Roman,Syria,Anatolia,Berytus,Alexandria Troas,1
+Late.Roman,Syria,Anatolia,Berytus,Cyzicus,3
+Late.Roman,Syria,Anatolia,Berytus,Samos,1
+Late.Roman,Syria,Anatolia,Berytus,Smyrna,1
+Late.Roman,Syria,Anatolia,Gindaros,Cyzicus,1
+Late.Roman,Syria,Anatolia,Hama,Cyzicus,1
+Late.Roman,Syria,Anatolia,Hama,uncertain,1
+Late.Roman,Syria,Anatolia,Palmyra,Cyzicus,1
+Late.Roman,Syria,Anatolia,Palmyra,Cyzicus?,1
+Late.Roman,Syria,Anatolia,Palmyra,uncertain,6
+Late.Roman,Syria,Anatolia,Zeugma,Amasia (Pontus),8
+Late.Roman,Syria,Anatolia,Zeugma,Chalcedon,1
+Late.Roman,Syria,Anatolia,Zeugma,Comana (Pontus),2
+Late.Roman,Syria,Anatolia,Zeugma,Neocaesarea (Pontus),2
+Late.Roman,Syria,Anatolia,Zeugma,Perinthus,1
+Late.Roman,Syria,Anatolia,Zeugma,uncertain,2
+Late.Roman,Syria,Anatolia,Zeugma,Zela (Pontus),1
+Late.Roman,Syria,Balkans,Antioch,Thessalonica,1
+Late.Roman,Syria,Balkans,Antioch/Seleucia,Siscia?,1
+Late.Roman,Syria,Balkans,Antioch/Seleucia,Viminacium,1
+Late.Roman,Syria,Balkans,Apamea,Megalopolis,1
+Late.Roman,Syria,Balkans,Berytus,Siscia,1
+Late.Roman,Syria,Balkans,Palmyra,Eastern Europe,3
+Late.Roman,Syria,Balkans,Palmyra,Siscia,2
+Late.Roman,Syria,Balkans,Palmyra,Siscia?,1
+Late.Roman,Syria,Balkans,Zeugma,Thuria,1
+Late.Roman,Syria,Balkans,Zeugma,uncertain,4
+Late.Roman,Syria,Cappadocia,Antioch,Caesarea,5
+Late.Roman,Syria,Cappadocia,Antioch,Tyana,1
+Late.Roman,Syria,Cappadocia,Arsameia,Caesarea,1
+Late.Roman,Syria,Cappadocia,Palmyra,Caesarea,1
+Late.Roman,Syria,Cappadocia,Zeugma,Caesarea,1
+Late.Roman,Syria,Cilicia,Antioch,Adana,1
+Late.Roman,Syria,Cilicia,Antioch,Aegeae,3
+Late.Roman,Syria,Cilicia,Antioch,Anazarbus,4
+Late.Roman,Syria,Cilicia,Antioch,Anemurium,1
+Late.Roman,Syria,Cilicia,Antioch,Colybrassus,1
+Late.Roman,Syria,Cilicia,Antioch,Corycus,1
+Late.Roman,Syria,Cilicia,Antioch,Soli-Pompeiopolis,1
+Late.Roman,Syria,Cilicia,Berytus,Corycus,1
+Late.Roman,Syria,Cilicia,Tille,Tarsus?,1
+Late.Roman,Syria,Cilicia,Zeugma,Tarsus,1
+Late.Roman,Syria,Cyprus,Hama,uncertain,1
+Late.Roman,Syria,East,Antioch,Carrhae,3
+Late.Roman,Syria,East,Antioch,Edessa,8
+Late.Roman,Syria,East,Antioch,Singara,1
+Late.Roman,Syria,East,Antioch,uncertain,2
+Late.Roman,Syria,East,Antioch/Seleucia,uncertain,59
+Late.Roman,Syria,East,Arsameia,Edessa,1
+Late.Roman,Syria,East,Berytus,Carrhae?,1
+Late.Roman,Syria,East,Berytus,Eastern Mint,4
+Late.Roman,Syria,East,Berytus,Edessa,2
+Late.Roman,Syria,East,Palmyra,Carrhae,4
+Late.Roman,Syria,East,Palmyra,Edessa,8
+Late.Roman,Syria,East,Palmyra,Nisibis,1
+Late.Roman,Syria,East,Palmyra,Persia,1
+Late.Roman,Syria,East,Palmyra,uncertain,4
+Late.Roman,Syria,East,Raphanea,Carrhae,1
+Late.Roman,Syria,East,Seleucia Pieria,Carrhae,1
+Late.Roman,Syria,East,Tell abou Danne,uncertain,1
+Late.Roman,Syria,East,Tell Barri,Singara,1
+Late.Roman,Syria,East,Zeugma,Anthemusia (Ray, Iran?),1
+Late.Roman,Syria,East,Zeugma,Carrhae,5
+Late.Roman,Syria,East,Zeugma,Edessa,32
+Late.Roman,Syria,East,Zeugma,Nisibis,2
+Late.Roman,Syria,East,Zeugma,Rhesaena,8
+Late.Roman,Syria,East,Zeugma,uncertain,15
+Late.Roman,Syria,Egypt,Antioch,Alexandria,1
+Late.Roman,Syria,Italy/Sicily,Antioch/Seleucia,Milan,3
+Late.Roman,Syria,Italy/Sicily,Antioch/Seleucia,Milan?,1
+Late.Roman,Syria,Italy/Sicily,Antioch/Seleucia,Rome,53
+Late.Roman,Syria,Italy/Sicily,Antioch/Seleucia,Rome ,1
+Late.Roman,Syria,Italy/Sicily,Antioch/Seleucia,Rome?,3
+Late.Roman,Syria,Italy/Sicily,Arsameia,Rome,1
+Late.Roman,Syria,Italy/Sicily,Berytus,Rome,5
+Late.Roman,Syria,Italy/Sicily,Hama,Rome,5
+Late.Roman,Syria,Italy/Sicily,Palmyra,Rome,1
+Late.Roman,Syria,Italy/Sicily,Tell Rifa'at,Rome,2
+Late.Roman,Syria,Italy/Sicily,Zeugma,Rome,6
+Late.Roman,Syria,Southern Levant,Antioch,Aelia Capitolina,1
+Late.Roman,Syria,Southern Levant,Antioch,Caesarea,1
+Late.Roman,Syria,Southern Levant,Antioch,Neapolis,2
+Late.Roman,Syria,Southern Levant,Berytus,Ascalon?,1
+Late.Roman,Syria,Southern Levant,Berytus,Caesarea Maritima,1
+Late.Roman,Syria,Southern Levant,Berytus,Caesarea Maritima?,1
+Late.Roman,Syria,Southern Levant,Berytus,Neapolis,1
+Late.Roman,Syria,Southern Levant,Berytus,uncertain,1
+Late.Roman,Syria,Syria,Antioch,Antioch,880
+Late.Roman,Syria,Syria,Antioch,Antioch ,1
+Late.Roman,Syria,Syria,Antioch,Antioch?,5
+Late.Roman,Syria,Syria,Antioch,Aradus,1
+Late.Roman,Syria,Syria,Antioch,Berytus,3
+Late.Roman,Syria,Syria,Antioch,Caesarea ad Libanum,1
+Late.Roman,Syria,Syria,Antioch,Cyrrhus,2
+Late.Roman,Syria,Syria,Antioch,Emesa,2
+Late.Roman,Syria,Syria,Antioch,Heliopolis,1
+Late.Roman,Syria,Syria,Antioch,Hierapolis,2
+Late.Roman,Syria,Syria,Antioch,Laodicea ad Mare,17
+Late.Roman,Syria,Syria,Antioch,Samosata,3
+Late.Roman,Syria,Syria,Antioch,Seleucia Pieria,4
+Late.Roman,Syria,Syria,Antioch,Sidon,5
+Late.Roman,Syria,Syria,Antioch,Tripolis,1
+Late.Roman,Syria,Syria,Antioch,Tyre,3
+Late.Roman,Syria,Syria,Antioch,Zeugma,1
+Late.Roman,Syria,Syria,Antioch/Seleucia,Antioch,267
+Late.Roman,Syria,Syria,Antioch/Seleucia,Antioch?,1
+Late.Roman,Syria,Syria,Antioch/Seleucia,Laodicea ad Mare,1
+Late.Roman,Syria,Syria,Antioch/Seleucia,Tripolis,2
+Late.Roman,Syria,Syria,Antioch/Seleucia,Tripolis?,5
+Late.Roman,Syria,Syria,Antioch/Seleucia,uncertain,1
+Late.Roman,Syria,Syria,Apamea,Antioch,27
+Late.Roman,Syria,Syria,Apamea,Antioch?,13
+Late.Roman,Syria,Syria,Apamea,Laodicea ad Mare,1
+Late.Roman,Syria,Syria,Apamea,Samosata,2
+Late.Roman,Syria,Syria,Arsameia,Antioch,2
+Late.Roman,Syria,Syria,Arsameia,Laodicea ad Mare?,1
+Late.Roman,Syria,Syria,Arsameia,Samosata,2
+Late.Roman,Syria,Syria,Berytus,Antioch,45
+Late.Roman,Syria,Syria,Berytus,Berytus,59
+Late.Roman,Syria,Syria,Berytus,Byblus,2
+Late.Roman,Syria,Syria,Berytus,Caesarea ad Libanum,1
+Late.Roman,Syria,Syria,Berytus,Heliopolis,6
+Late.Roman,Syria,Syria,Berytus,Laodicea ad Mare,2
+Late.Roman,Syria,Syria,Berytus,Sidon,7
+Late.Roman,Syria,Syria,Berytus,Tripolis,9
+Late.Roman,Syria,Syria,Berytus,Tyre,2
+Late.Roman,Syria,Syria,Gindaros,Antioch,5
+Late.Roman,Syria,Syria,Gindaros,Antioch?,5
+Late.Roman,Syria,Syria,Hama,Antioch,28
+Late.Roman,Syria,Syria,Hama,Emesa,2
+Late.Roman,Syria,Syria,Hama,Heliopolis,1
+Late.Roman,Syria,Syria,Hama,Hierapolis,1
+Late.Roman,Syria,Syria,Hama,Laodicea ad Mare,5
+Late.Roman,Syria,Syria,Hama,Tripolis,3
+Late.Roman,Syria,Syria,Hama,uncertain,4
+Late.Roman,Syria,Syria,Palmyra,Antioch,54
+Late.Roman,Syria,Syria,Palmyra,Antioch?,1
+Late.Roman,Syria,Syria,Palmyra,Berytus,2
+Late.Roman,Syria,Syria,Palmyra,Byblus,1
+Late.Roman,Syria,Syria,Palmyra,Damascus,3
+Late.Roman,Syria,Syria,Palmyra,Damascus?,1
+Late.Roman,Syria,Syria,Palmyra,Emesa,2
+Late.Roman,Syria,Syria,Palmyra,Laodicea Mare,1
+Late.Roman,Syria,Syria,Palmyra,Palmyra,42
+Late.Roman,Syria,Syria,Palmyra,Seleucia Pieria,2
+Late.Roman,Syria,Syria,Palmyra,Sidon,1
+Late.Roman,Syria,Syria,Palmyra,Tripolis,2
+Late.Roman,Syria,Syria,Palmyra,Tyre,1
+Late.Roman,Syria,Syria,Perrhe,Antioch,6
+Late.Roman,Syria,Syria,Perrhe,Gabala,2
+Late.Roman,Syria,Syria,Perrhe,Laodicea ad Mare,1
+Late.Roman,Syria,Syria,Perrhe,Samosata,3
+Late.Roman,Syria,Syria,Perrhe,uncertain,1
+Late.Roman,Syria,Syria,Ras Shamra,Laodicea ad Mare,1
+Late.Roman,Syria,Syria,Seleucia Pieria,Antioch,11
+Late.Roman,Syria,Syria,Seleucia Pieria,Laodicea ad Mare,1
+Late.Roman,Syria,Syria,Seleucia Pieria,Seleucia Pieria,22
+Late.Roman,Syria,Syria,Tell Rifa'at,Antioch,3
+Late.Roman,Syria,Syria,Tell Rifa'at,uncertain,1
+Late.Roman,Syria,Syria,Tille,Antioch,3
+Late.Roman,Syria,Syria,Tille,Samosata,1
+Late.Roman,Syria,Syria,Tille,Samosata?,1
+Late.Roman,Syria,Syria,Tyre,Berytus,1
+Late.Roman,Syria,Syria,Tyre,Orthosia,1
+Late.Roman,Syria,Syria,Tyre,Sidon,4
+Late.Roman,Syria,Syria,Tyre,Tyre,2
+Late.Roman,Syria,Syria,Zeugma,Antioch,16
+Late.Roman,Syria,Syria,Zeugma,Damascus,1
+Late.Roman,Syria,Syria,Zeugma,Gabala,1
+Late.Roman,Syria,Syria,Zeugma,Hierapolis,2
+Late.Roman,Syria,Syria,Zeugma,Laodicea ad Mare,1
+Late.Roman,Syria,Syria,Zeugma,Laodicea ad Mare?,1
+Late.Roman,Syria,Syria,Zeugma,Seleucia Pieria,1
+Late.Roman,Syria,Syria,Zeugma,Sidon,1
+Late.Roman,Syria,Syria,Zeugma,Tyre,1
+Late.Roman,Syria,Syria,Zeugma,Zeugma,26
+Late.Roman,West,Anatolia,Bath,Constantinople,1
+Late.Roman,West,Anatolia,Bath,Cyzicus,1
+Late.Roman,West,Anatolia,Conimbriga,Cyzicus,2
+Late.Roman,West,Balkans,Bath,Siscia,15
+Late.Roman,West,Balkans,Conimbriga,Serdica,1
+Late.Roman,West,Balkans,Conimbriga,Siscia,23
+Late.Roman,West,Balkans,Conimbriga,Viminacium,1
+Late.Roman,West,Balkans,Idanha-a-Velha,Siscia,1
+Late.Roman,West,Balkans,Silchester,Siscia,2
+Late.Roman,West,East,Bath,uncertain,9
+Late.Roman,West,Italy/Sicily,Bath,Milan,45
+Late.Roman,West,Italy/Sicily,Bath,Rome,570
+Late.Roman,West,Italy/Sicily,Conimbriga,Milan,12
+Late.Roman,West,Italy/Sicily,Conimbriga,Rome,406
+Late.Roman,West,Italy/Sicily,Conimbriga,uncertain,3
+Late.Roman,West,Italy/Sicily,Haltonchesters,Rome,2
+Late.Roman,West,Italy/Sicily,Idanha-a-Velha,Milan,5
+Late.Roman,West,Italy/Sicily,Idanha-a-Velha,Rome,28
+Late.Roman,West,Italy/Sicily,Segobriga,Rome,11
+Late.Roman,West,Italy/Sicily,Silchester,Milan,7
+Late.Roman,West,Italy/Sicily,Silchester,Rome,64
+Late.Roman,West,Syria,Bath,Antioch,3
+Late.Roman,West,Syria,Conimbriga,Antioch,1
+Late.Roman,West,Syria,Haltonchesters,Antioch,1
+Late.Roman,West,Syria,Idanha-a-Velha,Antioch,2
+Late.Roman,West,West,Bath,Cologne,119
+Late.Roman,West,West,Bath,Lugdunum,86
+Late.Roman,West,West,Bath,Ticinum,9
+Late.Roman,West,West,Conimbriga,Cologne,8
+Late.Roman,West,West,Conimbriga,Ticinum,4
+Late.Roman,West,West,Conimbriga,Treves,7
+Late.Roman,West,West,Conimbriga,uncertain,3
+Late.Roman,West,West,Idanha-a-Velha,Trier,1
+Late.Roman,West,West,Silchester,Koln?,2
+Late.Roman,West,West,Silchester,Ticinum,1
+Late.Roman,West,West,Silchester,Trier?,1
+Late.Roman,West,West,Silchester,uncertain,1
+Late.Antiquity,Africa,Anatolia,Carthage,Cyzicus,1
+Late.Antiquity,Africa,Anatolia,Carthage,Nicomedia,1
+Late.Antiquity,Africa,Anatolia,Cyrene,Cyzicus,1
+Late.Antiquity,Africa,Anatolia,Cyrene,Heraclea,1
+Late.Antiquity,Africa,Anatolia,Sabratha,Constantinople,3
+Late.Antiquity,Africa,Anatolia,Sabratha,Cyzicus,3
+Late.Antiquity,Africa,Balkans,Carthage,Siscia,2
+Late.Antiquity,Africa,Balkans,Carthage,Thessalonica,1
+Late.Antiquity,Africa,Balkans,Cyrene,Siscia,1
+Late.Antiquity,Africa,Balkans,Sabratha,Siscia,1
+Late.Antiquity,Africa,Egypt,Cyrene,Alexandria,3
+Late.Antiquity,Africa,Egypt,Sabratha,Alexandria,1
+Late.Antiquity,Africa,Italy/Sicily,Carthage,Aquileia,1
+Late.Antiquity,Africa,Italy/Sicily,Carthage,Rome,22
+Late.Antiquity,Africa,Italy/Sicily,Cyrene,Rome,2
+Late.Antiquity,Africa,Italy/Sicily,Sabratha,Aquileia,2
+Late.Antiquity,Africa,Italy/Sicily,Sabratha,Rome,5
+Late.Antiquity,Africa,Syria,Cyrene,Antioch,1
+Late.Antiquity,Africa,Syria,Sabratha,Antioch,1
+Late.Antiquity,Africa,West,Carthage,Arles,1
+Late.Antiquity,Africa,West,Sabratha,Arles,1
+Late.Antiquity,Africa,West,Sabratha,Lyon,1
+Late.Antiquity,Anatolia,Africa,Hierapolis,Carthage,1
+Late.Antiquity,Anatolia,Africa,Sardis,Carthage,1
+Late.Antiquity,Anatolia,Anatolia,Andriake (Myra),Constantinople,4
+Late.Antiquity,Anatolia,Anatolia,Andriake (Myra),Cyzicus,8
+Late.Antiquity,Anatolia,Anatolia,Andriake (Myra),Heraclea,1
+Late.Antiquity,Anatolia,Anatolia,Andriake (Myra),Nicomedia,3
+Late.Antiquity,Anatolia,Anatolia,Aphrodisias,Aphrodisias,41
+Late.Antiquity,Anatolia,Anatolia,Aphrodisias,Cyzicus,26
+Late.Antiquity,Anatolia,Anatolia,Aphrodisias,Ephesus,1
+Late.Antiquity,Anatolia,Anatolia,Aphrodisias,Ephesus?,1
+Late.Antiquity,Anatolia,Anatolia,Aphrodisias,Heraclea,14
+Late.Antiquity,Anatolia,Anatolia,Ephesus,Constantinople,13
+Late.Antiquity,Anatolia,Anatolia,Ephesus,Cyzicus,17
+Late.Antiquity,Anatolia,Anatolia,Ephesus,Cyzicus?,2
+Late.Antiquity,Anatolia,Anatolia,Ephesus,Heraclea,3
+Late.Antiquity,Anatolia,Anatolia,Ephesus,Nicomedia,8
+Late.Antiquity,Anatolia,Anatolia,Ephesus,uncertain,21
+Late.Antiquity,Anatolia,Anatolia,Hierapolis,Constantinople,33
+Late.Antiquity,Anatolia,Anatolia,Hierapolis,Cyzicus,80
+Late.Antiquity,Anatolia,Anatolia,Hierapolis,Heraclea,12
+Late.Antiquity,Anatolia,Anatolia,Hierapolis,Hierapolis,6
+Late.Antiquity,Anatolia,Anatolia,Hierapolis,Nicomedia,33
+Late.Antiquity,Anatolia,Anatolia,Hierapolis,uncertain,1
+Late.Antiquity,Anatolia,Anatolia,Niksar,Constantinople,5
+Late.Antiquity,Anatolia,Anatolia,Niksar,Cyzicus,6
+Late.Antiquity,Anatolia,Anatolia,Niksar,Nicomedia,9
+Late.Antiquity,Anatolia,Anatolia,Pergamon,Constantinople,2
+Late.Antiquity,Anatolia,Anatolia,Pergamon,Cyzicus,10
+Late.Antiquity,Anatolia,Anatolia,Pergamon,Heraclea,4
+Late.Antiquity,Anatolia,Anatolia,Sagalassos,Constantinople,39
+Late.Antiquity,Anatolia,Anatolia,Sagalassos,Constantinople?,1
+Late.Antiquity,Anatolia,Anatolia,Sagalassos,Cyzicus,27
+Late.Antiquity,Anatolia,Anatolia,Sagalassos,Heraclea,4
+Late.Antiquity,Anatolia,Anatolia,Sagalassos,Nicomedia,47
+Late.Antiquity,Anatolia,Anatolia,Sagalassos,Nicomedia?,4
+Late.Antiquity,Anatolia,Anatolia,Sagalassos,uncertain,3
+Late.Antiquity,Anatolia,Anatolia,Sardis,Ancyra (Phrygia),1
+Late.Antiquity,Anatolia,Anatolia,Sardis,Antioch ad Meandrum (Caria),1
+Late.Antiquity,Anatolia,Anatolia,Sardis,Aphrodisias,1
+Late.Antiquity,Anatolia,Anatolia,Sardis,Attalea (Lydia),2
+Late.Antiquity,Anatolia,Anatolia,Sardis,Constantinople,488
+Late.Antiquity,Anatolia,Anatolia,Sardis,Cyzicus,704
+Late.Antiquity,Anatolia,Anatolia,Sardis,Elaea (Aeolis),1
+Late.Antiquity,Anatolia,Anatolia,Sardis,Eumeneia (Phrygia),1
+Late.Antiquity,Anatolia,Anatolia,Sardis,Heraclea,167
+Late.Antiquity,Anatolia,Anatolia,Sardis,Nicomedia,264
+Late.Antiquity,Anatolia,Anatolia,Sardis,Sebaste (Phrygia),1
+Late.Antiquity,Anatolia,Anatolia,Sardis,Thyatira,1
+Late.Antiquity,Anatolia,Anatolia,Side,Constantinople,29
+Late.Antiquity,Anatolia,Anatolia,Side,Cyzicus,43
+Late.Antiquity,Anatolia,Anatolia,Side,Heraclea,14
+Late.Antiquity,Anatolia,Anatolia,Side,Magydos (Pamphylia),1
+Late.Antiquity,Anatolia,Anatolia,Side,Nicomedia,39
+Late.Antiquity,Anatolia,Anatolia,Side,Selge (Pisidia),1
+Late.Antiquity,Anatolia,Anatolia,Side,Side,1
+Late.Antiquity,Anatolia,Anatolia,Side,Sillyon,1
+Late.Antiquity,Anatolia,Anatolia,Troy,Constantinople,8
+Late.Antiquity,Anatolia,Anatolia,Troy,Cyzicus,20
+Late.Antiquity,Anatolia,Anatolia,Troy,Heraclea,23
+Late.Antiquity,Anatolia,Anatolia,Troy,Nicomedia,14
+Late.Antiquity,Anatolia,Balkans,Andriake (Myra),Thessalonica,2
+Late.Antiquity,Anatolia,Balkans,Ephesus,Thessalonica,2
+Late.Antiquity,Anatolia,Balkans,Hierapolis,Siscia,2
+Late.Antiquity,Anatolia,Balkans,Hierapolis,Thessalonica,4
+Late.Antiquity,Anatolia,Balkans,Niksar,Thessalonica,2
+Late.Antiquity,Anatolia,Balkans,Pergamon,Siscia,1
+Late.Antiquity,Anatolia,Balkans,Pergamon,Thessalonica,1
+Late.Antiquity,Anatolia,Balkans,Sagalassos,Siscia,2
+Late.Antiquity,Anatolia,Balkans,Sagalassos,Thessalonica,1
+Late.Antiquity,Anatolia,Balkans,Sardis,Sirmium,3
+Late.Antiquity,Anatolia,Balkans,Sardis,Siscia,13
+Late.Antiquity,Anatolia,Balkans,Sardis,Thessalonica,85
+Late.Antiquity,Anatolia,Balkans,Side,Siscia,4
+Late.Antiquity,Anatolia,Balkans,Side,Thessalonica,4
+Late.Antiquity,Anatolia,Balkans,Troy,Maronea,1
+Late.Antiquity,Anatolia,Balkans,Troy,Siscia,3
+Late.Antiquity,Anatolia,Balkans,Troy,Thessalonica,2
+Late.Antiquity,Anatolia,East,Sagalassos,uncertain,79
+Late.Antiquity,Anatolia,Egypt,Andriake (Myra),Alexandria,2
+Late.Antiquity,Anatolia,Egypt,Aphrodisias,Alexandria,3
+Late.Antiquity,Anatolia,Egypt,Ephesus,Alexandria,1
+Late.Antiquity,Anatolia,Egypt,Hierapolis,Alexandria,4
+Late.Antiquity,Anatolia,Egypt,Sagalassos,Alexandria,1
+Late.Antiquity,Anatolia,Egypt,Sardis,Alexandria,54
+Late.Antiquity,Anatolia,Egypt,Side,Alexandria,5
+Late.Antiquity,Anatolia,Egypt,Troy,Alexandria,1
+Late.Antiquity,Anatolia,Italy/Sicily,Aphrodisias,Rome,2
+Late.Antiquity,Anatolia,Italy/Sicily,Ephesus,Rome,1
+Late.Antiquity,Anatolia,Italy/Sicily,Hierapolis,Aquileia,2
+Late.Antiquity,Anatolia,Italy/Sicily,Hierapolis,Rome,7
+Late.Antiquity,Anatolia,Italy/Sicily,Sagalassos,Aquilea,1
+Late.Antiquity,Anatolia,Italy/Sicily,Sagalassos,Rome,9
+Late.Antiquity,Anatolia,Italy/Sicily,Sardis,Aquileia,14
+Late.Antiquity,Anatolia,Italy/Sicily,Sardis,Rome,65
+Late.Antiquity,Anatolia,Italy/Sicily,Side,Rome,2
+Late.Antiquity,Anatolia,Italy/Sicily,Troy,Rome,1
+Late.Antiquity,Anatolia,Syria,Andriake (Myra),Antioch,3
+Late.Antiquity,Anatolia,Syria,Ephesus,Antioch,3
+Late.Antiquity,Anatolia,Syria,Hierapolis,Antioch,21
+Late.Antiquity,Anatolia,Syria,Niksar,Antioch,3
+Late.Antiquity,Anatolia,Syria,Pergamon,Antioch,1
+Late.Antiquity,Anatolia,Syria,Sagalassos,Antioch,26
+Late.Antiquity,Anatolia,Syria,Sagalassos,Antioch?,2
+Late.Antiquity,Anatolia,Syria,Sardis,Antioch,158
+Late.Antiquity,Anatolia,Syria,Side,Antioch,32
+Late.Antiquity,Anatolia,Syria,Troy,Antioch,8
+Late.Antiquity,Anatolia,West,Andriake (Myra),Ticinum,1
+Late.Antiquity,Anatolia,West,Andriake (Myra),Trier,1
+Late.Antiquity,Anatolia,West,Ephesus,Arelate,1
+Late.Antiquity,Anatolia,West,Ephesus,Trier,1
+Late.Antiquity,Anatolia,West,Hierapolis,Treveri,5
+Late.Antiquity,Anatolia,West,Niksar,Ticinum,1
+Late.Antiquity,Anatolia,West,Sagalassos,Arles,1
+Late.Antiquity,Anatolia,West,Sagalassos,uncertain,1
+Late.Antiquity,Anatolia,West,Sardis,Arles,10
+Late.Antiquity,Anatolia,West,Sardis,London,1
+Late.Antiquity,Anatolia,West,Sardis,Trier,3
+Late.Antiquity,Anatolia,West,Side,Ticinum,1
+Late.Antiquity,Anatolia,West,Troy,Arles,2
+Late.Antiquity,Anatolia,West,Troy,Trier,1
+Late.Antiquity,Balkans,Africa,Athens,Carthage,1
+Late.Antiquity,Balkans,Africa,Corinth,Carthage,2
+Late.Antiquity,Balkans,Anatolia,Athens,Chios,4
+Late.Antiquity,Balkans,Anatolia,Athens,Constantinople,1218
+Late.Antiquity,Balkans,Anatolia,Athens,Cyzicus,1132
+Late.Antiquity,Balkans,Anatolia,Athens,Heraclea,328
+Late.Antiquity,Balkans,Anatolia,Athens,Nicomedia,580
+Late.Antiquity,Balkans,Anatolia,Athens,Tripolis,2
+Late.Antiquity,Balkans,Anatolia,Athens,uncertain,2
+Late.Antiquity,Balkans,Anatolia,Corinth,Constantinople,175
+Late.Antiquity,Balkans,Anatolia,Corinth,Cyzicus,251
+Late.Antiquity,Balkans,Anatolia,Corinth,Heraclea,108
+Late.Antiquity,Balkans,Anatolia,Corinth,Nicomedia,190
+Late.Antiquity,Balkans,Anatolia,Histria,Constantinople,10
+Late.Antiquity,Balkans,Anatolia,Histria,Cyzicus,12
+Late.Antiquity,Balkans,Anatolia,Histria,Heraclea,40
+Late.Antiquity,Balkans,Anatolia,Histria,Nicomedia,13
+Late.Antiquity,Balkans,Anatolia,Nicopolis ad Istrum,Constantinople,37
+Late.Antiquity,Balkans,Anatolia,Nicopolis ad Istrum,Cyzicus,35
+Late.Antiquity,Balkans,Anatolia,Nicopolis ad Istrum,Heraclea,22
+Late.Antiquity,Balkans,Anatolia,Nicopolis ad Istrum,Nicomedia,17
+Late.Antiquity,Balkans,Anatolia,Nicopolis ad Istrum,uncertain,2
+Late.Antiquity,Balkans,Balkans,Athens,Megara (Megaris),3
+Late.Antiquity,Balkans,Balkans,Athens,Melos,1
+Late.Antiquity,Balkans,Balkans,Athens,Sirmium,20
+Late.Antiquity,Balkans,Balkans,Athens,Siscia,131
+Late.Antiquity,Balkans,Balkans,Athens,Thessalonica,1329
+Late.Antiquity,Balkans,Balkans,Athens,uncertain,3
+Late.Antiquity,Balkans,Balkans,Corinth,Sirmium,8
+Late.Antiquity,Balkans,Balkans,Corinth,Siscia,46
+Late.Antiquity,Balkans,Balkans,Corinth,Thessalonica,392
+Late.Antiquity,Balkans,Balkans,Histria,Siscia,15
+Late.Antiquity,Balkans,Balkans,Histria,Thessalonica,13
+Late.Antiquity,Balkans,Balkans,Nicopolis ad Istrum,Sirmium,4
+Late.Antiquity,Balkans,Balkans,Nicopolis ad Istrum,Siscia,25
+Late.Antiquity,Balkans,Balkans,Nicopolis ad Istrum,Thessalonica,35
+Late.Antiquity,Balkans,Egypt,Athens,Alexandria,104
+Late.Antiquity,Balkans,Egypt,Corinth,Alexandria,16
+Late.Antiquity,Balkans,Egypt,Nicopolis ad Istrum,Alexandria,2
+Late.Antiquity,Balkans,Italy/Sicily,Athens,Aquileia,60
+Late.Antiquity,Balkans,Italy/Sicily,Athens,Rome,148
+Late.Antiquity,Balkans,Italy/Sicily,Corinth,Aquileia,20
+Late.Antiquity,Balkans,Italy/Sicily,Corinth,Rome,58
+Late.Antiquity,Balkans,Italy/Sicily,Histria,Aquileia,1
+Late.Antiquity,Balkans,Italy/Sicily,Histria,Rome,4
+Late.Antiquity,Balkans,Italy/Sicily,Histria,Rome?,17
+Late.Antiquity,Balkans,Italy/Sicily,Nicopolis ad Istrum,Aquileia,1
+Late.Antiquity,Balkans,Italy/Sicily,Nicopolis ad Istrum,Rome,3
+Late.Antiquity,Balkans,Syria,Athens,Antioch,302
+Late.Antiquity,Balkans,Syria,Corinth,Antioch,50
+Late.Antiquity,Balkans,Syria,Histria,Antioch,5
+Late.Antiquity,Balkans,Syria,Nicopolis ad Istrum,Antioch,1
+Late.Antiquity,Balkans,West,Athens,Arles,18
+Late.Antiquity,Balkans,West,Athens,London,1
+Late.Antiquity,Balkans,West,Athens,Lyons,7
+Late.Antiquity,Balkans,West,Athens,Ticinum,9
+Late.Antiquity,Balkans,West,Athens,Treves,8
+Late.Antiquity,Balkans,West,Corinth,Arelate,2
+Late.Antiquity,Balkans,West,Corinth,Arles,5
+Late.Antiquity,Balkans,West,Corinth,Lugdunum,2
+Late.Antiquity,Balkans,West,Corinth,Ticinum,8
+Late.Antiquity,Balkans,West,Corinth,Trier,10
+Late.Antiquity,Balkans,West,Histria,Arles,1
+Late.Antiquity,Balkans,West,Histria,London,1
+Late.Antiquity,Balkans,West,Histria,Trier,1
+Late.Antiquity,Balkans,West,Nicopolis ad Istrum,London,1
+Late.Antiquity,Balkans,West,Nicopolis ad Istrum,Ticinum,3
+Late.Antiquity,Balkans,West,Nicopolis ad Istrum,Trier,1
+Late.Antiquity,Cilicia,Anatolia,Elaiussa Sebaste,Constantinople,7
+Late.Antiquity,Cilicia,Anatolia,Elaiussa Sebaste,Constantinople?,1
+Late.Antiquity,Cilicia,Anatolia,Elaiussa Sebaste,Cyzicus,11
+Late.Antiquity,Cilicia,Anatolia,Elaiussa Sebaste,Cyzicus?,1
+Late.Antiquity,Cilicia,Anatolia,Elaiussa Sebaste,Heraclea?,1
+Late.Antiquity,Cilicia,Anatolia,Elaiussa Sebaste,Nicomedia,5
+Late.Antiquity,Cilicia,Anatolia,Elaiussa Sebaste,uncertain,1
+Late.Antiquity,Cilicia,Anatolia,Tarsus,Constantinople,2
+Late.Antiquity,Cilicia,Anatolia,Tarsus,Cyzicus,3
+Late.Antiquity,Cilicia,Anatolia,Tarsus,Heraclea,3
+Late.Antiquity,Cilicia,Balkans,Elaiussa Sebaste,Thessalonica,1
+Late.Antiquity,Cilicia,Balkans,Tarsus,Sirmium,2
+Late.Antiquity,Cilicia,Balkans,Tarsus,Siscia,1
+Late.Antiquity,Cilicia,Egypt,Elaiussa Sebaste,Alexandria,3
+Late.Antiquity,Cilicia,Egypt,Tarsus,Alexandria,2
+Late.Antiquity,Cilicia,Italy/Sicily,Elaiussa Sebaste,Ostia,1
+Late.Antiquity,Cilicia,Syria,Elaiussa Sebaste,Antioch,13
+Late.Antiquity,Cilicia,Syria,Elaiussa Sebaste,Antioch?,2
+Late.Antiquity,Cilicia,Syria,Tarsus,Antioch,9
+Late.Antiquity,Cilicia,West,Elaiussa Sebaste,Lugdunum,1
+Late.Antiquity,Cilicia,West,Elaiussa Sebaste,Trier,1
+Late.Antiquity,Cilicia,West,Tarsus,London,1
+Late.Antiquity,Cyprus,Anatolia,Kourion,Constantinople,61
+Late.Antiquity,Cyprus,Anatolia,Kourion,Cyzicus,66
+Late.Antiquity,Cyprus,Anatolia,Kourion,Heraclea,18
+Late.Antiquity,Cyprus,Anatolia,Kourion,Nicomedia,37
+Late.Antiquity,Cyprus,Anatolia,Paphos,Constantinople,3
+Late.Antiquity,Cyprus,Anatolia,Paphos,Cyzicus,4
+Late.Antiquity,Cyprus,Anatolia,Paphos,Heraclea,1
+Late.Antiquity,Cyprus,Anatolia,Paphos,Nicomedia,4
+Late.Antiquity,Cyprus,Balkans,Kourion,Siscia,7
+Late.Antiquity,Cyprus,Balkans,Kourion,Thessalonica,12
+Late.Antiquity,Cyprus,Balkans,Paphos,Thessalonica,1
+Late.Antiquity,Cyprus,Egypt,Kourion,Alexandria,67
+Late.Antiquity,Cyprus,Egypt,Paphos,Alexandria,1
+Late.Antiquity,Cyprus,Italy/Sicily,Kourion,Ostia,2
+Late.Antiquity,Cyprus,Italy/Sicily,Kourion,Rome,27
+Late.Antiquity,Cyprus,Syria,Kourion,Antioch,136
+Late.Antiquity,Cyprus,Syria,Paphos,Antioch,13
+Late.Antiquity,Cyprus,Syria,Paphos,Antioch?,1
+Late.Antiquity,Cyprus,West,Kourion,Arles,2
+Late.Antiquity,Cyprus,West,Kourion,Ticinum,1
+Late.Antiquity,Cyprus,West,Kourion,Treves,1
+Late.Antiquity,East,Anatolia,Tall She Hamad/Magdalu,Heraclea,1
+Late.Antiquity,East,East,Tall She Hamad/Magdalu,uncertain,1
+Late.Antiquity,East,Italy/Sicily,Ain Sinu,Rome,1
+Late.Antiquity,East,Syria,Dura Europos,uncertain,7
+Late.Antiquity,East,Syria,Tall She Hamad/Magdalu,Antioch,3
+Late.Antiquity,Egypt,Africa,Karanis,Carthage,3
+Late.Antiquity,Egypt,Anatolia,Alexandria,Constantinople,14
+Late.Antiquity,Egypt,Anatolia,Alexandria,Cyzicus,13
+Late.Antiquity,Egypt,Anatolia,Alexandria,Heraclea,4
+Late.Antiquity,Egypt,Anatolia,Alexandria,Nicomedia,12
+Late.Antiquity,Egypt,Anatolia,Alexandria,uncertain,1
+Late.Antiquity,Egypt,Anatolia,Karanis,Constantinople,119
+Late.Antiquity,Egypt,Anatolia,Karanis,Cyzicus,72
+Late.Antiquity,Egypt,Anatolia,Karanis,Heraclea,25
+Late.Antiquity,Egypt,Anatolia,Karanis,Nicomedia,42
+Late.Antiquity,Egypt,Balkans,Alexandria,Siscia,4
+Late.Antiquity,Egypt,Balkans,Alexandria,Thessalonica,8
+Late.Antiquity,Egypt,Balkans,Karanis,Siscia,11
+Late.Antiquity,Egypt,Balkans,Karanis,Thessalonica,22
+Late.Antiquity,Egypt,Balkans,Saqqara,Thessalonica,1
+Late.Antiquity,Egypt,Egypt,Alexandria,Alexandria,112
+Late.Antiquity,Egypt,Egypt,Karanis,Alexandria,13496
+Late.Antiquity,Egypt,Egypt,Saqqara,Alexandria,3
+Late.Antiquity,Egypt,Italy/Sicily,Alexandria,Aquilea,2
+Late.Antiquity,Egypt,Italy/Sicily,Alexandria,Aquileia,1
+Late.Antiquity,Egypt,Italy/Sicily,Alexandria,Rome,12
+Late.Antiquity,Egypt,Italy/Sicily,Alexandria,Rome?,1
+Late.Antiquity,Egypt,Italy/Sicily,Alexandria,uncertain,1
+Late.Antiquity,Egypt,Italy/Sicily,Karanis,Aquileia,16
+Late.Antiquity,Egypt,Italy/Sicily,Karanis,Rome,23
+Late.Antiquity,Egypt,Syria,Alexandria,Antioch,32
+Late.Antiquity,Egypt,Syria,Alexandria,Antioch?,1
+Late.Antiquity,Egypt,Syria,Alexandria,uncertain,1
+Late.Antiquity,Egypt,Syria,Karanis,Antioch,123
+Late.Antiquity,Egypt,Syria,Karanis,Tripolis,1
+Late.Antiquity,Egypt,Syria,Saqqara,Antioch?,1
+Late.Antiquity,Egypt,West,Alexandria,Arles,2
+Late.Antiquity,Egypt,West,Alexandria,London,1
+Late.Antiquity,Egypt,West,Alexandria,Lyon,3
+Late.Antiquity,Egypt,West,Alexandria,Ticinum,2
+Late.Antiquity,Egypt,West,Alexandria,Treves,3
+Late.Antiquity,Egypt,West,Karanis,Arles,14
+Late.Antiquity,Egypt,West,Karanis,London,1
+Late.Antiquity,Egypt,West,Karanis,Ticinum,5
+Late.Antiquity,Egypt,West,Karanis,Trier,1
+Late.Antiquity,Italy/Sicily,Africa,Minturnae,Carthage,1
+Late.Antiquity,Italy/Sicily,Africa,Ordona,Carthage,1
+Late.Antiquity,Italy/Sicily,Anatolia,Cosa,Constantinople,2
+Late.Antiquity,Italy/Sicily,Anatolia,Minturnae,Constantinople,4
+Late.Antiquity,Italy/Sicily,Anatolia,Minturnae,Cyzicus,13
+Late.Antiquity,Italy/Sicily,Anatolia,Minturnae,Nicomedia,1
+Late.Antiquity,Italy/Sicily,Anatolia,Ordona,Constantinople,1
+Late.Antiquity,Italy/Sicily,Anatolia,Ordona,Cyzicus,2
+Late.Antiquity,Italy/Sicily,Anatolia,Ordona,Nicomedia,1
+Late.Antiquity,Italy/Sicily,Anatolia,Ordona,uncertain,1
+Late.Antiquity,Italy/Sicily,Balkans,Minturnae,Siscia,3
+Late.Antiquity,Italy/Sicily,Balkans,Minturnae,Thessalonica,1
+Late.Antiquity,Italy/Sicily,Balkans,Ordona,Siscia,8
+Late.Antiquity,Italy/Sicily,Balkans,Ordona,Thessalonica,4
+Late.Antiquity,Italy/Sicily,Egypt,Minturnae,Alexandria,15
+Late.Antiquity,Italy/Sicily,Egypt,Ordona,Alexandria,3
+Late.Antiquity,Italy/Sicily,Italy/Sicily,Cosa,Aquileia,2
+Late.Antiquity,Italy/Sicily,Italy/Sicily,Cosa,Rome,26
+Late.Antiquity,Italy/Sicily,Italy/Sicily,Minturnae,Aquileia,1
+Late.Antiquity,Italy/Sicily,Italy/Sicily,Minturnae,Ostia,1
+Late.Antiquity,Italy/Sicily,Italy/Sicily,Minturnae,Rome,65
+Late.Antiquity,Italy/Sicily,Italy/Sicily,Ordona,Aquileia,3
+Late.Antiquity,Italy/Sicily,Italy/Sicily,Ordona,Rome,22
+Late.Antiquity,Italy/Sicily,Syria,Cosa,Antioch,2
+Late.Antiquity,Italy/Sicily,Syria,Ordona,Antioch,3
+Late.Antiquity,Italy/Sicily,West,Cosa,Arles,4
+Late.Antiquity,Italy/Sicily,West,Cosa,Ticinum,1
+Late.Antiquity,Italy/Sicily,West,Minturnae,Arles,2
+Late.Antiquity,Italy/Sicily,West,Minturnae,Ticinum,2
+Late.Antiquity,Italy/Sicily,West,Minturnae,Trier,4
+Late.Antiquity,Italy/Sicily,West,Ordona,Arles?,1
+Late.Antiquity,Italy/Sicily,West,Ordona,Ticinum,1
+Late.Antiquity,Italy/Sicily,West,Ordona,Treves,1
+Late.Antiquity,Southern Levant,Africa,Caesarea Maritima,Axumite Kings,8
+Late.Antiquity,Southern Levant,Africa,Caesarea Maritima,Carthage,4
+Late.Antiquity,Southern Levant,Anatolia,Caesarea Maritima,Constantinople,52
+Late.Antiquity,Southern Levant,Anatolia,Caesarea Maritima,Cyzicus,40
+Late.Antiquity,Southern Levant,Anatolia,Caesarea Maritima,Heraclea,14
+Late.Antiquity,Southern Levant,Anatolia,Caesarea Maritima,Nicomedia,25
+Late.Antiquity,Southern Levant,Anatolia,Horvat 'Eleq,Constantinople,1
+Late.Antiquity,Southern Levant,Anatolia,Horvat 'Eleq,Cyzicus,1
+Late.Antiquity,Southern Levant,Anatolia,Horvat 'Eleq,Heraclea,3
+Late.Antiquity,Southern Levant,Anatolia,Jaffa,Constantinople,12
+Late.Antiquity,Southern Levant,Anatolia,Jaffa,Cyzicus,7
+Late.Antiquity,Southern Levant,Anatolia,Jaffa,Heraclea,1
+Late.Antiquity,Southern Levant,Anatolia,Jaffa,Nicomedia,4
+Late.Antiquity,Southern Levant,Anatolia,Jerash,Constantinople,23
+Late.Antiquity,Southern Levant,Anatolia,Jerash,Cyzicus,32
+Late.Antiquity,Southern Levant,Anatolia,Jerash,Heraclea,7
+Late.Antiquity,Southern Levant,Anatolia,Jerash,Nicomedia,11
+Late.Antiquity,Southern Levant,Anatolia,Jerusalem,Cyzicus,1
+Late.Antiquity,Southern Levant,Anatolia,Nessana,Constantinople,2
+Late.Antiquity,Southern Levant,Anatolia,Paneas,Constantinople,7
+Late.Antiquity,Southern Levant,Anatolia,Paneas,Cyzicus,8
+Late.Antiquity,Southern Levant,Anatolia,Paneas,Nicomedia,9
+Late.Antiquity,Southern Levant,Anatolia,Pella,Constantinople,5
+Late.Antiquity,Southern Levant,Anatolia,Pella,Cyzicus,10
+Late.Antiquity,Southern Levant,Anatolia,Pella,Nicomedia,7
+Late.Antiquity,Southern Levant,Anatolia,Qiryat Sefer,Constantinople,1
+Late.Antiquity,Southern Levant,Anatolia,Qiryat Sefer,Cyzicus,2
+Late.Antiquity,Southern Levant,Anatolia,Qiryat Sefer,Heraclea,1
+Late.Antiquity,Southern Levant,Anatolia,Qiryat Sefer,Nicomedia,1
+Late.Antiquity,Southern Levant,Anatolia,Samaria,Constantinople,3
+Late.Antiquity,Southern Levant,Anatolia,Samaria,Cyzicus,2
+Late.Antiquity,Southern Levant,Anatolia,Samaria,Heraclea,1
+Late.Antiquity,Southern Levant,Anatolia,Tel Beth-Shean,Cyzicus,1
+Late.Antiquity,Southern Levant,Anatolia,Tel Jezreel,Constantinople,2
+Late.Antiquity,Southern Levant,Anatolia,Tel Jezreel,Constantinople?,2
+Late.Antiquity,Southern Levant,Anatolia,Tel Jezreel,Cyzicus,1
+Late.Antiquity,Southern Levant,Balkans,Caesarea Maritima,Sirmium,1
+Late.Antiquity,Southern Levant,Balkans,Caesarea Maritima,Siscia,6
+Late.Antiquity,Southern Levant,Balkans,Caesarea Maritima,Thessalonica,13
+Late.Antiquity,Southern Levant,Balkans,Horvat 'Eleq,Thessalonica,1
+Late.Antiquity,Southern Levant,Balkans,Jaffa,Siscia,1
+Late.Antiquity,Southern Levant,Balkans,Jaffa,Thessalonica,8
+Late.Antiquity,Southern Levant,Balkans,Jerash,Siscia,1
+Late.Antiquity,Southern Levant,Balkans,Jerash,Thessalonica,16
+Late.Antiquity,Southern Levant,Balkans,Paneas,Thessalonica,2
+Late.Antiquity,Southern Levant,Balkans,Pella,Siscia,3
+Late.Antiquity,Southern Levant,Balkans,Pella,Thessalonica,9
+Late.Antiquity,Southern Levant,Balkans,Samaria,Serdica,1
+Late.Antiquity,Southern Levant,Balkans,Samaria,Thessalonica,1
+Late.Antiquity,Southern Levant,Balkans,Tel Jezreel,Siscia,2
+Late.Antiquity,Southern Levant,East,Tel Jezreel,uncertain,2
+Late.Antiquity,Southern Levant,Egypt,Caesarea Maritima,Alexandria,58
+Late.Antiquity,Southern Levant,Egypt,Jaffa,Alexandria,4
+Late.Antiquity,Southern Levant,Egypt,Jerash,Alexandria,27
+Late.Antiquity,Southern Levant,Egypt,Masada,Alexandria,1
+Late.Antiquity,Southern Levant,Egypt,Nessana,Alexandria,1
+Late.Antiquity,Southern Levant,Egypt,Paneas,Alexandria,4
+Late.Antiquity,Southern Levant,Egypt,Pella,Alexandria,13
+Late.Antiquity,Southern Levant,Egypt,Qiryat Sefer,Alexandria,2
+Late.Antiquity,Southern Levant,Egypt,Samaria,Alexandria,6
+Late.Antiquity,Southern Levant,Egypt,Tel Jezreel,Alexandria?,2
+Late.Antiquity,Southern Levant,Italy/Sicily,Caesarea Maritima,Aquileia,10
+Late.Antiquity,Southern Levant,Italy/Sicily,Caesarea Maritima,Rome,37
+Late.Antiquity,Southern Levant,Italy/Sicily,Caesarea Maritima,Rome?,1
+Late.Antiquity,Southern Levant,Italy/Sicily,Jaffa,Aquilea,3
+Late.Antiquity,Southern Levant,Italy/Sicily,Jaffa,Rome,1
+Late.Antiquity,Southern Levant,Italy/Sicily,Jerash,Aquileia,4
+Late.Antiquity,Southern Levant,Italy/Sicily,Jerash,Rome,24
+Late.Antiquity,Southern Levant,Italy/Sicily,Jerash,Ticinum,1
+Late.Antiquity,Southern Levant,Italy/Sicily,Nessana,Rome,1
+Late.Antiquity,Southern Levant,Italy/Sicily,Paneas,Aquileia,1
+Late.Antiquity,Southern Levant,Italy/Sicily,Paneas,Rome,4
+Late.Antiquity,Southern Levant,Italy/Sicily,Pella,Aquileia,1
+Late.Antiquity,Southern Levant,Italy/Sicily,Pella,Rome,10
+Late.Antiquity,Southern Levant,Italy/Sicily,Qiryat Sefer,Aquilea,1
+Late.Antiquity,Southern Levant,Italy/Sicily,Qiryat Sefer,Rome,1
+Late.Antiquity,Southern Levant,Italy/Sicily,Samaria,Rome,1
+Late.Antiquity,Southern Levant,Italy/Sicily,Tel Jezreel,Rome?,2
+Late.Antiquity,Southern Levant,Southern Levant,Paneas,Caesarea Paneas (Phillipi),1
+Late.Antiquity,Southern Levant,Syria,Caesarea Maritima,Antioch,122
+Late.Antiquity,Southern Levant,Syria,Caesarea Maritima,Tyre,5
+Late.Antiquity,Southern Levant,Syria,Horvat 'Eleq,Antioch,2
+Late.Antiquity,Southern Levant,Syria,Jaffa,Antioch,15
+Late.Antiquity,Southern Levant,Syria,Jerash,Antioch,103
+Late.Antiquity,Southern Levant,Syria,Nessana,Antioch,2
+Late.Antiquity,Southern Levant,Syria,Paneas,Antioch,24
+Late.Antiquity,Southern Levant,Syria,Paneas,Antioch?,4
+Late.Antiquity,Southern Levant,Syria,Pella,Antioch,49
+Late.Antiquity,Southern Levant,Syria,Qiryat Sefer,Antioch,8
+Late.Antiquity,Southern Levant,Syria,Samaria,Antioch,16
+Late.Antiquity,Southern Levant,Syria,Tel Beth-Shean,Antioch,2
+Late.Antiquity,Southern Levant,Syria,Tel Jezreel,Antioch,2
+Late.Antiquity,Southern Levant,West,Bethsaida,Arles,1
+Late.Antiquity,Southern Levant,West,Caesarea Maritima,Arles,7
+Late.Antiquity,Southern Levant,West,Caesarea Maritima,Lyon,1
+Late.Antiquity,Southern Levant,West,Caesarea Maritima,Lyon?,1
+Late.Antiquity,Southern Levant,West,Caesarea Maritima,Ticinum,1
+Late.Antiquity,Southern Levant,West,Caesarea Maritima,uncertain,1
+Late.Antiquity,Southern Levant,West,Jerash,Arles,1
+Late.Antiquity,Southern Levant,West,Jerash,Lugdunum,1
+Late.Antiquity,Southern Levant,West,Paneas,Arles,2
+Late.Antiquity,Southern Levant,West,Paneas,Ticinum,2
+Late.Antiquity,Southern Levant,West,Pella,Arles,3
+Late.Antiquity,Southern Levant,West,Pella,Lyons,1
+Late.Antiquity,Southern Levant,West,Pella,Ticinum,1
+Late.Antiquity,Southern Levant,West,Qiryat Sefer,Arles?,1
+Late.Antiquity,Southern Levant,West,Qiryat Sefer,Lyon,2
+Late.Antiquity,Southern Levant,West,Qiryat Sefer,Trier,1
+Late.Antiquity,Southern Levant,West,Samaria,Lugdunum,1
+Late.Antiquity,Southern Levant,West,Tel Anafa,Lugdunum,1
+Late.Antiquity,Southern Levant,West,Tel Jezreel,uncertain,1
+Late.Antiquity,Syria,Anatolia,Antioch,Panticapaeum (Bosporus),1
+Late.Antiquity,Syria,Anatolia,Antioch/Seleucia,Constantinople,176
+Late.Antiquity,Syria,Anatolia,Antioch/Seleucia,Cyzicus,264
+Late.Antiquity,Syria,Anatolia,Antioch/Seleucia,Heraclea,61
+Late.Antiquity,Syria,Anatolia,Antioch/Seleucia,Nicomedia,142
+Late.Antiquity,Syria,Anatolia,Antioch/Seleucia,uncertain,12
+Late.Antiquity,Syria,Anatolia,Apamea,Constantinople,14
+Late.Antiquity,Syria,Anatolia,Apamea,Cyzicus,12
+Late.Antiquity,Syria,Anatolia,Apamea,Heraclea,2
+Late.Antiquity,Syria,Anatolia,Apamea,Nicomedia,16
+Late.Antiquity,Syria,Anatolia,Arsameia,Cyzicus,1
+Late.Antiquity,Syria,Anatolia,Arsameia,Heraclea,1
+Late.Antiquity,Syria,Anatolia,Berytus,Constantinople,44
+Late.Antiquity,Syria,Anatolia,Berytus,Cyzicus,57
+Late.Antiquity,Syria,Anatolia,Berytus,Heraclea,20
+Late.Antiquity,Syria,Anatolia,Berytus,Nicomedia,28
+Late.Antiquity,Syria,Anatolia,Berytus,uncertain,4
+Late.Antiquity,Syria,Anatolia,Gindaros,Heraclea,1
+Late.Antiquity,Syria,Anatolia,Hama,Constantinople,6
+Late.Antiquity,Syria,Anatolia,Hama,Cyzicus,10
+Late.Antiquity,Syria,Anatolia,Hama,Heraclea,3
+Late.Antiquity,Syria,Anatolia,Hama,Nicomedia,2
+Late.Antiquity,Syria,Anatolia,Jebel Khallid,Cyzicus,1
+Late.Antiquity,Syria,Anatolia,Oumm El'Marra,Cyzicus,1
+Late.Antiquity,Syria,Anatolia,Oumm El'Marra,Nicomedia,1
+Late.Antiquity,Syria,Anatolia,Palmyra,Constantinople,7
+Late.Antiquity,Syria,Anatolia,Palmyra,Cyzicus,11
+Late.Antiquity,Syria,Anatolia,Palmyra,Cyzicus?,1
+Late.Antiquity,Syria,Anatolia,Palmyra,Heraclea,4
+Late.Antiquity,Syria,Anatolia,Palmyra,Nicomedia,3
+Late.Antiquity,Syria,Anatolia,Tell el Hajj,Constantinople,3
+Late.Antiquity,Syria,Anatolia,Tell Rifa'at,Constantinople,1
+Late.Antiquity,Syria,Anatolia,Tell Rifa'at,Cyzicus,3
+Late.Antiquity,Syria,Anatolia,Tille,Constantinople,1
+Late.Antiquity,Syria,Anatolia,Tyre,Constantinople,2
+Late.Antiquity,Syria,Anatolia,Tyre,Cyzicus,1
+Late.Antiquity,Syria,Anatolia,Tyre,Cyzicus?,1
+Late.Antiquity,Syria,Anatolia,Tyre,Nicomedia,1
+Late.Antiquity,Syria,Anatolia,Zeugma,Byzantium,2
+Late.Antiquity,Syria,Anatolia,Zeugma,Nicomedia,1
+Late.Antiquity,Syria,Balkans,Antioch/Seleucia,Siscia,17
+Late.Antiquity,Syria,Balkans,Antioch/Seleucia,Thessalonica,46
+Late.Antiquity,Syria,Balkans,Apamea,Siscia,2
+Late.Antiquity,Syria,Balkans,Apamea,Siscia?,1
+Late.Antiquity,Syria,Balkans,Apamea,Thessalonica,3
+Late.Antiquity,Syria,Balkans,Arsameia,Siscia,1
+Late.Antiquity,Syria,Balkans,Berytus,Sirmium?,1
+Late.Antiquity,Syria,Balkans,Berytus,Siscia,5
+Late.Antiquity,Syria,Balkans,Berytus,Thessalonica,18
+Late.Antiquity,Syria,Balkans,Hama,Siscia,5
+Late.Antiquity,Syria,Balkans,Hama,Thessalonica,2
+Late.Antiquity,Syria,Balkans,Palmyra,Sirmium,1
+Late.Antiquity,Syria,Balkans,Palmyra,Siscia,3
+Late.Antiquity,Syria,Balkans,Palmyra,Thessalonica,5
+Late.Antiquity,Syria,Balkans,Tell Rifa'at,Thessalonica,1
+Late.Antiquity,Syria,Balkans,Tille,Thessalonica,1
+Late.Antiquity,Syria,Balkans,Tyre,Thessalonica,1
+Late.Antiquity,Syria,Cilicia,Antioch,Tarsus,2
+Late.Antiquity,Syria,East,Gindaros,uncertain,1
+Late.Antiquity,Syria,East,Tell Rifa'at,uncertain,1
+Late.Antiquity,Syria,Egypt,Antioch/Seleucia,Alexandria,110
+Late.Antiquity,Syria,Egypt,Apamea,Alexandria,16
+Late.Antiquity,Syria,Egypt,Apamea,Alexandria?,1
+Late.Antiquity,Syria,Egypt,Berytus,Alexandria,61
+Late.Antiquity,Syria,Egypt,Gindaros,Alexandria,1
+Late.Antiquity,Syria,Egypt,Hama,Alexandria,8
+Late.Antiquity,Syria,Egypt,Palmyra,Alexandria,6
+Late.Antiquity,Syria,Egypt,Tell Rifa'at,Alexandria,2
+Late.Antiquity,Syria,Italy/Sicily,Antioch/Seleucia,Aquileia,10
+Late.Antiquity,Syria,Italy/Sicily,Antioch/Seleucia,Rome,88
+Late.Antiquity,Syria,Italy/Sicily,Antioch/Seleucia,uncertain,1
+Late.Antiquity,Syria,Italy/Sicily,Apamea,Rome,5
+Late.Antiquity,Syria,Italy/Sicily,Apamea,Ticinum,1
+Late.Antiquity,Syria,Italy/Sicily,Berytus,Aquileia,2
+Late.Antiquity,Syria,Italy/Sicily,Berytus,Aquileia?,1
+Late.Antiquity,Syria,Italy/Sicily,Berytus,Rome,29
+Late.Antiquity,Syria,Italy/Sicily,Hama,Rome,4
+Late.Antiquity,Syria,Italy/Sicily,Hama,Ticinium,2
+Late.Antiquity,Syria,Italy/Sicily,Palmyra,Rome,3
+Late.Antiquity,Syria,Italy/Sicily,Palmyra,Rome?,1
+Late.Antiquity,Syria,Italy/Sicily,Zeugma,Rome,1
+Late.Antiquity,Syria,Syria,Antioch/Seleucia,Antioch,1980
+Late.Antiquity,Syria,Syria,Apamea,Antioch,317
+Late.Antiquity,Syria,Syria,Apamea,Antioch?,3
+Late.Antiquity,Syria,Syria,Berytus,Antioch,204
+Late.Antiquity,Syria,Syria,Berytus,Antioch?,1
+Late.Antiquity,Syria,Syria,Berytus,Tripolis,1
+Late.Antiquity,Syria,Syria,Gindaros,Antioch,13
+Late.Antiquity,Syria,Syria,Gindaros,Antioch?,1
+Late.Antiquity,Syria,Syria,Hama,Antioch,63
+Late.Antiquity,Syria,Syria,Hama,Emesa,1
+Late.Antiquity,Syria,Syria,Jebel Khallid,Antioch,5
+Late.Antiquity,Syria,Syria,Palmyra,Antioch,38
+Late.Antiquity,Syria,Syria,Palmyra,Damascus,1
+Late.Antiquity,Syria,Syria,Perrhe,Antioch,16
+Late.Antiquity,Syria,Syria,Ras Shamra,Antioch,4
+Late.Antiquity,Syria,Syria,Seleucia Pieria,Canatha,1
+Late.Antiquity,Syria,Syria,Tell el Hajj,Antioch,3
+Late.Antiquity,Syria,Syria,Tell Rifa'at,Antioch,14
+Late.Antiquity,Syria,Syria,Tille,Antioch,4
+Late.Antiquity,Syria,Syria,Tyre,Antioch,7
+Late.Antiquity,Syria,Syria,Tyre,Tyre,4
+Late.Antiquity,Syria,Syria,Zeugma,Antioch,6
+Late.Antiquity,Syria,West,Antioch/Seleucia,Arles,14
+Late.Antiquity,Syria,West,Antioch/Seleucia,Lyons,6
+Late.Antiquity,Syria,West,Antioch/Seleucia,Tarragona,8
+Late.Antiquity,Syria,West,Antioch/Seleucia,Treves,15
+Late.Antiquity,Syria,West,Berytus,Arelate,6
+Late.Antiquity,Syria,West,Berytus,Lugdunum,1
+Late.Antiquity,Syria,West,Berytus,Treves,2
+Late.Antiquity,Syria,West,Hama,Trier,2
+Late.Antiquity,Syria,West,Palmyra,Arles,1
+Late.Antiquity,West,Africa,Conimbriga,Carthage,1
+Late.Antiquity,West,Africa,Idanha-a-Velha,Carthage,2
+Late.Antiquity,West,Anatolia,Bath,Constantinople,4
+Late.Antiquity,West,Anatolia,Bath,Cyzicus,4
+Late.Antiquity,West,Anatolia,Bath,Heraclea,2
+Late.Antiquity,West,Anatolia,Bath,Nicomedia,2
+Late.Antiquity,West,Anatolia,Conimbriga,Constantinople,118
+Late.Antiquity,West,Anatolia,Conimbriga,Cyzicus,120
+Late.Antiquity,West,Anatolia,Conimbriga,Heraclea,30
+Late.Antiquity,West,Anatolia,Conimbriga,Nicomedia,54
+Late.Antiquity,West,Anatolia,Conimbriga,uncertain,6
+Late.Antiquity,West,Anatolia,Idanha-a-Velha,Antioch (Pisidia),1
+Late.Antiquity,West,Anatolia,Idanha-a-Velha,Constantinople,17
+Late.Antiquity,West,Anatolia,Idanha-a-Velha,Cyzicus,12
+Late.Antiquity,West,Anatolia,Idanha-a-Velha,Heraclea,5
+Late.Antiquity,West,Anatolia,Idanha-a-Velha,Nicomedia,10
+Late.Antiquity,West,Anatolia,Segobriga,Constantinople,3
+Late.Antiquity,West,Anatolia,Segobriga,Cyzicus,6
+Late.Antiquity,West,Anatolia,Segobriga,Heraclea,5
+Late.Antiquity,West,Anatolia,Silchester,Constantinople,3
+Late.Antiquity,West,Balkans,Bath,Siscia,17
+Late.Antiquity,West,Balkans,Bath,Thessalonica,5
+Late.Antiquity,West,Balkans,Conimbriga,Sirmium,5
+Late.Antiquity,West,Balkans,Conimbriga,Siscia,39
+Late.Antiquity,West,Balkans,Conimbriga,Thessalonica,48
+Late.Antiquity,West,Balkans,Idanha-a-Velha,Sirmium,1
+Late.Antiquity,West,Balkans,Idanha-a-Velha,Siscia,4
+Late.Antiquity,West,Balkans,Idanha-a-Velha,Thessalonica,6
+Late.Antiquity,West,Balkans,Segobriga,Siscia,1
+Late.Antiquity,West,Balkans,Segobriga,Thessalonica,3
+Late.Antiquity,West,Balkans,Silchester,Siscia,1
+Late.Antiquity,West,Egypt,Bath,Alexandria,1
+Late.Antiquity,West,Egypt,Conimbriga,Alexandria,12
+Late.Antiquity,West,Egypt,Idanha-a-Velha,Alexandria,4
+Late.Antiquity,West,Egypt,Segobriga,Alexandria,2
+Late.Antiquity,West,Italy/Sicily,Bath,Aquileia,20
+Late.Antiquity,West,Italy/Sicily,Bath,Ostia,3
+Late.Antiquity,West,Italy/Sicily,Bath,Rome,28
+Late.Antiquity,West,Italy/Sicily,Conimbriga,Aquileia,60
+Late.Antiquity,West,Italy/Sicily,Conimbriga,Milan,1
+Late.Antiquity,West,Italy/Sicily,Conimbriga,Ostia,1
+Late.Antiquity,West,Italy/Sicily,Conimbriga,Ravenna,1
+Late.Antiquity,West,Italy/Sicily,Conimbriga,Rome,410
+Late.Antiquity,West,Italy/Sicily,Conimbriga,uncertain,1
+Late.Antiquity,West,Italy/Sicily,Idanha-a-Velha,Aquileia,4
+Late.Antiquity,West,Italy/Sicily,Idanha-a-Velha,Ostia,2
+Late.Antiquity,West,Italy/Sicily,Idanha-a-Velha,Rome,45
+Late.Antiquity,West,Italy/Sicily,Segobriga,Aquilea,6
+Late.Antiquity,West,Italy/Sicily,Segobriga,Rome,10
+Late.Antiquity,West,Italy/Sicily,Silchester,Aquileia,7
+Late.Antiquity,West,Italy/Sicily,Silchester,Rome,7
+Late.Antiquity,West,Syria,Conimbriga,Antioch,56
+Late.Antiquity,West,Syria,Idanha-a-Velha,Antioch,7
+Late.Antiquity,West,Syria,Segobriga,Antioch,3
+Late.Antiquity,West,West,Bath,Amiens,15
+Late.Antiquity,West,West,Bath,Arles,132
+Late.Antiquity,West,West,Bath,Camulodunum,20
+Late.Antiquity,West,West,Bath,London,186
+Late.Antiquity,West,West,Bath,Lugdunum,32
+Late.Antiquity,West,West,Bath,Lyons,131
+Late.Antiquity,West,West,Bath,Rotomagus,1
+Late.Antiquity,West,West,Bath,Ticinum,3
+Late.Antiquity,West,West,Bath,Treves,883
+Late.Antiquity,West,West,Conimbriga,Amiens,2
+Late.Antiquity,West,West,Conimbriga,Arles,384
+Late.Antiquity,West,West,Conimbriga,London,5
+Late.Antiquity,West,West,Conimbriga,Lyon,148
+Late.Antiquity,West,West,Conimbriga,Ticinum,5
+Late.Antiquity,West,West,Conimbriga,Treves,124
+Late.Antiquity,West,West,Haltonchesters,London,3
+Late.Antiquity,West,West,Haltonchesters,Trier,3
+Late.Antiquity,West,West,Idanha-a-Velha,Ambianum,1
+Late.Antiquity,West,West,Idanha-a-Velha,Arles,38
+Late.Antiquity,West,West,Idanha-a-Velha,London,1
+Late.Antiquity,West,West,Idanha-a-Velha,Lugdunum,18
+Late.Antiquity,West,West,Idanha-a-Velha,Ticinum,5
+Late.Antiquity,West,West,Idanha-a-Velha,Trier,16
+Late.Antiquity,West,West,Segobriga,Arles,15
+Late.Antiquity,West,West,Segobriga,Londinium,1
+Late.Antiquity,West,West,Segobriga,Lugdunum,4
+Late.Antiquity,West,West,Segobriga,Trier,2
+Late.Antiquity,West,West,Silchester,Arles,40
+Late.Antiquity,West,West,Silchester,London,10
+Late.Antiquity,West,West,Silchester,Lyons,29
+Late.Antiquity,West,West,Silchester,Ticinum,1
+Late.Antiquity,West,West,Silchester,Trier,79
