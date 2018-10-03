@@ -666,9 +666,11 @@
 
 
     var colors = d3.scale.category10().domain(data.regions);
+    console.log(colors)
     if (config.layout.colors) {
       colors.range(config.layout.colors);
     }
+    console.log(colors)
 
     function arcColor(d) {
       if (d.region === d.id) {
@@ -809,7 +811,7 @@
       .append('g')
         .attr('class', 'info')
         .attr('opacity', 0);
-    
+
     info.append('rect')
       .style('filter', 'url(#dropshadow)');
     info.append('g').attr('class', 'text');
@@ -958,7 +960,7 @@
     }
 
     // Transition countries to region:
-    // Use first country's start angle and last countries end angle. 
+    // Use first country's start angle and last countries end angle.
     function meltPreviousGroupArc(d) {
       if (d.id !== d.region) {
         return;
@@ -986,7 +988,7 @@
       if (d.source.id !== d.source.region) {
         return;
       }
-      
+
       var c = {
         source: {},
         target: {}
@@ -1004,7 +1006,7 @@
               c.source.endAngle = chord.source.endAngle;
             }
           }
-          
+
           if (chord.target.region === d.target.id) {
             if (!c.target.startAngle || chord.target.startAngle < c.target.startAngle) {
               c.target.startAngle = chord.target.startAngle;
@@ -1015,7 +1017,7 @@
           }
         });
       });
-      
+
       c.source.startAngle = c.source.startAngle || 0;
       c.source.endAngle = c.source.endAngle || aLittleBit;
       c.target.startAngle = c.target.startAngle || 0;
@@ -1056,7 +1058,7 @@
           });
         });
       group.exit().remove();
-      
+
       // group arc
       var groupPath = group.selectAll('.group-arc')
         .data(function(d) { return [d]; });
@@ -1097,7 +1099,7 @@
           draw(year, countries);
         });
 
-      
+
       // text label group
       var groupTextGroup = element.selectAll('.label')
         .data(layout.groups, function(d) { return d.id; });
@@ -1148,10 +1150,10 @@
         .classed('region', function(d) {
           return d.id === d.region;
         })
-        .text(function(d) { 
+        .text(function(d) {
           if (d.id !== d.region) {
             return data.names[d.id];
-          } 
+          }
         })
         .attr('transform', function(d) {
           if (d.id !== d.region) {
@@ -1188,11 +1190,11 @@
           var i = d3.interpolate(previous.groups[d.id] || previous.groups[d.region] || meltPreviousGroupArc(d) || config.initialAngle.arc, d);
           if (d.angle.mod(2*π) > π/2 && d.angle.mod(2*π) < π*3/2) {
             return function (t) {
-              return textPathArc2(i(t)); 
+              return textPathArc2(i(t));
             };
           } else {
             return function (t) {
-              return textPathArc(i(t)); 
+              return textPathArc(i(t));
             };
           }
         });
