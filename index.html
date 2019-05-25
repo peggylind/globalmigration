@@ -14,14 +14,14 @@
 <body>
   <div id=container class="container">
 
-    <div class="social-wrap">
+    <!-- <div class="social-wrap">
       <div class="social">
         <div class="fb-like" data-send="false" data-layout="button_count" data-width="90px" data-show-faces="false" data-font="lucida grande"></div>
         <div id="plusone-div"></div>
         <a href="https://twitter.com/share" class="twitter-share-button" data-text="The Flow of Ancient Coins"></a>
         <div class="clear"></div>
       </div>
-    </div>
+    </div> -->
 
   	<header role="banner">
 			<div class="badge">
@@ -148,10 +148,10 @@
           <img src="images/help.png" class="left">
           <p>
             Origins and destinations are represented by the circle’s segments.
-            Each region/country is assigned a colour.
+            Each region/city is assigned a colour.
             Flows have the same colour as their origin and the width indicates their size.
-            The direction of the flow is also shown by the gap between flow and country/region: small gap indicates origin; large gap indicates destination.
-            <b>Click on a segment to switch between country and region view.</b>
+            The direction of the flow is also shown by the gap between flow and country/city: small gap indicates origin; large gap indicates destination.
+            <b>Click on a segment to switch between city and region view.</b>
           </p>
 
           <p>
@@ -206,7 +206,7 @@
           layout: {
             alpha: 0,
             threshold: 1,
-            labelThreshold: 1,
+            labelThreshold: 1000,
             colors: 'cd3d08 ec8f00 6dae29 683f92 b60275 2058a5 00a592 009d3c 378974 ffca00 efeb0b ed0418 280eed'.split(' ').map(function(c) { return '#' + c; })
           }
         });
